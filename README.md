@@ -16,6 +16,7 @@
 | Leveling 3-Links         | BBB, BBG                                  | BBG                           | 2 x BBG                       |
 | Leveling 4-Link          | BBBB                                      | RRRB                          | BBBG                          |
 | Mapping Links            | BBBB                                      | -                             | BBBB                          |
+| End Game                 | Penance Brand                             | 10+ Auras                     | 6 Hexes                       |
 | Respec Criteria          | Holy Conquest, Call of the Brotherhood(?) | -                             | 4 Curses                      |
 | Points to Respec         | 16                                        | 16                            | 18                            |
 | Regrets (~18 from story) | 0                                         | 0                             | 0                             |
