@@ -10,6 +10,7 @@
 
 | Player                   | Mark                                      | David                         | Nick                          |
 | ------------------------ | ----------------------------------------- | ----------------------------- | ----------------------------- |
+| Loot Split               | 1 share                                   | 1 share                       | 1 share                       |
 | Role                     | Carry                                     | Aura Support                  | Curse Support                 |
 | Class                    | Shadow                                    | Scion                         | Witch                         |
 | Leveling                 | Storm Brand                               | Lightning Trap                | Cremation                     |
