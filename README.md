@@ -32,5 +32,6 @@
 
 ## Wiki
 
+- [3-Person Story Route](https://github.com/nick-ng/poe-map-team/wiki/3-Person-Story-Route)
 - [Searches](https://github.com/nick-ng/poe-map-team/wiki/Searches)
 - [Mapping](https://github.com/nick-ng/poe-map-team/wiki/Mapping)
