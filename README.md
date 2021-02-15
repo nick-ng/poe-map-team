@@ -23,6 +23,7 @@
 | Regrets (~18 from story) | 0                                         | 0                             | 0                             |
 | Misc                     |                                           |                               |                               |
 | Path of Building         | https://pastebin.com/P3Zbe3mU             | https://pastebin.com/77UY29cs | https://pastebin.com/WnJJsYQK |
+| Leveling Tree | WIP | [Lightning Trap](https://www.pathofexile.com/fullscreen-passive-skill-tree/3.13.1/AAAABAABARmKGo8b4B2DHaotqC9vMFtGcUtXV9hfsG-ecLt_xoMJkA2TJ5u1rJexkLQMt9a-isDjwcXDOspKytPVLta-2RPbWeGI6NXsGPGz9tr7Cf5J) | WIP |
 
 ## Notes
 
