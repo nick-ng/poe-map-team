@@ -8,23 +8,22 @@
 
 ## Roles
 
-| Player                   | Mark                                      | David                                    | Nick                                    |
-| ------------------------ | ----------------------------------------- | ---------------------------------------- | --------------------------------------- |
-| Loot Split               | 1 share                                   | 1 share                                  | 1 share                                 |
-| Role                     | Carry                                     | Aura Support                             | Curse Support                           |
-| Class                    | Shadow                                    | Scion                                    | Witch                                   |
-| Leveling                 | Storm Brand                               | Lightning Trap                           | Cremation                               |
-| Leveling 3-Links         | BBB, BBG                                  | BBG                                      | BBG, BGG                                |
-| Leveling 4-Link          | BBBB                                      | RRRB                                     | BBBG                                    |
-| Other Leveling Stuff     | 2 x Lightning wand craft                  | Generosity                               | 2 x fire wand craft                     |
-| End Game                 | Penance Brand                             | 10+ Auras                                | 6 Hexes                                 |
-| Respec Criteria          | Holy Conquest, Call of the Brotherhood(?) | -                                        | 4 Curses                                |
-| Points to Respec         | 16                                        | 16                                       | 18                                      |
-| Regrets (~18 from story) | 0                                         | 0                                        | 0                                       |
-| Misc                     |                                           |                                          |                                         |
-| Path of Building         | https://pastebin.com/P3Zbe3mU             | https://pastebin.com/77UY29cs            | https://pastebin.com/WnJJsYQK           |
-| Leveling Tree            | [Storm Brand](http://poeurl.com/db2R)     | [Lightning Trap](http://poeurl.com/db2U) | [Cremation](http://poeurl.com/db22)     |
-| Final Tree               | []()                                      | []()                                     | [Curse Support](http://poeurl.com/db23) |
+| Player                   | Mark                                      | David                                    | Jac                                    | Nick |
+| ------------------------ | ----------------------------------------- | ---------------------------------------- | --------------------------------------- | --- |
+| Loot Split               | 1 share                                   | 1 share                                  | 1 share                                 | 1 share |
+| Role                     | Carry                                     | Aura Support                             | Curse Support                           | ES Support |
+| Class                    | Shadow                                    | Scion                                    | Witch                                   | Templar |
+| Leveling                 | Storm Brand                               | Lightning Trap                           | EK                               | Totems |
+| Leveling 3-Links         | BBB, BBG                                  | BBG                                      | ???                                | ??? |
+| Leveling 4-Link          | BBBB                                      | RRRB                                     | ???                                    | ??? |
+| Other Leveling Stuff     | 2 x light. craft                  | Generosity                               | 2 x light. craft                     | 2 x fire craft |
+| End Game                 | Penance Brand                             | 10+ Auras                                | 6 Hexes                                 | ES Support |
+| Respec Criteria          | Holy Conquest, Call of the Brotherhood(?) | -                                        | 4 Curses                                | 6 Stalwart Commander |
+| Points to Respec         | 16                                        | 16                                       | 18                                      | ??? |
+| Regrets (~18 from story) | 0                                         | 0                                        | 0                                       | ??? |
+| Path of Building         | [Penance Brand](https://pastebin.com/P3Zbe3mU)             | [Auras](https://pastebin.com/77UY29cs)            | [Curses](https://pastebin.com/WnJJsYQK)           | ??? |
+| Leveling Tree            | [Storm Brand](http://poeurl.com/db2R)     | [Lightning Trap](http://poeurl.com/db2U) | [Cremation](http://poeurl.com/db22)     | ??? |
+| Final Tree               | []()                                      | []()                                     | [Curse Support](http://poeurl.com/db23) | ??? |
 
 ## Notes
 
