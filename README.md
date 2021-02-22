@@ -8,22 +8,22 @@
 
 ## Roles
 
-| Player                   | Mark                                      | David                                    | Jac                                    | Nick |
-| ------------------------ | ----------------------------------------- | ---------------------------------------- | --------------------------------------- | --- |
-| Loot Split               | 1 share                                   | 1 share                                  | 1 share                                 | 1 share |
-| Role                     | Carry                                     | Aura Support                             | Curse Support                           | ES Support |
-| Class                    | Shadow                                    | Scion                                    | Witch                                   | Templar |
-| Leveling                 | Storm Brand                               | Lightning Trap                           | EK                               | Totems |
-| Leveling 3-Links         | BBB, BBG                                  | BBG                                      | ???                                | ??? |
-| Leveling 4-Link          | BBBB                                      | RRRB                                     | ???                                    | ??? |
-| Other Leveling Stuff     | 2 x light. craft                  | Generosity                               | 2 x light. craft                     | 2 x fire craft |
-| End Game                 | Penance Brand                             | 10+ Auras                                | 6 Hexes                                 | ES Support |
-| Respec Criteria          | Holy Conquest, Call of the Brotherhood(?) | -                                        | 4 Curses                                | 6 Stalwart Commander |
-| Points to Respec         | 16                                        | 16                                       | 18                                      | ??? |
-| Regrets (~18 from story) | 0                                         | 0                                        | 0                                       | ??? |
-| Path of Building         | [Penance Brand](https://pastebin.com/P3Zbe3mU)             | [Auras](https://pastebin.com/77UY29cs)            | [Curses](https://pastebin.com/WnJJsYQK)           | ??? |
-| Leveling Tree            | [Storm Brand](http://poeurl.com/db2R)     | [Lightning Trap](http://poeurl.com/db2U) | [Cremation](http://poeurl.com/db22)     | ??? |
-| Final Tree               | []()                                      | []()                                     | [Curse Support](http://poeurl.com/db23) | ??? |
+| Player                   | Mark                                           | David                                    | Jac                                     | Nick                                |
+| ------------------------ | ---------------------------------------------- | ---------------------------------------- | --------------------------------------- | ----------------------------------- |
+| Loot Split               | 1 share                                        | 1 share                                  | 1 share                                 | 1 share                             |
+| Role                     | Carry                                          | Aura Support                             | Curse Support                           | ES Support                          |
+| Class                    | Shadow                                         | Scion                                    | Witch                                   | Templar                             |
+| Leveling                 | Storm Brand                                    | Lightning Trap                           | Freezing Pulse                          | Totems                              |
+| Leveling 3-Links         | BBB, BBG                                       | BBG                                      | ???                                     | ???                                 |
+| Leveling 4-Link          | BBBB                                           | RRRB                                     | ???                                     | ???                                 |
+| Other Leveling Stuff     | 2 x light. craft                               | Generosity                               | 2 x cold craft                          | 2 x fire craft                      |
+| End Game                 | Penance Brand                                  | 10+ Auras                                | 6 Hexes                                 | ES Support                          |
+| Respec Criteria          | Holy Conquest                                  | 4-Link                                   | 100+ Atlas Bonus                        | 6 Stalwart Commander                |
+| Points to Respec         | 16                                             | 26                                       | 31                                      | 122(!)                              |
+| Regrets (~18 from story) | 0                                              | 8                                        | 13                                      | 104                                 |
+| Path of Building         | [Penance Brand](https://pastebin.com/kHpNSBHs) | [Auras](https://pastebin.com/xFxGNVEg)   | [Curses](https://pastebin.com/wf2dTcd8) | [ES](https://pastebin.com/uZCkVLcG) |
+| Leveling Tree            | [Storm Brand](http://poeurl.com/dcCJ)          | [Lightning Trap](http://poeurl.com/dcCL) | [Freeze Pulse](http://poeurl.com/dcCH)  | ???                                 |
+| Final Tree               | [Penance Brand](http://poeurl.com/dcCK)        | [Auras](http://poeurl.com/dcCN)          | [Curses](http://poeurl.com/dcCI)        | ???                                 |
 
 ## Notes
 
@@ -33,6 +33,6 @@
 
 ## Wiki
 
-- [3-Person Story Route](https://github.com/nick-ng/poe-map-team/wiki/3-Person-Story-Route)
+- [4-Person Story Route](https://github.com/nick-ng/poe-map-team/wiki/4-Person-Story-Route)
 - [Searches](https://github.com/nick-ng/poe-map-team/wiki/Searches)
 - [Mapping](https://github.com/nick-ng/poe-map-team/wiki/Mapping)
