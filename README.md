@@ -33,6 +33,6 @@
 
 ## Wiki
 
-- [4-Person Story Route](https://github.com/nick-ng/poe-map-team/wiki/4-Person-Story-Route)
+- [4-Person Story Route Act 1-5](https://github.com/nick-ng/poe-map-team/wiki/4-Player-Part-1-(Act-1-5))
 - [Searches](https://github.com/nick-ng/poe-map-team/wiki/Searches)
 - [Mapping](https://github.com/nick-ng/poe-map-team/wiki/Mapping)
