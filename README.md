@@ -14,15 +14,15 @@
 | Role                     | Carry                                          | Aura Support                             | Curse Support                           | ES Support                          |
 | Class                    | Shadow                                         | Scion                                    | Witch                                   | Duelist                             |
 | Leveling                 | Storm Brand                                    | Lightning Trap                           | Freezing Pulse                          | Blade Storm                         |
-| Leveling 3-Links         | BBB, BBG                                       | BBG                                      | ???                                     | ???                                 |
-| Leveling 4-Link          | BBBB                                           | RRRB                                     | ???                                     | ???                                 |
-| Other Leveling Stuff     | 2 x light. craft                               | Generosity                               | 2 x cold craft                          | ?? x phys weapon craft              |
+| Leveling 3-Links         | BBB, BBG                                       | BBG                                      | BGG, BBG                                     | BBB, BBG                                 |
+| Leveling 4-Link          | BBBB                                           | RRRB                                     | BBBG                                     | BBBR                                 |
+| Other Leveling Stuff     | 2 x light. craft                               | Generosity                               | 2 x cold craft                          | 2 x cold craft             |
 | End Game                 | Penance Brand                                  | 10+ Auras                                | 6 Hexes                                 | ES Support                          |
 | Respec Criteria          | Holy Conquest                                  | 4-Link                                   | 100+ Atlas Bonus                        | 6 Stalwart Commander                |
-| Points to Respec         | 16                                             | 26                                       | 31                                      | ~70(!)                              |
-| Regrets (~18 from story) | 0                                              | 8                                        | 13                                      | 50                                  |
+| Points to Respec         | 16                                             | 26                                       | 31                                      | ~120(!)                              |
+| Regrets (~18 from story) | 0                                              | 8                                        | 13                                      | 100                                  |
 | Path of Building         | [Penance Brand](https://pastebin.com/kHpNSBHs) | [Auras](https://pastebin.com/xFxGNVEg)   | [Curses](https://pastebin.com/wf2dTcd8) | [ES](https://pastebin.com/uZCkVLcG) |
-| Leveling Tree            | [Storm Brand](http://poeurl.com/dcCJ)          | [Lightning Trap](http://poeurl.com/dcCL) | [Freeze Pulse](http://poeurl.com/dcCH)  | Blade Storm?                        |
+| Leveling Tree            | [Storm Brand](http://poeurl.com/dcCJ)          | [Lightning Trap](http://poeurl.com/dcCL) | [Freeze Pulse](http://poeurl.com/dcCH)  | Totems                        |
 | Final Tree               | [Penance Brand](http://poeurl.com/dcCK)        | [Auras](http://poeurl.com/dcCN)          | [Curses](http://poeurl.com/dcCI)        | [ES]()                              |
 
 ## Notes
