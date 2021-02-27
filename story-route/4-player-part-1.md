@@ -1,5 +1,8 @@
 ## Act 1
 
+Player level: 1 - 17\
+Passives from Quests: 2 (2)
+
 - All Witches put 1 wisdom scroll in guild stash.
 - All run to first Coast WP separately.
   - First person to arrive says and everyone warps.
@@ -19,16 +22,20 @@
 - All do Brutus. Drop Portal scrolls for runners. Drop Onslaught for Witches. Take **Nick**'s TP.
 - Take **Mark**'s TP for Dweller. **Jac** opens TP.
 - Take **David**'s TP for Trial and TP back to town.
-- **Nick** Ship Graveyard.
+- **Nick** and **Mark** Ship Graveyard.
   - Rest farm Prisoner's Gate.
-- **Nick** reaches Ship Graveyard and **Mark** warps.
+- **Nick** or **Mark** warp to Ship Graveyard
   - **Nick** runs to Merveil, **Mark** does All-Flame. No one else needs All-Flame.
   - **Mark** tags Fairgraves and puts TP.
   - **Nick** tags Merveil phase 2 and everyone warps.
 - Take Southern Forest WP to Act 1 town -> Fairgraves TP.
-- **David** opens TP. Buy Smoke Mine for Templars and Scions.
+- Kill Fairgraves -> **David** opens TP.
+- Someone buy Smoke Mine for Templars and Scions.
 
 ## Act 2
+
+Player level: 10 - 27\
+Passives from Quests: 3 (5)
 
 - Southern Forest separately
   - All warp to first person in act 2 town.
@@ -67,6 +74,9 @@
 
 ## Act 3
 
+Player level: 19 - 38\
+Passives from Quests: 2 (7)
+
 - City of Sarn separately
 - **Nick** Slums -> TP at Sewers -> The Crematorium
   - **David** Sewers TP -> Replace TP -> City of Sarn
@@ -88,13 +98,46 @@
 - Someone Lunaris 2 -> Tag Piety
   - All kill Piety
   - Turn in Piety quest
-- Someone Gardens WP
+- Someone The Imperial Gardens WP
   - **Mark** Tower Door TP -> Tag Dominus
   - **David** Trial
   - **Nick** Library -> Blasphemy reward, Buy Generosity (Chance Orb)
 - All turn in Tower Door
+- All do Trial
 - All kill Dominus
   - **Mark** Gardens Trial
   - Rest Aqueduct separately
 
 ## Act 4
+
+Character level: 29 - 45\
+Passives from Quests: 1 (8)
+
+- Farm Aqueduct (character lvl 29+) or Dried Lake (clvl 30+)
+- Highest Level tag Voll
+  - All kill Voll
+  - Turn in quest
+- A4 and B4 The Mines Level 1 -> The Mines Level 2
+  - TP at Deshret's spirit
+  - All get Deshret's spirit
+- Whoever found Deshret's spirit The Crystal Veins WP
+  - A4 Daresso's Dream -> The Grand Arena
+  - B4 Kaom's Dream -> Kaom's Stronghold
+  - Rest farm Daresso's Dream (clvl 31+)
+- All kill Daresso -> C4 replace TP
+- All kill Kaom
+- All turn in Belly of the Beast
+- Normal Labyrinth
+  - **Jac** Blasphemy, Ele. Weakness, Enfeeble
+  - **David** Generosity, Anger, Wrath, Smite
+- Highest Level Belly of the Beast Level 2 -> Kill Piety -> TP
+- All talk to Piety
+- **David** and **Jac** farm Daresso's Dream together
+- B4 find 3 organs -> open TP near WP -> tag Malachi phase 2
+- All TP to The Harvest (3rd heart) -> Kill Malachi
+- All The Ascent
+
+## Act 5 - 1:19
+
+Character level: 36 - 51\
+Passives from Quests: 2 (10)
