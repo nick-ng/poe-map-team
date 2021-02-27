@@ -65,4 +65,36 @@
   - **David**'s TP for Trial
   - Turn in skill point.
 
-## Act 3 35:00
+## Act 3
+
+- City of Sarn separately
+- **Nick** Slums -> TP at Sewers -> The Crematorium
+  - **David** Sewers TP -> Replace TP -> City of Sarn
+  - **Nick** Piety
+  - **Mark** Trial
+- All turn in Bracelet -> Slums -> Sewers separately
+- **Mark** Marketplace WP -> Battle Front WP
+  - **Nick** Catacombs Trial
+- All Ribbon Spool
+  - **Mark** Solaris 2
+  - Rest farm Docks
+- Someone put TP at Docks Sulfite (not **Nick**)
+  - All get Sulfite
+  - All get Trial
+  - All turn in Solaris 2
+  - All burn blockage
+- **Nick** Ebony Barracks -> TP at Gravicious
+  - All kill Gravicious
+- Someone Lunaris 2 -> Tag Piety
+  - All kill Piety
+  - Turn in Piety quest
+- Someone Gardens WP
+  - **Mark** Tower Door TP -> Tag Dominus
+  - **David** Trial
+  - **Nick** Library -> Blasphemy reward, Buy Generosity (Chance Orb)
+- All turn in Tower Door
+- All kill Dominus
+  - **Mark** Gardens Trial
+  - Rest Aqueduct separately
+
+## Act 4
