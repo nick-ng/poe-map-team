@@ -163,7 +163,8 @@ Passives from Quests: 2 (10)
 - **Nick** TP near first of Kitava's Torments
   - **Nick** get staff from The Ossuary
   - **David** and **Jac** warp and put TPs near the other 2 of Kitava's Torments
+  - **Nick** get Kitava's Torments
 - **Mark** Start Kitava fight and TP
-  - **Mark** Get Kitava's Torments
-  - **Nick** Continue Kitava fight
 - All kill Kitava
+- **Nick** Sail to Wraeclast
+- **Mark** Get Kitava's Torments
