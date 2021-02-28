@@ -113,16 +113,18 @@ Passives from Quests: 2 (7)
 Character level: 29 - 45\
 Passives from Quests: 1 (8)
 
+From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate level zones together. The runner (**Mark** or **Nick**) who isn't running will farm by themselves.
+
 - Farm Aqueduct (character lvl 29+) or Dried Lake (clvl 30+)
 - Highest Level tag Voll
   - All kill Voll
   - Turn in quest
-- A4 and B4 The Mines Level 1 -> The Mines Level 2
+- **Nick** and **Mark** The Mines Level 1 -> The Mines Level 2
   - TP at Deshret's spirit
   - All get Deshret's spirit
 - Whoever found Deshret's spirit The Crystal Veins WP
-  - A4 Daresso's Dream -> The Grand Arena
-  - B4 Kaom's Dream -> Kaom's Stronghold
+  - **Nick** Daresso's Dream -> The Grand Arena
+  - **Mark** Kaom's Dream -> Kaom's Stronghold
   - Rest farm Daresso's Dream (clvl 31+)
 - All kill Daresso -> C4 replace TP
 - All kill Kaom
@@ -130,14 +132,38 @@ Passives from Quests: 1 (8)
 - Normal Labyrinth
   - **Jac** Blasphemy, Ele. Weakness, Enfeeble
   - **David** Generosity, Anger, Wrath, Smite
-- Highest Level Belly of the Beast Level 2 -> Kill Piety -> TP
+- **Nick** Belly of the Beast Level 2 -> Kill Piety -> TP
 - All talk to Piety
 - **David** and **Jac** farm Daresso's Dream together
-- B4 find 3 organs -> open TP near WP -> tag Malachi phase 2
+- **Mark** find 3 organs -> open TP near WP -> tag Malachi phase 2
 - All TP to The Harvest (3rd heart) -> Kill Malachi
 - All The Ascent
 
-## Act 5 - 1:19
+## Act 5
 
 Character level: 36 - 51\
 Passives from Quests: 2 (10)
+
+- All Slave Pens
+- **Mark** tag Justicar Casticus (just before Control Blocks Exit)
+- **Nick** Miasmeter TP
+  - All Miasmeter TP except **Mark**
+  - **David** replace Miasmeter TP
+  - All kill Justicar Casticus
+- **Mark** Oriath Square -> TP at door to The Templar Courts
+  - All open door.
+  - Quest rewards. All get First Snow jewel (Freezing Pulse) **Mark** and **David** put jewels in guild stash (**David** can give his directly to **Jac**)
+- **Mark** The Chamber of Innocence -> TP -> tag Innocence phase 2
+  - All kill Innocence
+- **Nick** The Torched Courts -> The Ruined Square WP
+- **Mark** Warp The Ruined Square -> The Ossuary -> TP at staff
+  - **David** and **Jac** get staff from The Ossuary
+- **Nick** TP near The Cathedral Rooftop -> The Reliquary
+- **Mark** The Cathedral Rooftop
+- **Nick** TP near first of Kitava's Torments
+  - **Nick** get staff from The Ossuary
+  - **David** and **Jac** warp and put TPs near the other 2 of Kitava's Torments
+- **Mark** Start Kitava fight and TP
+  - **Mark** Get Kitava's Torments
+  - **Nick** Continue Kitava fight
+- All kill Kitava

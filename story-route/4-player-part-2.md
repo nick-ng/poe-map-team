@@ -1,4 +1,4 @@
-## Act 6
+## Act 6 - 1:35
 
 Area Level: 45 - 50\
 Character level: 40 - 56\
