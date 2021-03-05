@@ -8270,6 +8270,16 @@ CustomAlertSound "4b helm.mp3" 300
 
 # FilterBlade: Conditional Entry
 Show
+SocketGroup "brrr"
+SetBorderColor 200 0 0
+SetFontSize 38
+Class "Body Armours" "Boots" "Gloves" "Helmets"
+LinkedSockets >= 4
+ItemLevel <= 40
+CustomAlertSound "3r1b.mp3" 300
+
+# FilterBlade: Conditional Entry
+Show
 SocketGroup "b" "g"
 SetBorderColor 200 0 0
 SetFontSize 38
