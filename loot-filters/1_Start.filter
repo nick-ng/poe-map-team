@@ -8284,17 +8284,6 @@ SetFontSize 38
 Class "Body Armours" "Boots" "Gloves" "Helmets"
 ItemLevel <= 16
 
-# FilterBlade: Conditional Entry
-Show
-SetBorderColor 200 100 0
-SetFontSize 30
-Class "Wands" "Body Armours" "Boots" "Gloves" "Helmets" "Shields"
-SocketGroup "bbr"
-ItemLevel <= 40
-LinkedSockets >= 3
-DisableDropSound True
-CustomAlertSound "2b1r.mp3" 140
-
 Show # %REMS1 %D5
 	LinkedSockets 4
 	Rarity <= Normal
