@@ -60,9 +60,9 @@ Passives from Quests: 3 (5)
   - All take **Mark**'s TP for Alira.
   - All take **David**'s TP for Oak.
   - All turn in Apex.
-  - David go to Wetlands WP.
+  - **David** new Wetlands instance.
   - All warp to **David** for Roots quest.
-  - David turn in Apex.
+  - **David** turn in Apex.
 - **Nick** run to ball and TP.
   - All take **Nick**'s TP for ball.
 - **Nick** Caverns -> Pyramid -> TP

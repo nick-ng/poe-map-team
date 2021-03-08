@@ -3,9 +3,27 @@
 Area Level: 45 - 50\
 Character level: 40 - 56\
 Passives from Quests: 3 (13)
-...
 
-- Lower Prison Trial put TP near crafting recipe.
+- Everyone farm Chamber of Innocence (Act 5) when waiting for runner
+- **Nick** The Coast -> The Mud Flats -> tag The Dishonoured Queen
+  - **Mark** get The Coast WP then back to farming
+- **Nick** The Karui Fortress -> tag Tukohama
+  - All kill Tukohama
+- **Nick** The Ridge -> The Lower Prison -> Shavronne's Tower -> TP
+- **Mark** Tidal Island TP
+- **Jac** and **David** Twilight Strand (**Mark** join for boss if he needs the gem vendor)
+- All kill Shavronne
+- **Jac** and **David** Prisoner's Gate -> Abberath TP at third room
+- **Mark** Prisoner's Gate -> Western Forest -> The Riverways WP -> The Southern Forest -> The Cavern of Anger TP at flag -> The Beacon WP
+  - **Nick** The Riverways -> The Wetlands -> Ryslatha TP at Ryslatha phase
+  - All get Flag
+  - All kill Abberath
+  - All kill Ryslatha
+- **Mark** The Beacon -> Double Gauntlet TP
+  - **Nick** Double Gauntlet
+  - All burn flag
+- **Mark** Brine King TP
+  - All kill Brine King
 
 ## Act 7
 
