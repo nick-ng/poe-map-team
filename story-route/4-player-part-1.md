@@ -41,22 +41,23 @@ Passives from Quests: 3 (5)
   - All warp to first person in act 2 town.
   - All farm Riverways separately.
 - **Nick** Old Fields, put TP near The Den and continues running to Crossroads WP
-- **Jac** -> Riverways WP -> town -> TP to The Den, tags Beast and TP.
 - **Nick** gets to Crossroads WP
-  - **David** warps and runs to Fellshrine Ruins -> Crypt 1 WP -> farm Riverways
-  - **Nick** runs to Chamber of Sins 1 -> Sins 2 -> kill, DON'T TAKE GEM, open TP and farm.
-  - **David** warps **Nick** at Sins 2 and finds Trial
+- **David** warps and runs to Fellshrine Ruins -> Crypt 1 WP -> farm Riverways
+- **Nick** runs to Chamber of Sins 1 waypoint -> Town -> Den -> tag White Beast -> TP
+  - All warp to Nick and kill White Beast, TP to town.
+- Get second Quicksilver Flask
 - **Mark** Western Forest WP -> The Weaver's Chambers open TP and tag Weaver phase 2
+- **Nick** Sins 1 -> Sins 2 -> Kill Felitidas
+  - **David** warps **Nick** at Sins 2 and finds Trial
   - All warp to **Mark** for Weaver, **Mark** opens TP out.
   - All take **Nick**'s TP for gem.
-  - All take **Jac**'s TP for beast.
   - All take **David**'s TP for Trial.
 - **Nick** Crossroads -> Broken Bridge -> TP at Karitlyn
 - **Mark** Western Forest -> TP at Alira -> farm.
 - **Jac** Western Forest -> tag skill point and TP.
 - **David** Riverways -> Wetlands -> TP at Oak -> WP.
+- All take **Nick**'s TP for Kraitlyn.
   - All take **Jac**'s TP for skill point.
-  - All take **Nick**'s TP for Kraitlyn.
   - All take **Mark**'s TP for Alira.
   - All take **David**'s TP for Oak.
   - All turn in Apex.
