@@ -39,7 +39,8 @@ Passives from Quests: 3 (5)
 
 - Southern Forest separately
   - All warp to first person in act 2 town.
-  - All farm Riverways separately.
+  - All farm Riverways/Western Forest separately.
+  - **Mark** get to level 17?
 - **Nick** Old Fields, put TP near The Den and continues running to Crossroads WP
 - **Nick** gets to Crossroads WP
 - **David** warps and runs to Fellshrine Ruins -> Crypt 1 WP -> farm Riverways
