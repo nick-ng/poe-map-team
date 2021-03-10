@@ -15,7 +15,7 @@
   - BB: Fireball + Arcane Surge
 - Put 1 wisdom scroll in Guild Stash.
 - Check Yeena for 3 link wands.
-  - You need BBG and BGG.
+  - You need BBG or BGG.
   - The team needs BBG and BBB.
 - Tarkleigh quest reward: get Freezing Pulse.
 - Check Tarkleigh for 3 link helmet, gloves and boots

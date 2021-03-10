@@ -6,7 +6,9 @@ Passives from Quests: 3 (13)
 
 - Everyone farm Chamber of Innocence (Act 5) when waiting for runner
 - **Nick** The Coast -> The Mud Flats -> tag The Dishonoured Queen
-  - **Mark** get The Coast WP then back to farming
+  - **Mark** warp to **Nick** and put TP at Tidal Island quest chest.
+  - All kill The Dishonoured Queen and get quest item.
+- All run and open door.
 - **Nick** The Karui Fortress -> tag Tukohama
   - All kill Tukohama
 - **Nick** The Ridge -> The Lower Prison -> Shavronne's Tower -> TP

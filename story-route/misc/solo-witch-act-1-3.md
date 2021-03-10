@@ -1,8 +1,56 @@
-## Required Links:
+## Notes:
 
-- BBG -> BBBG
-- BG -> BBG
+- This route skips some skill points that get done by other players.
 
-## Preparation:
+## Act 1
 
--
+- Finish Twilight Strand
+  - BB: Fireball + Arcane Surge
+- Put 1 wisdom scroll in Guild Stash.
+- Check Yeena for 3 link wands.
+  - You need BBG or BGG.
+- Tarkleigh quest reward: get Freezing Pulse.
+- Check Tarkleigh for 3 link helmet, gloves and boots
+  - BB: Freezing Pulse + Arcane Surge
+  - Keep Fireball gem in your inventory
+- Run to The Coast waypoint.
+- Make new The Mud Flats instance.
+- Click on 3 Roa nests to collect 3 glyphs.
+  - The Roas deal more damage once you've clicked on their nest. If there are too many, kill some before clicking on their nest.
+  - You gems will level up at this point. Keep Arcane Surge at level 1, level the rest.
+- Click on the wall thing to open The Submerged Passage.
+- Enter The Submerged Passage and get waypoint.
+- Use the waypoint to travel to The Coast.
+- Make a new Tidal Island instance.
+  - The Tidal Island entrance, The Coast waypoint and The Mud Flats entrance make a right angle.
+- Find and kill Hailrake.
+- Pick up Medicine Chest, the Portal Scroll and as many blue items as you can.
+- Log out to character selection and log back in.
+  - Do not log out to login screen. This will put you back in the queue on league start.
+- Yeena quest reward: get Quicksilver Flask and Lesser Poison Support.
+- Sell all your blue items unidentified and other items.
+- Check Yeena for 3 link wands.
+- Tarkleigh quest reward: get Frost Bomb and Frost Blink.
+  - BB: Freezing Pulse + Arcane Surge
+  - BG: Frost Bomb (+ Frost Blink)
+    - Frost Bomb and Frost Blink require level 4
+- Use the waypoint to travel to a new The Submerged Passage.
+- Go through the Submerged Passage to get to the Ledge. Try get to level 4.
+- Go through The Ledge to The Climb. Try get to level 6.
+- Go through The Climb to the Lower Prison. Try get to level 7.
+- Go through the Lower Prison to the Upper Prison. Try get to level 8.
+- Find the Warden's Chamber and kill Brutus. You can either log out or run through to the Prisoner's Gate waypoint to get to town.
+- Yeena quest reward: get Added Lightning Damage
+- Sell all your blue items unidentified.
+- Check Yeena for 3 link wands
+- Buy Lesser Multiple Projectiles for 1 Orb of Transmutation
+- Buy Smoke Mine for 1 Orb of Transmutation
+- Tarkleigh quest reward: get Flame Dash
+- Check Tarkleigh for 3 link gloves, helmet and boots
+  - BBG: Freezing Pulse + Lesser Multiple Projectiles + Added Lightning
+  - BG: Frost Bomb + Onslaught Support
+  - BB: Flame Dash + Arcane Surge
+- Go through Prisoner's Gate to the Ship Graveyard. Try get to level 9.
+- Go through the Ship Graveyard to Caverns of Wrath. Try get to level 10.
+- Go through Caverns of Wrath to Caverns of Anger. Try get to level 11.
+- Go through Caverns of Anger and kill Merveil. Try get to level 12 by Merveil.

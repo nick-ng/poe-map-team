@@ -123,23 +123,23 @@ From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate le
 - Highest Level tag Voll
   - All kill Voll
   - Turn in quest
-- **Nick** The Mines Level 1 -> The Mines Level 2
+- Highest Level The Mines Level 1 -> The Mines Level 2
   - TP at Deshret's spirit
   - All get Deshret's spirit
-- **Nick** The Crystal Veins WP
+- Highest Level The Crystal Veins WP
   - **Nick** Daresso's Dream -> The Grand Arena
   - **Mark** Kaom's Dream -> Kaom's Stronghold
   - Rest farm Daresso's Dream (clvl 31+)
-- All kill Daresso -> C4 replace TP
-- All kill Kaom
+- All kill Daresso
+- All kill Kaom -> Anyone replace TP
 - All turn in Belly of the Beast
 - Normal Labyrinth
   - **Jac** Blasphemy, Ele. Weakness, Enfeeble
-  - **David** Generosity, Anger, Wrath, Smite
-- **Nick** Belly of the Beast Level 2 -> Kill Piety -> TP
+  - **David** Generosity, Anger, Zealotry, Smite
+- Highest Level Belly of the Beast Level 2 -> Kill Piety -> TP
 - All talk to Piety
 - **David** and **Jac** farm Daresso's Dream together
-- **Mark** find 3 organs -> open TP near WP -> tag Malachi phase 2
+- Highest Level find 3 organs -> open TP near WP -> tag Malachi phase 2
 - All TP to The Harvest (3rd heart) -> Kill Malachi
 - All The Ascent
 
@@ -149,6 +149,7 @@ Character level: 36 - 51\
 Passives from Quests: 2 (10)
 
 - All Slave Pens
+  - Remember to click on the waypoint.
 - **Mark** tag Justicar Casticus (just before Control Blocks Exit)
 - **Nick** Miasmeter TP
   - All Miasmeter TP except **Mark**
@@ -161,13 +162,12 @@ Passives from Quests: 2 (10)
   - All kill Innocence
 - **Nick** The Torched Courts -> The Ruined Square WP
 - **Mark** Warp The Ruined Square -> The Ossuary -> TP at staff
-  - **David** and **Jac** get staff from The Ossuary
 - **Nick** TP near The Cathedral Rooftop -> The Reliquary
 - **Mark** The Cathedral Rooftop
-- **Nick** TP near first of Kitava's Torments
-  - **Nick** get staff from The Ossuary
-  - **David** and **Jac** warp and put TPs near the other 2 of Kitava's Torments
-  - **Nick** get Kitava's Torments
+- **Nick** The Reliquary WP
+  - **David** and **Jac** warp to **Nick** and put TPs near the first 2 of Kitava's Torments.
+  - **Nick** put TP near 3rd of Kitava's Torments
+  - All get staff
 - **Mark** Start Kitava fight and TP
 - All kill Kitava
 - **Nick** Sail to Wraeclast
