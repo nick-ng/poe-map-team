@@ -57,9 +57,9 @@ Passives from Quests: 3 (5)
 - **Mark** Western Forest -> TP at Alira -> farm.
 - **Jac** Western Forest -> tag skill point and TP.
 - **David** Riverways -> Wetlands -> TP at Oak -> WP.
-- All take **Nick**'s TP for Kraitlyn.
   - All take **Jac**'s TP for skill point.
   - All take **Mark**'s TP for Alira.
+  - All take **Nick**'s TP for Kraitlyn.
   - All take **David**'s TP for Oak.
   - All turn in Apex.
   - **David** new Wetlands instance.
@@ -92,12 +92,13 @@ Passives from Quests: 2 (7)
   - Rest farm Docks
 - Someone put TP at Docks Sulfite (not **Nick**)
   - All get Sulfite
-  - All get Trial
   - All turn in Solaris 2
+  - All get Trial
   - All burn blockage
 - **Nick** Ebony Barracks -> TP at Gravicious
   - All kill Gravicious
-- Someone Lunaris 2 -> Tag Piety
+- "What level are you?"
+- **Highest level** Lunaris 2 -> Tag Piety
   - All kill Piety
   - Turn in Piety quest
 - Someone The Imperial Gardens WP
@@ -106,6 +107,7 @@ Passives from Quests: 2 (7)
   - **Nick** Library -> Blasphemy reward, Buy Generosity (Chance Orb)
 - All turn in Tower Door
 - All do Trial
+- Wait for **Mark** to get Dominus to second phase.
 - All kill Dominus
   - **Mark** Gardens Trial
   - Rest Aqueduct separately
@@ -121,10 +123,10 @@ From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate le
 - Highest Level tag Voll
   - All kill Voll
   - Turn in quest
-- **Nick** and **Mark** The Mines Level 1 -> The Mines Level 2
+- **Nick** The Mines Level 1 -> The Mines Level 2
   - TP at Deshret's spirit
   - All get Deshret's spirit
-- Whoever found Deshret's spirit The Crystal Veins WP
+- **Nick** The Crystal Veins WP
   - **Nick** Daresso's Dream -> The Grand Arena
   - **Mark** Kaom's Dream -> Kaom's Stronghold
   - Rest farm Daresso's Dream (clvl 31+)

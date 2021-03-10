@@ -1,0 +1,32 @@
+## Act 2
+
+- Farm The Southern Forest if character level < 12 else The Riverways (Left)
+- Warp to Nick, kill The Great White Beast, take portal
+- Yeena quest reward: Quicksilver Flask
+- Farm The Riverways if character level < 14 else The Western Forest
+- Warp to Mark, kill The Weaver, pick up Maligaro's Spike, take portal to town.
+- Take Nick's portal, pick up Baleful Gem, take portal to town.
+- Take David's portal, get the trial, take portal to town.
+- Greust quest reward: Herald of Ice
+- Silk quest reward: Controlled Destruction Support
+  - BBG: Freezing Pulse + Controlled Destruction + Lesser Multiple Projectiles
+  - BG: Frost Bomb + Onslaught (+ Arcane Surge)
+  - B: Flame Dash
+  - G: Herald of Ice
+- Warp to Mark. Should end up near waypoint. Make a new Western Forest instance.
+- Follow road downwards to skill point. Make portal near Captain Arteri and tell everyone.
+- Everyone arrives and kills Captain Arteri. Pick up Thaumetic Emblem and put it in the wall. Take your portal back to town.
+- Take Mark's portal and kill Alira
+- Take Nick's portal and kill Kraitlyn
+- Take David's portal and kill Oak
+- Turn in the Apex (2 passive points).
+- Warp to David and click on the roots.
+- Use the waypoint to go to Lioneye's watch (Act 1) and get your skill book from Bestel.
+- Use the waypoint to go to a new The Western Forest (Act 2) and farm.
+- Warp to Nick and click on the ball.
+- Run to The Northern Forest.
+  - The entrance to The Northern Forest will be on the "other side" of the ball to the portal.
+- Farm The Northern Forest.
+- Warp to Nick and kill The Vaal Oversoul.
+- Take Nick's portal and go through David's portal to get the trial.
+- Take the waypoint to a new City of Sarn (Act 3)
