@@ -39,13 +39,14 @@ Passives from Quests: 3 (5)
 
 - Southern Forest separately
   - All warp to first person in act 2 town.
-  - All farm Riverways/Western Forest separately.
-  - **Mark** get to level 17?
+  - **David** and **Jac** farm Riverways/Western Forest separately.
+- **Mark** Riverways -> Western Forest -> Alira TP (Farm until **Nick** starts doing Den?)
 - **Nick** Old Fields, put TP near The Den and continues running to Crossroads WP
 - **Nick** gets to Crossroads WP
 - **David** warps and runs to Fellshrine Ruins -> Crypt 1 WP -> farm Riverways
 - **Nick** runs to Chamber of Sins 1 waypoint -> Town -> Den -> tag White Beast -> TP
-  - All warp to Nick and kill White Beast, TP to town.
+  - All warp to **Nick** and kill White Beast, TP to town.
+  - All warp to **Mark** and kill Alira, TP to town.
 - Get second Quicksilver Flask
 - **Mark** Western Forest WP -> The Weaver's Chambers open TP and tag Weaver phase 2
 - **Nick** Sins 1 -> Sins 2 -> Kill Felitidas
@@ -54,17 +55,15 @@ Passives from Quests: 3 (5)
   - All take **Nick**'s TP for gem.
   - All take **David**'s TP for Trial.
 - **Nick** Crossroads -> Broken Bridge -> TP at Karitlyn
-- **Mark** Western Forest -> TP at Alira -> farm.
-- **Jac** Western Forest -> tag skill point and TP.
+- **Mark** Western Forest -> tag skill point and TP.
 - **David** Riverways -> Wetlands -> TP at Oak -> WP.
-  - All take **Jac**'s TP for skill point.
-  - All take **Mark**'s TP for Alira.
+  - All take **Mark**'s TP for skill point.
   - All take **Nick**'s TP for Kraitlyn.
   - All take **David**'s TP for Oak.
-  - All turn in Apex.
+  - All except **David** turn in Apex and Act 1 skill point
   - **David** new Wetlands instance.
   - All warp to **David** for Roots quest.
-  - **David** turn in Apex.
+  - **David** turn in Apex and Act 1 skill point
 - **Nick** run to ball and TP.
   - All take **Nick**'s TP for ball.
 - **Nick** Caverns -> Pyramid -> TP
