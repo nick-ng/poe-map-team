@@ -39,7 +39,8 @@ Passives from Quests: 3 (5)
 
 - Southern Forest separately
   - All warp to first person in act 2 town.
-  - **David** and **Jac** farm Riverways/Western Forest separately.
+  - **Jac** farm Riverways/Western Forest/Northern Forest all act.
+  - **David** farm Riverways.
 - **Mark** Riverways -> Western Forest -> Alira TP (Farm until **Nick** starts doing Den?)
 - **Nick** Old Fields, put TP near The Den and continues running to Crossroads WP
 - **Nick** gets to Crossroads WP
