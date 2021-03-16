@@ -12,11 +12,11 @@
 | ------------------------ | ---------------------------------------------- | ---------------------------------------- | --------------------------------------- | ----------------------------------- |
 | Loot Split               | 1 share                                        | 1 share                                  | 1 share                                 | 1 share                             |
 | Role                     | Carry                                          | Aura Support                             | Curse Support                           | ES Support                          |
-| Class                    | Shadow                                         | Scion                                    | Witch                                   | Duelist                             |
-| Leveling                 | Storm Brand                                    | Lightning Trap                           | Freezing Pulse                          | Blade Storm                         |
+| Class                    | Shadow                                         | Scion                                    | Witch                                   | Templar                             |
+| Leveling                 | Storm Brand                                    | Lightning Trap                           | Freezing Pulse                          | Cremation, Armageddon Brand         |
 | Leveling 3-Links         | BBB, BBG                                       | BBG                                      | BGG, BBG                                | BBB, BBG                            |
 | Leveling 4-Link          | BBBB                                           | RRRB                                     | BBBG                                    | BBBR                                |
-| Other Leveling Stuff     | 2 x light. craft                               | Generosity                               | 2 x cold craft                          | 2 x cold craft                      |
+| Other Leveling Stuff     | 2 x light. craft                               | Generosity                               | 2 x cold craft                          | 2 x fire craft                      |
 | End Game                 | Penance Brand                                  | 10+ Auras                                | 6 Hexes                                 | ES Support                          |
 | Respec Criteria          | Holy Conquest                                  | 4-Link                                   | 100+ Atlas Bonus                        | 6 Stalwart Commander                |
 | Points to Respec         | 16                                             | 26                                       | 31                                      | ~120(!)                             |
@@ -31,8 +31,9 @@
 - 1 Call: Cold > Light > Chaos
 - 2 Call: Cold > Chaos > Fire
 
-## Wiki
+## Links
 
 - [4-Person Story Route Act 1-5](https://github.com/nick-ng/poe-map-team/blob/main/story-route/4-player-part-1.md)
 - [Searches](https://github.com/nick-ng/poe-map-team/wiki/Searches)
 - [Mapping](https://github.com/nick-ng/poe-map-team/wiki/Mapping)
+- [Skill Gem Planner](https://old.reddit.com/r/pathofexile/comments/kxgtws/313_league_start_skill_gem_planner/)
