@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="97" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Shadow" ascendClassName="Assassin" mainSocketGroup="3" viewMode="TREE" pantheonMinorGod="None">
-		<PlayerStat stat="AverageHit" value="109774.26042166"/>
-		<PlayerStat stat="AverageDamage" value="109774.26042166"/>
-		<PlayerStat stat="Speed" value="3.2266666666667"/>
-		<PlayerStat stat="Speed" value="3.2266666666667"/>
-		<PlayerStat stat="Speed" value="3.2266666666667"/>
-		<PlayerStat stat="HitSpeed" value="8.1016"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="43.425"/>
-		<PlayerStat stat="CritChance" value="67.99269375"/>
-		<PlayerStat stat="CritMultiplier" value="2.3"/>
+	<Build level="97" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Shadow" ascendClassName="Saboteur" mainSocketGroup="3" viewMode="TREE" pantheonMinorGod="None">
+		<PlayerStat stat="AverageHit" value="57125.23"/>
+		<PlayerStat stat="AverageDamage" value="57125.23"/>
+		<PlayerStat stat="Speed" value="2.6266666666667"/>
+		<PlayerStat stat="Speed" value="2.6266666666667"/>
+		<PlayerStat stat="Speed" value="2.6266666666667"/>
+		<PlayerStat stat="HitSpeed" value="6.6256"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="23.04"/>
+		<PlayerStat stat="CritChance" value="40.771584"/>
+		<PlayerStat stat="CritMultiplier" value="1"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="889347.14823214"/>
+		<PlayerStat stat="TotalDPS" value="378488.923888"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="889347.14823214"/>
-		<PlayerStat stat="WithIgniteDPS" value="889347.14823214"/>
-		<PlayerStat stat="WithPoisonDPS" value="889347.14823214"/>
+		<PlayerStat stat="WithBleedDPS" value="378488.923888"/>
+		<PlayerStat stat="WithIgniteDPS" value="378488.923888"/>
+		<PlayerStat stat="WithPoisonDPS" value="378488.923888"/>
 		<PlayerStat stat="TotalDotDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="889347.14823214"/>
-		<PlayerStat stat="CombinedAvg" value="889347.14823214"/>
+		<PlayerStat stat="CombinedDPS" value="378488.923888"/>
+		<PlayerStat stat="CombinedAvg" value="378488.923888"/>
 		<PlayerStat stat="AreaOfEffectRadius" value="9"/>
-		<PlayerStat stat="BrandTicks" value="12"/>
+		<PlayerStat stat="BrandTicks" value="5"/>
 		<PlayerStat stat="ManaCost" value="43"/>
-		<PlayerStat stat="Str" value="96"/>
+		<PlayerStat stat="Str" value="132"/>
 		<PlayerStat stat="ReqStr" value="98"/>
-		<PlayerStat stat="Dex" value="123"/>
+		<PlayerStat stat="Dex" value="169"/>
 		<PlayerStat stat="ReqDex" value="155"/>
-		<PlayerStat stat="Int" value="437"/>
+		<PlayerStat stat="Int" value="413"/>
 		<PlayerStat stat="ReqInt" value="237"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="Life" value="1"/>
-		<PlayerStat stat="Spec:LifeInc" value="0"/>
-		<PlayerStat stat="LifeUnreserved" value="1"/>
+		<PlayerStat stat="Life" value="2981"/>
+		<PlayerStat stat="Spec:LifeInc" value="127"/>
+		<PlayerStat stat="LifeUnreserved" value="2981"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegen" value="0"/>
-		<PlayerStat stat="LifeLeechGainRate" value="0.2"/>
-		<PlayerStat stat="Mana" value="902"/>
-		<PlayerStat stat="Spec:ManaInc" value="8"/>
-		<PlayerStat stat="ManaUnreserved" value="-1949"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="-216.07538802661"/>
-		<PlayerStat stat="ManaRegen" value="58.9"/>
+		<PlayerStat stat="LifeRegen" value="38.753"/>
+		<PlayerStat stat="LifeLeechGainRate" value="596.2"/>
+		<PlayerStat stat="Mana" value="1079"/>
+		<PlayerStat stat="Spec:ManaInc" value="28"/>
+		<PlayerStat stat="ManaUnreserved" value="-2331"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="-216.03336422614"/>
+		<PlayerStat stat="ManaRegen" value="71.5"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
-		<PlayerStat stat="EnergyShield" value="5135"/>
-		<PlayerStat stat="Spec:EnergyShieldInc" value="126"/>
+		<PlayerStat stat="EnergyShield" value="2432"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="10"/>
 		<PlayerStat stat="EnergyShieldRegen" value="0"/>
-		<PlayerStat stat="EnergyShieldLeechGainRate" value="513.5"/>
-		<PlayerStat stat="Evasion" value="770"/>
-		<PlayerStat stat="Spec:EvasionInc" value="28"/>
+		<PlayerStat stat="EnergyShieldLeechGainRate" value="0"/>
+		<PlayerStat stat="Evasion" value="763"/>
+		<PlayerStat stat="Spec:EvasionInc" value="25"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
 		<PlayerStat stat="MeleeEvadeChance" value="0"/>
 		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
 		<PlayerStat stat="Armour" value="0"/>
-		<PlayerStat stat="Spec:ArmourInc" value="28"/>
+		<PlayerStat stat="Spec:ArmourInc" value="0"/>
 		<PlayerStat stat="PhysicalDamageReduction" value="0"/>
-		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.27"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.35"/>
 		<PlayerStat stat="BlockChance" value="30"/>
 		<PlayerStat stat="SpellBlockChance" value="10"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
-		<PlayerStat stat="FireResist" value="57"/>
+		<PlayerStat stat="FireResist" value="47"/>
 		<PlayerStat stat="FireResistOverCap" value="0"/>
 		<PlayerStat stat="ColdResist" value="75"/>
-		<PlayerStat stat="ColdResistOverCap" value="23"/>
-		<PlayerStat stat="LightningResist" value="42"/>
+		<PlayerStat stat="ColdResistOverCap" value="22"/>
+		<PlayerStat stat="LightningResist" value="56"/>
 		<PlayerStat stat="LightningResistOverCap" value="0"/>
-		<PlayerStat stat="ChaosResist" value="100"/>
+		<PlayerStat stat="ChaosResist" value="-25"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
-		<PlayerStat stat="PowerCharges" value="7"/>
-		<PlayerStat stat="PowerChargesMax" value="7"/>
+		<PlayerStat stat="PowerCharges" value="3"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="0"/>
 		<PlayerStat stat="FrenzyChargesMax" value="3"/>
 		<PlayerStat stat="EnduranceCharges" value="0"/>
@@ -175,11 +175,111 @@
 			<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SkillGemElementalWeakness" skillId="ElementalWeakness" skillPart="1" enableGlobal1="true" qualityId="Default" quality="0" enabled="true" nameSpec="Elemental Weakness" skillMinion="SkitterbotCold"/>
 		</Skill>
 	</Skills>
-	<Tree activeSpec="3">
-		<Spec title="1 - Act 5" ascendClassId="1" nodes="5296,18865,40644,7444,42686,55247,40776,34882,44184,32710,26270,4242,21389,33310,63447,12379,46136,22757,42343,49605,4367,7555,36678,38129,28754,64210,39841,19501,38995,21575,61320,12850,19679,64501,63799,63639,44683,35283,24050,44183,23083,10771,8001,58649,3656,4502,21835,58229,35894,59070,25058,37671" treeVersion="3_13" classId="6">
-			<EditedNodes/>
+	<Tree activeSpec="4">
+		<Spec title="1 - Act 5" ascendClassId="1" nodes="5296,18865,40644,7444,42686,55247,40776,34882,44184,32710,38129,4242,21389,33310,42343,39841,46136,25058,59070,49605,35894,58229,36678,22757,28754,64210,4502,19501,64501,63799,61320,12850,19679,38995,21575,63639,44683,35283,10771,44183,23083,24050,8001,58649,3656,12379,21835,7555,4367,26270,63447,37671" treeVersion="3_13" classId="6">
+			<EditedNodes>
+				<EditedNode editorSeed="13252" nodeId="6799">
+					8% reduced Mana Reserved
+					6% increased effect of Non-Curse Auras from your Skills
+					+20 to Strength
+				</EditedNode>
+				<EditedNode editorSeed="13252" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+				<EditedNode editorSeed="4959" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="26960">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="53802">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="21330">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="10835">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="42981">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="60648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Ritual of Shadows" nodeId="57199">
+					30% increased Chaos Damage
+					25% chance to inflict Withered for 2 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="39648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="17821">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="21330">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Cold Resistance" nodeId="38129">
+					+12% to Cold Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Fire Resistance" nodeId="21301">
+					+11% to Fire Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Flesh to Flames" nodeId="23690">
+					30% increased Fire Damage
+					10% of Physical Damage Converted to Fire Damage
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Energy Shield" nodeId="48778">
+					4% increased maximum Energy Shield
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalOffensive.dds" nodeName="Critical Strike Chance" nodeId="15549">
+					13% increased Critical Strike Chance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Curse Effect" nodeId="37671">
+					3% increased Effect of your Curses
+				</EditedNode>
+				<EditedNode editorSeed="14000" nodeId="33545">
+					8% increased Attack Speed
+					6% increased Cast Speed
+					5% increased Movement Speed
+					10% chance to Intimidate Enemies for 4 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="160000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireOffensiveNotable.dds" nodeName="Eternal Resilience" nodeId="11420">
+					Gain 1 Endurance Charge every second if you&apos;ve been Hit Recently
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="10793" icon="Art/2DArt/SkillIcons/passives/MineManaReservationNotable.png" nodeName="Efficient Explosives" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+			</EditedNodes>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAYBABSwSbGexB0Upr7Xz59IiEKsmH_GZp4QklONgh731zBbtDhY5aVnwcURDx2Dj0aU8XBS-tKboUwtmFNUR--IMjJM3_v1-Tf4l4nTXfKsl1orKhMfQeUZDkgRllVLjDbmvmHikyc=
+				https://www.pathofexile.com/passive-skill-tree/AAAABAYBABSwSbGexB0Upr7Xz59IiEKsmH_GlPEQklONgh6lZ5uhtDhh4ua-wcWMNo9GWOVwUvrSEZZMLfv1-TfviDIyTN-YU1RH-JeJ0yoTrJdaK13yH0HlGQ5IMFtVSx2DEQ9mnvfXkyc=
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="10"/>
@@ -196,55 +296,155 @@
 				<Socket nodeId="26725" itemId="0"/>
 				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="18436" itemId="0"/>
-				<Socket nodeId="64583" itemId="12"/>
+				<Socket nodeId="12613" itemId="3"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="22994" itemId="0"/>
-				<Socket nodeId="23756" itemId="0"/>
-				<Socket nodeId="9797" itemId="16"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="29712" itemId="2"/>
+				<Socket nodeId="48679" itemId="13"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="13170" itemId="7"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="7960" itemId="8"/>
 				<Socket nodeId="59585" itemId="15"/>
-				<Socket nodeId="32763" itemId="0"/>
-				<Socket nodeId="41876" itemId="11"/>
-				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="64583" itemId="12"/>
 				<Socket nodeId="26196" itemId="14"/>
-				<Socket nodeId="49080" itemId="0"/>
 				<Socket nodeId="61288" itemId="5"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="17219" itemId="0"/>
-				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="41263" itemId="1"/>
-				<Socket nodeId="61419" itemId="4"/>
-				<Socket nodeId="22748" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
 				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="41263" itemId="1"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="61419" itemId="4"/>
+				<Socket nodeId="23984" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="13170" itemId="7"/>
-				<Socket nodeId="48679" itemId="13"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="41876" itemId="11"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="9797" itemId="16"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="12613" itemId="3"/>
+				<Socket nodeId="29712" itemId="2"/>
 			</Sockets>
 		</Spec>
-		<Spec title="2 - Act 10" ascendClassId="1" nodes="40644,7444,42686,3537,52502,40776,44183,38129,65573,5696,4242,33310,63447,58244,46136,49605,7960,19501,61320,63639,65888,21575,35283,65574,10771,8001,65578,3656,21835,58229,35894,56158,5296,18865,16954,55247,64355,29712,34882,21033,44184,32710,26270,39841,65890,9408,65575,22757,4270,21389,13170,12783,65895,65561,65898,65552,64583,66585,66576,65568,36678,59070,28754,4502,21984,34173,12379,52655,22618,12850,19679,38995,63799,25411,44683,12888,64501,65894,23083,24050,9261,58649,20528,64210,25058,7555,4367,20987,42343,37671" treeVersion="3_13" classId="6">
-			<EditedNodes/>
+		<Spec title="2 - Act 10" ascendClassId="1" nodes="40644,7444,42686,3537,52502,40776,44183,38129,65573,5696,4242,33310,63447,58244,12888,49605,7960,22618,61320,63639,65888,21575,35283,65574,10771,8001,65578,3656,21835,58229,35894,56158,5296,18865,16954,55247,64355,29712,34882,21033,44184,32710,26270,38995,65568,9408,65575,22757,4270,21389,66585,12783,64583,65561,65898,65552,65895,13170,66576,65890,36678,39841,28754,4502,42343,20987,21984,7555,25058,12850,19679,64501,63799,25411,44683,64210,20528,65894,23083,24050,9261,58649,12379,34173,19501,52655,4367,46136,59070,37671" treeVersion="3_13" classId="6">
+			<EditedNodes>
+				<EditedNode editorSeed="13252" nodeId="6799">
+					8% reduced Mana Reserved
+					6% increased effect of Non-Curse Auras from your Skills
+					+20 to Strength
+				</EditedNode>
+				<EditedNode editorSeed="13252" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+				<EditedNode editorSeed="4959" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="26960">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="53802">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="21330">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="10835">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="42981">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="60648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Ritual of Shadows" nodeId="57199">
+					30% increased Chaos Damage
+					25% chance to inflict Withered for 2 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="39648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="17821">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="21330">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Cold Resistance" nodeId="38129">
+					+12% to Cold Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Fire Resistance" nodeId="21301">
+					+11% to Fire Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Flesh to Flames" nodeId="23690">
+					30% increased Fire Damage
+					10% of Physical Damage Converted to Fire Damage
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Energy Shield" nodeId="48778">
+					4% increased maximum Energy Shield
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalOffensive.dds" nodeName="Critical Strike Chance" nodeId="15549">
+					13% increased Critical Strike Chance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Curse Effect" nodeId="37671">
+					3% increased Effect of your Curses
+				</EditedNode>
+				<EditedNode editorSeed="14000" nodeId="33545">
+					8% increased Attack Speed
+					6% increased Cast Speed
+					5% increased Movement Speed
+					10% chance to Intimidate Enemies for 4 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="160000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireOffensiveNotable.dds" nodeName="Eternal Resilience" nodeId="11420">
+					Gain 1 Endurance Charge every second if you&apos;ve been Hit Recently
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="10793" icon="Art/2DArt/SkillIcons/passives/MineManaReservationNotable.png" nodeName="Efficient Explosives" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+			</EditedNodes>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAYBAJ7EHRSmvg3RzRafSKyXlPEWQBCSgh731-OEtDjBxR8YTC3viPiXVEeJ0yoTH0EOSFVLjDbbXhSwSbFCOtfP-2N0EIhCUimsmH_GZp6boSTAWOUQrlONM3Ix7_xHj0bmvnBSEZZV4IV9MFvNr1haMjJM35hT-TdjQzJY-_VaK13yJC3lGVAw-tJh4h2DEQ9R-6Vnkyc=
+				https://www.pathofexile.com/passive-skill-tree/AAAABAYBAJ7EHRSmvg3RzRafSKyXlPEWQBCSgh731-OEMljBxR8YWFrviPiXVEeJ0yoTH0EOSFVLjDbbXhSwSbFCOtfP-2N0EIhCUimsmH_GZp6YUyTAWOUQrlONMe_8RzNyj0aboXBSEZalZ1H7VeAdg2HiMjJM3_v1-TdjQ_rSUDBaK13yJC3lGTBbhX1MLc2vEQ-0OOa-kyc=
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="10"/>
@@ -257,59 +457,159 @@
 				<Socket nodeId="9408" itemId="45"/>
 				<Socket nodeId="36634" itemId="0"/>
 				<Socket nodeId="34483" itemId="0"/>
-				<Socket nodeId="21984" itemId="44"/>
+				<Socket nodeId="12613" itemId="3"/>
 				<Socket nodeId="26725" itemId="0"/>
 				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="18436" itemId="0"/>
-				<Socket nodeId="12613" itemId="3"/>
+				<Socket nodeId="29712" itemId="45"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="32763" itemId="0"/>
-				<Socket nodeId="33753" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="48679" itemId="13"/>
+				<Socket nodeId="13170" itemId="7"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="48679" itemId="13"/>
+				<Socket nodeId="9797" itemId="16"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="13170" itemId="7"/>
+				<Socket nodeId="22994" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="7960" itemId="44"/>
 				<Socket nodeId="59585" itemId="15"/>
 				<Socket nodeId="14993" itemId="0"/>
-				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="41876" itemId="11"/>
 				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="64583" itemId="12"/>
+				<Socket nodeId="21984" itemId="44"/>
 				<Socket nodeId="26196" itemId="14"/>
-				<Socket nodeId="61288" itemId="5"/>
 				<Socket nodeId="49080" itemId="0"/>
-				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="61288" itemId="5"/>
+				<Socket nodeId="23984" itemId="0"/>
 				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="61419" itemId="4"/>
 				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="41263" itemId="1"/>
-				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="22748" itemId="0"/>
-				<Socket nodeId="61419" itemId="4"/>
-				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="41263" itemId="1"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="41876" itemId="11"/>
-				<Socket nodeId="22994" itemId="0"/>
-				<Socket nodeId="9797" itemId="16"/>
-				<Socket nodeId="23756" itemId="0"/>
-				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="29712" itemId="45"/>
+				<Socket nodeId="64583" itemId="12"/>
 			</Sockets>
 		</Spec>
-		<Spec title="3 - Maps" ascendClassId="1" nodes="39841,43215,65561,3537,52502,40776,55686,21984,37999,38129,65860,65573,5696,32345,33310,42343,58244,34173,65872,6064,49605,20546,7960,33864,12888,59070,9797,64583,22618,12613,65856,61320,65540,66880,65888,66884,66896,2311,41263,66905,65574,65536,19083,66560,65578,3656,65575,10153,58229,35958,66564,66585,11455,5296,18865,65895,9408,16954,59585,65881,60440,55247,29712,64355,48778,34882,21033,44184,32710,26270,44347,65890,13170,28782,22757,4270,21389,20987,12783,48239,23659,19501,65552,20528,29199,66576,4502,36678,26196,7444,14665,10771,32176,4242,56158,50029,12850,19679,65568,63799,25411,44683,13164,15549,65894,23083,46897,9261,65898,63447,21301,64210,52655,4367,11018,11334,37671" treeVersion="3_13" classId="6">
-			<EditedNodes/>
+		<Spec title="1 - Cremation" ascendClassId="1" nodes="60501,39841,7444,5743,61804,6616,38129,5823,61653,41635,63447,58244,46136,49605,8198,49929,9877,21958,19501,38849,47507,61981,21575,29061,13164,8001,3656,21835,14040,35894,4502,9769,5296,18865,18769,24067,24324,50382,5456,44824,55247,38190,33310,36858,60405,1822,32710,26270,29049,37163,885,14936,42760,40366,48093,42686,61320,63799,29199,55993,27709,36678,58218,28754,64210,38995,5916,10763,58229,49515,18715,64501,20852,34882,44683,63639,40644,6785,42649,24050,28887,58649,33755,25058,44184,10893,4367,4713,56029,37671" treeVersion="3_13" classId="6">
+			<EditedNodes>
+				<EditedNode editorSeed="13252" nodeId="6799">
+					8% reduced Mana Reserved
+					6% increased effect of Non-Curse Auras from your Skills
+					+20 to Strength
+				</EditedNode>
+				<EditedNode editorSeed="13252" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+				<EditedNode editorSeed="4959" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="26960">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="53802">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="21330">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="10835">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="42981">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="60648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Ritual of Shadows" nodeId="57199">
+					30% increased Chaos Damage
+					25% chance to inflict Withered for 2 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="39648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="17821">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="21330">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Cold Resistance" nodeId="38129">
+					+12% to Cold Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Fire Resistance" nodeId="21301">
+					+11% to Fire Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Flesh to Flames" nodeId="23690">
+					30% increased Fire Damage
+					10% of Physical Damage Converted to Fire Damage
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Energy Shield" nodeId="48778">
+					4% increased maximum Energy Shield
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalOffensive.dds" nodeName="Critical Strike Chance" nodeId="15549">
+					13% increased Critical Strike Chance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Curse Effect" nodeId="37671">
+					3% increased Effect of your Curses
+				</EditedNode>
+				<EditedNode editorSeed="14000" nodeId="33545">
+					8% increased Attack Speed
+					6% increased Cast Speed
+					5% increased Movement Speed
+					10% chance to Intimidate Enemies for 4 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="160000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireOffensiveNotable.dds" nodeName="Eternal Resilience" nodeId="11420">
+					Gain 1 Endurance Charge every second if you&apos;ve been Hit Recently
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="10793" icon="Art/2DArt/SkillIcons/passives/MineManaReservationNotable.png" nodeName="Efficient Explosives" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+			</EditedNodes>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAYBAJuhqM8N0c0Wn0jZhlXglG-U8RZAflmCHqVn44SFfRewwcVQQh8YhEgyWOa-JkX8R1haMUXviAkHoS9Kiw5IJ6mMdiy_FLBJsSTAQjrowewY1890EPtjvoqIQlIprJh_xmaerTszcnBuWOUQrlONUfsx77xvXGtMLVAwcg8Rlo9GZlQdFDlJKhN9sBCS217DbTIyTN_5N2NDM2w8vVortzEkLffXUzX60s2vEQ8rCixGkyc=
+				https://www.pathofexile.com/passive-skill-tree/AAAABAYBAOxVm6EdFBZv8WwZ2JTxFr_w1aKj99fjhLQ4wcUgBsMJJpVVxkwtl8G5k_IdVEdxhTNsH0EOSFVLNtiMNhGWJikUsEmxSVFeA18ExM4VUK8Y18-VLoIej_rr9Qcef8ZmnnF5kSsDdTpYpwidrrvdpr7viPk3cg_auWw9j0bjanBS-tKYUxccKgvBa0kb-_VRdIhC-JeexBqBppld8nDX5RmD22HirJgqjREPEmna3ZMn
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="10"/>
@@ -322,59 +622,489 @@
 				<Socket nodeId="9408" itemId="45"/>
 				<Socket nodeId="36634" itemId="0"/>
 				<Socket nodeId="34483" itemId="0"/>
-				<Socket nodeId="12613" itemId="3"/>
-				<Socket nodeId="26725" itemId="0"/>
-				<Socket nodeId="54127" itemId="0"/>
-				<Socket nodeId="18436" itemId="0"/>
-				<Socket nodeId="29712" itemId="45"/>
+				<Socket nodeId="21984" itemId="44"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="61288" itemId="5"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="48679" itemId="13"/>
-				<Socket nodeId="13170" itemId="45"/>
-				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="7960" itemId="44"/>
+				<Socket nodeId="12613" itemId="3"/>
+				<Socket nodeId="9797" itemId="16"/>
+				<Socket nodeId="29712" itemId="45"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="9797" itemId="16"/>
+				<Socket nodeId="13170" itemId="45"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="48679" itemId="13"/>
 				<Socket nodeId="46393" itemId="0"/>
-				<Socket nodeId="7960" itemId="44"/>
+				<Socket nodeId="23756" itemId="0"/>
 				<Socket nodeId="59585" itemId="15"/>
 				<Socket nodeId="14993" itemId="0"/>
 				<Socket nodeId="41876" itemId="11"/>
 				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="21984" itemId="44"/>
-				<Socket nodeId="26196" itemId="14"/>
-				<Socket nodeId="49080" itemId="0"/>
-				<Socket nodeId="61288" itemId="5"/>
-				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="61419" itemId="4"/>
-				<Socket nodeId="17219" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="22748" itemId="0"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="41263" itemId="1"/>
+				<Socket nodeId="26196" itemId="14"/>
+				<Socket nodeId="61419" itemId="4"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="64583" itemId="46"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="61305" itemId="0"/>
 				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
 				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="33753" itemId="0"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="64583" itemId="46"/>
+				<Socket nodeId="61666" itemId="0"/>
 			</Sockets>
 		</Spec>
-		<Spec ascendClassId="1" nodes="16218,39841,64583,3537,59070,40776,21984,37999,65860,65573,66372,66884,33310,63447,58244,22618,61320,61419,15549,10771,3656,56158,16954,48679,60440,55247,64355,29712,34882,65536,66048,32710,66560,44347,65893,65575,4270,21389,12783,65552,66064,20528,14665,12850,19679,65568,25411,15117,4367,37671,7444,52502,9408,55686,65856,66368,38129,66880,5696,4242,42343,34173,65872,49605,66066,66896,9797,65562,66074,20546,65888,6064,65578,41876,58229,35958,11455,5296,18865,66905,46897,21033,44184,65540,66052,13170,66564,22757,65554,7960,66384,66899,48239,23659,13164,26270,28782,65874,4502,66386,44683,36678,33864,11018,66394,65882,20987,61288,50029,64210,12888,19083,63799,65890,32176,29199,26196,41263,23083,19501,9261,65898,48778,21301,43215,52655,59585,12613,11334,32345" treeVersion="3_13" classId="6">
-			<EditedNodes/>
+		<Spec title="1 - Ball Lightning Mine" ascendClassId="3" nodes="4184,40644,42686,16940,48362,38129,41472,42760,25260,27659,12824,27788,46136,49605,28012,25167,21958,8948,11420,55380,63639,18635,21575,54694,8001,1203,31875,22088,35894,19635,46408,44723,1346,39648,34098,41081,55332,64842,5087,17821,32710,30319,51462,6712,33435,46965,27929,7920,30225,44799,15064,12536,10031,41027,17735,4397,13009,13885,36949,49254,21330,14936,25058,1031,33755,2292,21297,40362,21835,24050,38995,40409,4546,44683,4502,28753,56295,32432,46277,64501,58649,45827,3656,1767,9055,41989,27203,60398,37671" treeVersion="3_13" classId="6">
+			<EditedNodes>
+				<EditedNode editorSeed="13252" nodeId="6799">
+					8% reduced Mana Reserved
+					6% increased effect of Non-Curse Auras from your Skills
+					+20 to Strength
+				</EditedNode>
+				<EditedNode editorSeed="13252" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+				<EditedNode editorSeed="4959" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="26960">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="53802">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="21330">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="10835">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="42981">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="60648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Ritual of Shadows" nodeId="57199">
+					30% increased Chaos Damage
+					25% chance to inflict Withered for 2 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="39648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="17821">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="21330">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Cold Resistance" nodeId="38129">
+					+12% to Cold Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Fire Resistance" nodeId="21301">
+					+11% to Fire Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Flesh to Flames" nodeId="23690">
+					30% increased Fire Damage
+					10% of Physical Damage Converted to Fire Damage
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Energy Shield" nodeId="48778">
+					4% increased maximum Energy Shield
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalOffensive.dds" nodeName="Critical Strike Chance" nodeId="15549">
+					13% increased Critical Strike Chance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Curse Effect" nodeId="37671">
+					3% increased Effect of your Curses
+				</EditedNode>
+				<EditedNode editorSeed="14000" nodeId="33545">
+					8% increased Attack Speed
+					6% increased Cast Speed
+					5% increased Movement Speed
+					10% chance to Intimidate Enemies for 4 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="160000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireOffensiveNotable.dds" nodeName="Eternal Resilience" nodeId="11420">
+					Gain 1 Endurance Charge every second if you&apos;ve been Hit Recently
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="10793" icon="Art/2DArt/SkillIcons/passives/MineManaReservationNotable.png" nodeName="Efficient Explosives" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+			</EditedNodes>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAYBAD9am6H8Rw3R5r6fSFXglG-CHvfX44RYWu-I7-s8vSoTDkjbXkI6vifsGNfP-2N0EIhCf8atOxCuU40x71AwOUkyMkzfY0M7DREPkycdFM0WJMDZhpTxFkAQkqVnhX3BxSZFUEIXsKOUjHYsvxSwSbG3MVIprJgzcljlHxi8b1xrM2xmnnBuEZaPRoRIKwpR--9ow2360jJYSov5N32wcg9mVKEvWitMLSQtvopTNajPza_owTFFLEZ-WQ==
+				https://www.pathofexile.com/passive-skill-tree/AAAABAYDABBYnsSmvkIsvOqU8aIApwhirGwLMhhsjLQ4wcVtbGJPVcYi9Cyc2FT4l1RH1aYfQQSzfINWSIw2TLO1SK6zBUKa4IUyoHnYJP1KE99FnX_Gdm_JBho4gpu3dW0ZHvB2Ea7_Otgw-CcvoENFRxEtMtE2PZBVwGZTUjpYYeIEB4PbCPRTMZ2qVUtd8phTndkRwhGWcFHb536wtMX79eUZswMOSAbnI1-kBWpD6-6TJw==
+			</URL>
+			<Sockets>
+				<Socket nodeId="16218" itemId="10"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="2311" itemId="11"/>
+				<Socket nodeId="9408" itemId="45"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="21984" itemId="44"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="61288" itemId="5"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="7960" itemId="44"/>
+				<Socket nodeId="12613" itemId="3"/>
+				<Socket nodeId="9797" itemId="16"/>
+				<Socket nodeId="29712" itemId="45"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="13170" itemId="45"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="48679" itemId="13"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="59585" itemId="15"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="41876" itemId="11"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="41263" itemId="1"/>
+				<Socket nodeId="26196" itemId="14"/>
+				<Socket nodeId="61419" itemId="4"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="64583" itemId="46"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+			</Sockets>
+		</Spec>
+		<Spec title="3 - Maps" ascendClassId="1" nodes="39841,43215,65561,3537,52502,40776,55686,21984,37999,38129,65860,65573,5696,4242,33310,42343,58244,12888,65872,19083,49605,6064,7960,13164,4502,11018,9797,13170,26196,65890,29712,61320,65540,59585,65888,9408,65895,66585,41263,66564,65574,65575,10771,66560,65578,3656,65536,10153,58229,35958,66905,2311,11455,5296,18865,66896,66884,16954,66880,65881,60440,55247,65856,64355,48778,34882,21033,44184,32710,26270,44347,12613,64583,28782,22757,4270,21389,7444,12783,48239,23659,32345,65552,19501,29199,66576,64210,36678,20987,63447,14665,20546,46897,59070,15549,50029,12850,19679,65568,63799,25411,32176,56158,44683,65894,23083,34173,9261,65898,33864,21301,22618,52655,4367,20528,11334,37671" treeVersion="3_13" classId="6">
+			<EditedNodes>
+				<EditedNode editorSeed="13252" nodeId="6799">
+					8% reduced Mana Reserved
+					6% increased effect of Non-Curse Auras from your Skills
+					+20 to Strength
+				</EditedNode>
+				<EditedNode editorSeed="13252" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+				<EditedNode editorSeed="4959" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="26960">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="53802">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="21330">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="10835">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="42981">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="60648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Ritual of Shadows" nodeId="57199">
+					30% increased Chaos Damage
+					25% chance to inflict Withered for 2 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="39648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="17821">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="21330">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Cold Resistance" nodeId="38129">
+					+12% to Cold Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Fire Resistance" nodeId="21301">
+					+11% to Fire Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Flesh to Flames" nodeId="23690">
+					30% increased Fire Damage
+					10% of Physical Damage Converted to Fire Damage
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Energy Shield" nodeId="48778">
+					4% increased maximum Energy Shield
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalOffensive.dds" nodeName="Critical Strike Chance" nodeId="15549">
+					13% increased Critical Strike Chance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Curse Effect" nodeId="37671">
+					3% increased Effect of your Curses
+				</EditedNode>
+				<EditedNode editorSeed="14000" nodeId="33545">
+					8% increased Attack Speed
+					6% increased Cast Speed
+					5% increased Movement Speed
+					10% chance to Intimidate Enemies for 4 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="160000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireOffensiveNotable.dds" nodeName="Eternal Resilience" nodeId="11420">
+					Gain 1 Endurance Charge every second if you&apos;ve been Hit Recently
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="10793" icon="Art/2DArt/SkillIcons/passives/MineManaReservationNotable.png" nodeName="Efficient Explosives" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+			</EditedNodes>
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABAYBAJuhqM8N0c0Wn0jZhlXglG-U8RZAEJKCHqVn44QyWEqLwcUXsB8YM2wRlisKJkUzcmZUdBDviOjBJMChLyoTDkgnqYx2CQcsvxSwSbFCOuwY18_7Y76KiEJSKayYf8Zmnq07MUX8R3BuWOUQrlONHRQx77xvXGt-WUwtcg_60o9GUfv31zlJUEK3Mea-PL3DbTIyTN_5N2NDfbDbXlorhX0kLYRIUzVYWs2vEQ9QMCxGkyc=
+			</URL>
+			<Sockets>
+				<Socket nodeId="16218" itemId="10"/>
+				<Socket nodeId="11150" itemId="0"/>
+				<Socket nodeId="61834" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="2311" itemId="11"/>
+				<Socket nodeId="9408" itemId="45"/>
+				<Socket nodeId="36634" itemId="0"/>
+				<Socket nodeId="29712" itemId="45"/>
+				<Socket nodeId="21984" itemId="44"/>
+				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="54127" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="64583" itemId="46"/>
+				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="9797" itemId="16"/>
+				<Socket nodeId="22994" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="46393" itemId="0"/>
+				<Socket nodeId="7960" itemId="44"/>
+				<Socket nodeId="59585" itemId="15"/>
+				<Socket nodeId="14993" itemId="0"/>
+				<Socket nodeId="12161" itemId="0"/>
+				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="26196" itemId="14"/>
+				<Socket nodeId="61288" itemId="5"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="41263" itemId="1"/>
+				<Socket nodeId="61419" itemId="4"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="6230" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="49684" itemId="0"/>
+				<Socket nodeId="48768" itemId="0"/>
+				<Socket nodeId="41876" itemId="11"/>
+				<Socket nodeId="13170" itemId="45"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="48679" itemId="13"/>
+				<Socket nodeId="36931" itemId="0"/>
+				<Socket nodeId="6910" itemId="0"/>
+				<Socket nodeId="12613" itemId="3"/>
+			</Sockets>
+		</Spec>
+		<Spec ascendClassId="1" nodes="16218,39841,66899,3537,59070,40776,21984,37999,65860,65573,66372,66884,33310,63447,58244,22618,61320,61419,15549,19083,3656,56158,16954,48679,60440,55247,64355,29712,34882,65536,66048,32710,66560,44347,65893,65575,4270,21389,12783,65552,66064,36678,13170,12850,19679,65568,25411,15117,4367,37671,7444,52502,9408,55686,65856,66368,38129,66880,5696,4242,42343,34173,65872,66384,66066,7960,9797,19501,66074,20546,65888,6064,65578,41876,58229,35958,11455,5296,18865,66905,46897,21033,44184,65540,66052,12613,66564,22757,59585,49605,66896,12888,48239,23659,20528,64583,26270,65874,11018,66386,20987,33864,29199,4502,64210,65882,66394,61288,50029,26196,41263,44683,63799,65890,32176,14665,28782,32345,23083,48778,9261,65898,43215,21301,13164,52655,65562,10771,11334,65554" treeVersion="3_13" classId="6">
+			<EditedNodes>
+				<EditedNode editorSeed="13252" nodeId="6799">
+					8% reduced Mana Reserved
+					6% increased effect of Non-Curse Auras from your Skills
+					+20 to Strength
+				</EditedNode>
+				<EditedNode editorSeed="13252" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+				<EditedNode editorSeed="4959" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="26960">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="53802">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="21330">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="81000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireDefensiveNotable.dds" nodeName="Superiority" nodeId="10835">
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="42981">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="60648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Ritual of Shadows" nodeId="57199">
+					30% increased Chaos Damage
+					25% chance to inflict Withered for 2 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="39648">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="17821">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="21330">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="4050" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="53802">
+					20% increased Area of Effect of Aura Skills
+					13% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Cold Resistance" nodeId="38129">
+					+12% to Cold Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Fire Resistance" nodeId="21301">
+					+11% to Fire Resistance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalNotableOffensive.dds" nodeName="Flesh to Flames" nodeId="23690">
+					30% increased Fire Damage
+					10% of Physical Damage Converted to Fire Damage
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Energy Shield" nodeId="48778">
+					4% increased maximum Energy Shield
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalOffensive.dds" nodeName="Critical Strike Chance" nodeId="15549">
+					13% increased Critical Strike Chance
+				</EditedNode>
+				<EditedNode editorSeed="905" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Curse Effect" nodeId="37671">
+					3% increased Effect of your Curses
+				</EditedNode>
+				<EditedNode editorSeed="14000" nodeId="33545">
+					8% increased Attack Speed
+					6% increased Cast Speed
+					5% increased Movement Speed
+					10% chance to Intimidate Enemies for 4 seconds on Hit
+				</EditedNode>
+				<EditedNode editorSeed="160000" icon="Art/2DArt/SkillIcons/passives/EternalEmpireOffensiveNotable.dds" nodeName="Eternal Resilience" nodeId="11420">
+					Gain 1 Endurance Charge every second if you&apos;ve been Hit Recently
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalNotableDefensive.dds" nodeName="Commanding Presence" nodeId="23690">
+					20% increased Area of Effect of Aura Skills
+					15% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="408" icon="Art/2DArt/SkillIcons/passives/VaalDefensive.dds" nodeName="Aura Effect" nodeId="48778">
+					4% increased effect of Non-Curse Auras from your Skills
+				</EditedNode>
+				<EditedNode editorSeed="10793" icon="Art/2DArt/SkillIcons/passives/MineManaReservationNotable.png" nodeName="Efficient Explosives" nodeId="44102">
+					25% increased Mine Damage
+					15% reduced Mana Reservation of Skills that throw Mines
+					Mines have a 10% chance to be Detonated an Additional Time
+					5% chance to deal Double Damage
+				</EditedNode>
+			</EditedNodes>
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABAYBAD9am6EN0ea-n0hV4JRvgh731-OEWFrviO_rPL1Kiw5I215COr4n7BjXz_tjdBCIQn_GrTsQrlONMe-PRjNyMjJM32NDOw0RD5MnHRTNFiTA2YaU8RZAEJKlZ4V9HxgmRUwtUEIXsKOUjHYsvxSwSbG3MVIprJgxRVjl6MHBxTJYvG9ca1Aw_EdmnisKUfuESHIPEZb60u9ow21mVKEv-Td9sDlJcG5-WVorvookLajPUzUzbM2vKhMsRg==
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="10"/>
@@ -387,60 +1117,60 @@
 				<Socket nodeId="9408" itemId="6"/>
 				<Socket nodeId="36634" itemId="0"/>
 				<Socket nodeId="61305" itemId="0"/>
-				<Socket nodeId="21984" itemId="9"/>
+				<Socket nodeId="12613" itemId="3"/>
 				<Socket nodeId="2491" itemId="0"/>
 				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="28475" itemId="0"/>
+				<Socket nodeId="26725" itemId="0"/>
 				<Socket nodeId="55190" itemId="0"/>
-				<Socket nodeId="18436" itemId="0"/>
-				<Socket nodeId="13170" itemId="7"/>
-				<Socket nodeId="24970" itemId="0"/>
-				<Socket nodeId="23756" itemId="0"/>
-				<Socket nodeId="46519" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="3109" itemId="0"/>
 				<Socket nodeId="60735" itemId="0"/>
+				<Socket nodeId="18436" itemId="0"/>
+				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="46519" itemId="0"/>
+				<Socket nodeId="40400" itemId="0"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="3109" itemId="0"/>
+				<Socket nodeId="29712" itemId="2"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="7960" itemId="8"/>
 				<Socket nodeId="59585" itemId="15"/>
 				<Socket nodeId="14993" itemId="0"/>
-				<Socket nodeId="41876" itemId="11"/>
+				<Socket nodeId="12161" itemId="0"/>
 				<Socket nodeId="9797" itemId="16"/>
-				<Socket nodeId="12613" itemId="3"/>
+				<Socket nodeId="28475" itemId="0"/>
 				<Socket nodeId="26196" itemId="14"/>
-				<Socket nodeId="49080" itemId="0"/>
 				<Socket nodeId="61288" itemId="5"/>
-				<Socket nodeId="34483" itemId="0"/>
-				<Socket nodeId="33989" itemId="0"/>
-				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="17219" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="22748" itemId="0"/>
-				<Socket nodeId="61419" itemId="4"/>
-				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="41263" itemId="1"/>
-				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
 				<Socket nodeId="33753" itemId="0"/>
+				<Socket nodeId="33989" itemId="0"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="17219" itemId="0"/>
+				<Socket nodeId="23984" itemId="0"/>
+				<Socket nodeId="41263" itemId="1"/>
+				<Socket nodeId="61419" itemId="4"/>
+				<Socket nodeId="22748" itemId="0"/>
+				<Socket nodeId="31683" itemId="0"/>
+				<Socket nodeId="61666" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="0"/>
-				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="29712" itemId="2"/>
-				<Socket nodeId="51198" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
-				<Socket nodeId="32763" itemId="0"/>
+				<Socket nodeId="41876" itemId="11"/>
+				<Socket nodeId="13170" itemId="7"/>
+				<Socket nodeId="33631" itemId="0"/>
+				<Socket nodeId="23756" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="0"/>
-				<Socket nodeId="26725" itemId="0"/>
+				<Socket nodeId="21984" itemId="9"/>
 			</Sockets>
 		</Spec>
 	</Tree>
 	<Notes>
 		
 	</Notes>
-	<TreeView searchStr="" zoomY="344.73781889574" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-144.7284856653"/>
+	<TreeView searchStr="" zoomY="394.90137639936" showHeatMap="false" zoomLevel="4" showStatDifferences="true" zoomX="-116.84379225919"/>
 	<Items activeItemSet="3" useSecondWeaponSet="false">
 		<Item id="1">
 			Rarity: UNIQUE
