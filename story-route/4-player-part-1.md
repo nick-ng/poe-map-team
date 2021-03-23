@@ -104,7 +104,10 @@ Passives from Quests: 2 (7)
 - Someone The Imperial Gardens WP
   - **Mark** Tower Door TP -> Tag Dominus
   - **David** Trial
-  - **Nick** Library -> Blasphemy reward, Buy Generosity (Chance Orb)
+  - **Nick** Library
+    - Blasphemy (Reward)
+    - Generosity Support (Tab 2, Chance)
+    - Pinpoint Support (Tab 6, Chance) / LMP Support (Tab 4, Transmutation
 - All turn in Tower Door
 - All do Trial
 - Wait for **Mark** to get Dominus to second phase.
