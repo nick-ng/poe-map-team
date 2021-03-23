@@ -17,9 +17,8 @@
   - Try and find the Docks waypoint. You should then farm between the Docks waypoint and Docks entrance.
   - If your inventory gets full, return to town when you're at the waypoint side of Docks.
   - 4 links can drop in the Docks.
-  - You need BBBG or BBGG. Keep your BBG item in your stash if you aren't using it.
-  - You also need BBB by act 4 so be on the lookout for them.
-  - The party needs BBBG, BBBB and RRRB.
+  - You need BBBG. Keep your BBG item in your stash if you aren't using it.
+  - The party needs BBBG and RRRB.
   - You may have noticed red "side" areas in some zones. They have a red icon on the map. Starting from the Docks, you should start entering those and killing the monsters in there.
   - Pick up any Sacrifice of X items and Vaal gems. We need several of each Vaal Grace (2), Vaal Discipline (4) and Vaal Haste (1) so pick up any extras you find.
 - Warp to Mark and talk to Lady Dialla. Take the Jade Amulet reward.

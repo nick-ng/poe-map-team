@@ -2,21 +2,21 @@
 
 - Farm The Southern Forest if character level < 12 else The Riverways (Left)
 - Warp to Nick, kill The Great White Beast, take portal
+- Take Mark's portal, kill Alira and get amulet
 - Yeena quest reward: Quicksilver Flask
 - Farm The Riverways if character level < 14 else The Western Forest
 - Warp to Mark, kill The Weaver, pick up Maligaro's Spike, take portal to town.
 - Take Nick's portal, pick up Baleful Gem, take portal to town.
 - Take David's portal, get the trial, take portal to town.
-- Greust quest reward: Herald of Ice
-- Silk quest reward: Controlled Destruction Support
-  - BBG: Freezing Pulse + Controlled Destruction + Lesser Multiple Projectiles
-  - BG: Frost Bomb + Onslaught (+ Arcane Surge)
+- Greust quest reward: Herald of Thunder
+- Silk quest reward: Elemental Focus Support
+  - BBG: Lightning Trap + Added Lightning + Multiple Trap
+  - BBG: Orb of Storms + Elemental Focus + Onslaught
   - B: Flame Dash
-  - G: Herald of Ice
+  - B: Herald of Thunder
 - Warp to Mark. Should end up near waypoint. Make a new Western Forest instance.
 - Follow road downwards to skill point. Make portal near Captain Arteri and tell everyone.
 - Everyone arrives and kills Captain Arteri. Pick up Thaumetic Emblem and put it in the wall. Take your portal back to town.
-- Take Mark's portal and kill Alira
 - Take Nick's portal and kill Kraitlyn
 - Take David's portal and kill Oak
 - Turn in the Apex (2 passive points).

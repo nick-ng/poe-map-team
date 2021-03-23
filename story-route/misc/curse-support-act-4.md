@@ -1,13 +1,13 @@
 ## Gem Links
 
-- BBBG: Freezing Pulse + Controlled Destruction + Added Lightning Damage + Lesser Multiple Projectiles
-- BBGG: Freezing Pulse + Controlled Destruction + Added Cold Damage (Act 1) + Lesser Multiple Projectiles
-- BBG: Frost Bomb + Onslaught + Arcane Surge
+- BBBG: Lightning Trap + Elemental Focus + Added Lightning Damage + Multiple Trap
+- BBG: Orb of Storms + Onslaught + Arcane Surge
 - B: Flame Dash
 
 ### Before Lab
 
-- G: Herald of Ice
+- B: Herald of Ice
+- B: Skitter Bots
 
 ### During and After Lab
 

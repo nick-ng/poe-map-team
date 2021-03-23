@@ -5,10 +5,8 @@
 - Warp to Mark, kill Justicar Casticus and pick up eyes quest item.
 - Warp to David and farm Slave Pens.
 - Warp to Mark, open door and return to town through portal.
-- Lani quest reward: First Snow jewel, Silver Flask
-  - Get second First Snow jewel from David.
-  - Socket both First Snow jewels in your passive tree
-  - BBBG: Freezing Pulse + Spell Echo + Controlled Destruction + Cold Penetration/Added Cold Damage
+- Lani quest reward: Silver Flask
+  - Lani offers you many (9?) jewel rewards. Just leave them for now.
 - Farm Slave Pens with David.
 - Warp to David and farm Chamber of Innocence with David.
 - Warp to Mark and kill Innocence
