@@ -1,29 +1,27 @@
-# <~April 2021 League>
+# Ultimatum
 
 ## Info
 
 - Team Name:
-- Duration: 9 days
-- Loot Split: 1 share each. Gear used by characters is excluded from the split. Split includes unsold items.
+- Duration: 17 April - 25 April (9 days, Saturday to Sunday)
+- Loot Split: 1 share each. Gear used by characters is excluded from the split (keep/sell items you were using). Split includes unsold items.
 
 ## Roles
 
-| Player                   | Mark                                           | David                                    | Jac                                     | Nick                                |
-| ------------------------ | ---------------------------------------------- | ---------------------------------------- | --------------------------------------- | ----------------------------------- |
-| Loot Split               | 1 share                                        | 1 share                                  | 1 share                                 | 1 share                             |
-| Role                     | Carry                                          | Aura Support                             | Curse Support                           | ES Support                          |
-| Class                    | Shadow                                         | Scion                                    | Witch                                   | Templar                             |
-| Leveling                 | Storm Brand                                    | Lightning Trap                           | Freezing Pulse                          | Cremation, Armageddon Brand         |
-| Leveling 3-Links         | BBB, BBG                                       | BBG                                      | BGG, BBG                                | BBB, BBG                            |
-| Leveling 4-Link          | BBBB                                           | RRRB                                     | BBBG                                    | BBBR                                |
-| Other Leveling Stuff     | 2 x light. craft                               | Generosity                               | 2 x cold craft                          | 2 x fire craft                      |
-| End Game                 | Penance Brand                                  | 10+ Auras                                | 6 Hexes                                 | ES Support                          |
-| Respec Criteria          | Holy Conquest                                  | 4-Link                                   | 100+ Atlas Bonus                        | 6 Stalwart Commander                |
-| Points to Respec         | 16                                             | 26                                       | 31                                      | ~120(!)                             |
-| Regrets (~18 from story) | 0                                              | 8                                        | 13                                      | 100                                 |
-| Path of Building         | [Penance Brand](https://pastebin.com/kHpNSBHs) | [Auras](https://pastebin.com/xFxGNVEg)   | [Curses](https://pastebin.com/wf2dTcd8) | [ES](https://pastebin.com/uZCkVLcG) |
-| Leveling Tree            | [Storm Brand](http://poeurl.com/dcCJ)          | [Lightning Trap](http://poeurl.com/dcCL) | [Freeze Pulse](http://poeurl.com/dcCH)  | Totems                              |
-| Final Tree               | [Penance Brand](http://poeurl.com/dcCK)        | [Auras](http://poeurl.com/dcCN)          | [Curses](http://poeurl.com/dcCI)        | [ES]()                              |
+| Player                   | Mark                                           | David                                    | Jac                                      | Nick                                |
+| ------------------------ | ---------------------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------- |
+| Loot Split               | 1 share                                        | 1 share                                  | 1 share                                  | 1 share                             |
+| Role                     | Carry (Penance Brand)                          | Aura Support                             | Curse Support                            | ES Support                          |
+| Class                    | Shadow                                         | Scion                                    | Witch                                    | Templar                             |
+| Leveling                 | Ball Lightning Mines                           | Lightning Trap                           | Lightning Trap                           | Cremation > Totems                  |
+| Leveling 3-Links         | 2x BBG                                         | 2x BBG                                   | 2x BBG                                   | BBG                                 |
+| Leveling 4-Link          | BBBG                                           | RRRB                                     | BBBG                                     | BBBG                                |
+| Other Leveling Stuff     | 2 x light. craft                               | Generosity                               | 2 x light. craft                         | 2 x fire craft                      |
+| Points to Respec         | ~120                                           | 26                                       | 31                                       | ~120                                |
+| Regrets (~18 from story) | 100                                            | 8                                        | 13                                       | 100                                 |
+| Path of Building         | [Penance Brand](https://pastebin.com/kHpNSBHs) | [Auras](https://pastebin.com/xFxGNVEg)   | [Curses](https://pastebin.com/wf2dTcd8)  | [ES](https://pastebin.com/uZCkVLcG) |
+| Leveling Tree            | [Ball Lightning Mines](http://poeurl.com/deDJ) | [Lightning Trap](http://poeurl.com/dcCL) | [Lightning Trap](http://poeurl.com/deDK) | [Totems](http://poeurl.com/deDL)    |
+| Final Tree               | [Penance Brand](http://poeurl.com/dcCK)        | [Auras](http://poeurl.com/dcCN)          | [Curses](http://poeurl.com/dcCI)         | [ES](http://poeurl.com/deDM)        |
 
 ## Notes
 
@@ -34,6 +32,7 @@
 ## Links
 
 - [4-Person Story Route Act 1-5](https://github.com/nick-ng/poe-map-team/blob/main/story-route/4-player-part-1.md)
+- [4-Person Story Route Act 6-10](https://github.com/nick-ng/poe-map-team/blob/main/story-route/4-player-part-2.md)
 - [Searches](https://github.com/nick-ng/poe-map-team/wiki/Searches)
 - [Mapping](https://github.com/nick-ng/poe-map-team/wiki/Mapping)
 - [Skill Gem Planner](https://old.reddit.com/r/pathofexile/comments/kxgtws/313_league_start_skill_gem_planner/)
