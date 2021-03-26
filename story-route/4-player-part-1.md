@@ -109,6 +109,7 @@ Passives from Quests: 2 (7)
     - Generosity Support (Tab 2, Chance)
     - Charged Mines (Tab 6, Chance)
     - Pinpoint Support (Tab 6, Chance) / LMP Support (Tab 4, Transmutation
+    - Total: 3 Chance
 - All turn in Tower Door
 - All do Trial
 - Wait for **Mark** to get Dominus to second phase.
