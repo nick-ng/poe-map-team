@@ -13,14 +13,14 @@ Character level: 40 - 56
 Passives from Quests: 3 (13)
 
 - **Nick** The Coast -> The Mud Flats -> tag The Dishonoured Queen
-  - **Mark** warp to **Nick** and put TP at Tidal Island quest chest.
+  - **Mark** warp to **Nick** at The Coast WP and put TP at Tidal Island quest chest.
   - All kill The Dishonoured Queen and get quest item.
 - All run and open door.
+- All get Bestel's Epic.
 - **Nick** The Karui Fortress -> tag Tukohama
   - All kill Tukohama
 - **Nick** The Ridge > The Lower Prison > Shavronne's Tower -> TP
 - **David** and **Jac** The Lower Prison > find Trial
-- **Mark** Tidal Island TP
 - **Jac** and **David** Twilight Strand (**Mark** join for boss if he needs the gem vendor)
 - All kill Shavronne
 - **Jac** and **David** Prisoner's Gate -> Abberath TP at third room
@@ -63,12 +63,23 @@ Passives from Quests: 3 (16)
 - **Mark** Northern Forest > The Dread Thicket
   - Tag Gruthkul, TP and farm
 - **Nick** Northern Forest > Causeway
+  - All kill Gruthkul > The Dread Thicket
+  - All get 7 Fireflies
+- **Nick** Causeway > Vaal City
+  - All turn in 7 Fireflies
+- **Nick** The Temple of Decay Level 2 > tag Arakaali > TP
+  - All kill Arakaali
 
 ## Act 8
 
 Area Level: 55 - 60
 Character level: 49 - 67
 Passives from Quests: 3 (19)
+
+- **Mark** The Sarn Ramparts > The Toxic Conduits > Doedre's Cesspool > tag Doedre
+  - All kill Doedre
+- **Mark** Quay > ... > The Solaris Temple Level 2 > tag boss
+- **Nick** The Grand Promenade > ... > The Lunaris Temple Level 2
 
 ## Act 9
 
