@@ -19,16 +19,16 @@ Passives from Quests: 3 (13)
 - All get Bestel's Epic.
 - **Nick** The Karui Fortress -> tag Tukohama
   - All kill Tukohama
-- **Nick** The Ridge > The Lower Prison > Shavronne's Tower -> TP
-- **David** and **Jac** The Lower Prison > find Trial
-- **Jac** and **David** Twilight Strand (**Mark** join for boss if he needs the gem vendor)
+- **Nick** The Ridge > The Lower Prison > Trial TP > Shavronne's Tower > TP
+- **Mark**, **Jac** and **David** Twilight Strand
+- **Mark**, **Jac** and **David** get Trial
 - All kill Shavronne
-- **Jac** and **David** Prisoner's Gate -> Abberath TP at third room
-- **Mark** Prisoner's Gate -> Western Forest -> The Riverways WP -> The Southern Forest -> The Cavern of Anger TP at flag -> The Beacon WP
-  - **Nick** The Riverways -> The Wetlands -> Ryslatha TP at Ryslatha phase
+- **Mark** Prisoner's Gate > Western Forest > Riverways WP > Wetlands > Get Ryslatha to spawn, TP
+  - **Nick** Prisoner's Gate > Abberath third room, TP
+- All kill Ryslatha
+- All kill Abberath
+- **Mark** Riverways WP -> The Southern Forest -> The Cavern of Anger TP at flag -> The Beacon WP
   - All get Flag
-  - All kill Abberath
-  - All kill Ryslatha
 - **Mark** The Beacon -> Double Gauntlet TP
   - **Nick** Double Gauntlet
   - All burn flag
@@ -43,7 +43,7 @@ Passives from Quests: 3 (16)
 
 - **Mark** The Broken Bridge > Silver Locket > TP
   - Everyone get Silver Locket when convenient
-  - Get Granite or Basalt here. You are offered Quartz again at the start of Act 10
+  - Get Diamond, Granite or Basalt here. You are offered Quartz again at the start of Act 10
 - **Nick** The Broken Bridge > The Crossroads WP
 - **Mark** warp to **Nick** and go to The Chamber of Sins 1 WP > Farm
 - **Nick** The Fellshrine Ruins > The Crypt > Map
