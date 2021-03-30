@@ -161,13 +161,13 @@ Passives from Quests: 2 (10)
 - All Slave Pens
   - Remember to click on the waypoint.
 - **Mark** tag Justicar Casticus (just before Control Blocks Exit)
-- **Nick** Miasmeter TP
-  - All Miasmeter TP except **Mark**
-  - **David** replace Miasmeter TP
+- **Nick** Miasmeter TP, DON'T open Miasmeter
+  - All Miasmeter
   - All kill Justicar Casticus
+  - All Oriath Square > WP
 - **Mark** Oriath Square > TP at door to The Templar Courts
   - All open door.
-  - Quest rewards. All get First Snow jewel (Freezing Pulse) **Mark** and **David** put jewels in guild stash (**David** can give his directly to **Jac**)
+  - Don't take jewel from quests. Save for later.
 - **Mark** The Chamber of Innocence > TP > tag Innocence phase 2
   - All kill Innocence
 - **Nick** The Torched Courts > The Ruined Square WP
