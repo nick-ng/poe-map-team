@@ -108,8 +108,7 @@ Passives from Quests: 2 (7)
     - Blasphemy (Reward)
     - Generosity Support (Tab 2, Chance)
     - Charged Mines (Tab 6, Chance)
-    - Pinpoint Support (Tab 6, Chance) / LMP Support (Tab 4, Transmutation
-    - Total: 3 Chance
+    - Pinpoint Support (Tab 6, Chance) / LMP Support (Tab 4, Transmutation)
 - All turn in Tower Door
 - All do Trial
 - Wait for **Mark** to get Dominus to second phase.
@@ -127,7 +126,7 @@ From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate le
 - Farm Aqueduct (character lvl 29+) or Dried Lake (clvl 30+)
 - Highest Level tag Voll
   - All kill Voll
-  - Turn in quest
+  - Turn in quest (mine entrance). See below for golem quest reward\*.
 - Highest Level The Mines Level 1 > The Mines Level 2
   - TP at Deshret's spirit
   - All get Deshret's spirit
@@ -146,6 +145,12 @@ From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate le
 - **David** and **Jac** farm Daresso's Dream together
 - Highest Level find 3 organs > open TP near WP > tag Malachi phase 2
 - All TP to The Harvest (3rd heart) > Kill Malachi
+- \*Golem quest reward:
+  - **Jac**: Stone Golem
+  - **David**: Chaos Golem
+  - **Mark**: Fire Golem
+  - **Nick**: Lightning Golem
+- Give **Jac** golem gems / put in guild stash for **Jac**
 - All The Ascent
 
 ## Act 5
