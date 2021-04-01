@@ -138,9 +138,7 @@ From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate le
 - All kill Kaom > Anyone replace TP
 - All turn in Belly of the Beast
 - Normal Labyrinth
-  - **Jac** Blasphemy, Ele. Weakness, Enfeeble
-  - **David** Generosity, Anger, Zealotry, Smite
-- Highest Level Belly of the Beast Level 2 > Kill Piety > TP
+  Highest Level Belly of the Beast Level 2 > Kill Piety > TP
 - All talk to Piety
 - **David** and **Jac** farm Daresso's Dream together
 - Highest Level find 3 organs > open TP near WP > tag Malachi phase 2
@@ -168,7 +166,10 @@ Passives from Quests: 2 (10)
 - **Mark** Oriath Square > TP at door to The Templar Courts
   - All open door.
   - Don't take jewel from quests. Save for later.
-- **Mark** The Chamber of Innocence > TP > tag Innocence phase 2
+- **Mark** The Chamber of Innocence
+  - **David** Generosity, Anger, Zealotry, Smite
+  - **David** and **Jac** farm Chamber of Innocence together
+    **Mark** TP and tag Innocence phase 2
   - All kill Innocence
 - **Nick** The Torched Courts > The Ruined Square WP
 - **Mark** Warp The Ruined Square > The Ossuary > TP at staff
