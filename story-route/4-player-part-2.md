@@ -78,8 +78,27 @@ Passives from Quests: 3 (19)
 
 - **Mark** The Sarn Ramparts > The Toxic Conduits > Doedre's Cesspool > tag Doedre
   - All kill Doedre
-- **Mark** Quay > ... > The Solaris Temple Level 2 > tag boss
-- **Nick** The Grand Promenade > ... > The Lunaris Temple Level 2
+- Get crafting recipe
+- **Mark** Solaris side (up right)
+  - Quay > Ressurection Site > Wait until Tolman becomes attackable
+    - All do skill point
+  - The Grain Gate > find Gemling Legionnaire > TP
+    - They have a book near them on the mini map
+    - All kill Gemling Legionnaires
+  - The Imperial Fields > The Solaris Temple level 1 WP > The Solaris Temple Level 2 > tag boss
+  - All kill boss and get item
+  - Solaris Concourse WP > Farm
+- **Nick** Lunaris side (down left)
+  - The Grand Promenade > The Bath House WP > Trial TP
+    - **David** and **Jac** get Trial and replace TP
+  - High Gardens TP
+    - All do skill point
+  - The Bath House WP > Hector Titucius TP
+    - **Nick** get Conqueror's Potency (blue), everyone else get Conqueror's Efficiency (red). Put all jewels in guild stash
+  - Lunaris Concourse > Lunaris 1 > Lunaris 2 TP > tag boss
+    - All kill boss and get item
+- Someone do Harbour Bridge and tag bosses
+  - All kill bosses
 
 ## Act 9
 
@@ -87,8 +106,27 @@ Area Level: 61 - 64
 Character level: 55 - 71
 Passives from Quests: 2 (21)
 
+- Switch to BA filter
+- Fix resists, gems, weapon swap gem leveling, etc.
+- Farm The Blood Aqueduct until lvl 57+
+- **Mark** or **Nick** (first to 57) Descent > Vastiri Desert > TP at Foothills WP > Tunnel > Quarry WP > Refinery (up) > Tag boss
+  - All kill boss and get Trarthan Powder
+- **Mark** or **Nick** Foothills WP > Boiling Lake > tag The Basilisk
+  - All kill the Basilisk and get Basilisk Acid
+- **Mark** new Quarry instance
+  - All warp to **Mark** and burn the beast
+- Higher level run to the Rotting Core. Other runner Quarry skill points (down)
+  - Enter all 3 portals and spawn the Depraved Trinity. Tag and TP
+  - All kill Depraved Trinity
+
 ## Act 10
 
 Area Level: 64 - 67
 Character level: 58 - 74
 Passives from Quests: 3 (24)
+
+- Runner go to roof top, TP and start Bannon event
+  - All save Bannon and talk to him
+- Runner go to Ravaged Square WP > Torched Courts > Desecrated Chamber
+- ## Second runner warp to Ravaged Square WP > Ossuary > Trial TP
+  - Respec
