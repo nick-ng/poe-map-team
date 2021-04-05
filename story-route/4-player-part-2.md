@@ -8,8 +8,8 @@ Everyone should farm in one of these zones while waiting:
 
 ## Act 6
 
-Area Level: 45 - 50
-Character level: 40 - 56
+Area Level: 45 - 50  
+Character level: 40 - 56  
 Passives from Quests: 3 (13)
 
 - **Nick** The Coast -> The Mud Flats -> tag The Dishonoured Queen
@@ -37,8 +37,8 @@ Passives from Quests: 3 (13)
 
 ## Act 7
 
-Area Level: 50 - 55
-Character level: 45 - 61
+Area Level: 50 - 55  
+Character level: 45 - 61  
 Passives from Quests: 3 (16)
 
 - **Mark** The Broken Bridge > Silver Locket > TP
@@ -72,8 +72,8 @@ Passives from Quests: 3 (16)
 
 ## Act 8
 
-Area Level: 55 - 60
-Character level: 49 - 67
+Area Level: 55 - 60  
+Character level: 49 - 67  
 Passives from Quests: 3 (19)
 
 - **Mark** The Sarn Ramparts > The Toxic Conduits > Doedre's Cesspool > tag Doedre
@@ -102,8 +102,8 @@ Passives from Quests: 3 (19)
 
 ## Act 9
 
-Area Level: 61 - 64
-Character level: 55 - 71
+Area Level: 61 - 64  
+Character level: 55 - 71  
 Passives from Quests: 2 (21)
 
 - Switch to BA filter
@@ -121,12 +121,16 @@ Passives from Quests: 2 (21)
 
 ## Act 10
 
-Area Level: 64 - 67
-Character level: 58 - 74
+Area Level: 64 - 67  
+Character level: 58 - 74  
 Passives from Quests: 3 (24)
 
 - Runner go to roof top, TP and start Bannon event
   - All save Bannon and talk to him
-- Runner go to Ravaged Square WP > Torched Courts > Desecrated Chamber
-- ## Second runner warp to Ravaged Square WP > Ossuary > Trial TP
-  - Respec
+- Runner go to Ravaged Square WP > Torched Courts > Desecrated Chamber > Tag Boss and TP
+- Second runner warp to Ravaged Square WP > Ossuary > Trial TP
+  - **David** and **Jac** get Trial and replace TP
+  - Second runner run to Elixir of Allure and TP
+  - **David** and **Jac** get Elixir
+- Second runner get Control Blocks WP
+- All kill Avarius and get Staff
