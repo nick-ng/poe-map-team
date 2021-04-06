@@ -134,3 +134,7 @@ Passives from Quests: 3 (24)
   - **David** and **Jac** get Elixir
 - Second runner get Control Blocks WP
 - All kill Avarius and get Staff
+- Go to Ravaged Square WP and turn in staff
+  - **David** and **Jac** warp to someone in Ravaged Square and turn in staff
+- Main runner get to Kitava and TP
+- All kill Kitava
