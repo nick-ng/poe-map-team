@@ -33,6 +33,7 @@
 
 - [4-Person Story Route Act 1-5](https://github.com/nick-ng/poe-map-team/blob/main/story-route/4-player-part-1.md)
 - [4-Person Story Route Act 6-10](https://github.com/nick-ng/poe-map-team/blob/main/story-route/4-player-part-2.md)
+- [Post-Story Plan](https://github.com/nick-ng/poe-map-team/blob/main/story-route/4-player-part-3-mapping.md)
 - [Searches](https://github.com/nick-ng/poe-map-team/wiki/Searches)
 - [Mapping](https://github.com/nick-ng/poe-map-team/wiki/Mapping)
 - [Skill Gem Planner](https://old.reddit.com/r/pathofexile/comments/kxgtws/313_league_start_skill_gem_planner/)
