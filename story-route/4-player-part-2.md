@@ -83,6 +83,7 @@ Passives from Quests: 3 (19)
   - Quay > Ressurection Site > Wait until Tolman becomes attackable
     - All do skill point
   - The Grain Gate > find Gemling Legionnaire > TP
+    - The correct buildings to enter have dead guard bodies near their entrances
     - They have a book near them on the mini map
     - All kill Gemling Legionnaires
   - The Imperial Fields > The Solaris Temple level 1 WP > The Solaris Temple Level 2 > tag boss
