@@ -1,4 +1,4 @@
-# <July> League
+# \<July> League
 
 ## Info
 
