@@ -8,5 +8,6 @@
 
 ## Players
 
-- Nick: Curse Support(?)
-- ?
+- Mark: Windripper Carry
+- David: Aura Bot
+- Nick: Curse Bot

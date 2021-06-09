@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="91" targetVersion="3_0" pantheonMajorGod="Lunaris" bandit="None" className="Scion" ascendClassName="Ascendant" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="Shakari">
-		<PlayerStat stat="AverageDamage" value="2725.1649792"/>
-		<PlayerStat stat="Speed" value="1.7625"/>
-		<PlayerStat stat="Speed" value="1.7625"/>
-		<PlayerStat stat="Speed" value="1.7625"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="12.48"/>
-		<PlayerStat stat="CritChance" value="9.984"/>
+	<Build level="91" targetVersion="3_0" pantheonMajorGod="Lunaris" bandit="None" className="Scion" ascendClassName="Ascendant" mainSocketGroup="6" viewMode="SKILLS" pantheonMinorGod="Shakari">
+		<PlayerStat stat="AverageHit" value="0"/>
+		<PlayerStat stat="AverageDamage" value="0"/>
+		<PlayerStat stat="Speed" value="6.6666666666667"/>
+		<PlayerStat stat="Speed" value="6.6666666666667"/>
+		<PlayerStat stat="Speed" value="6.6666666666667"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="0"/>
+		<PlayerStat stat="CritChance" value="0"/>
 		<PlayerStat stat="CritMultiplier" value="1.8"/>
-		<PlayerStat stat="HitChance" value="80"/>
-		<PlayerStat stat="TotalDPS" value="4803.10327584"/>
-		<PlayerStat stat="TotalDPS" value="4803.10327584"/>
+		<PlayerStat stat="HitChance" value="100"/>
+		<PlayerStat stat="TotalDPS" value="0"/>
+		<PlayerStat stat="TotalDPS" value="0"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="4803.10327584"/>
-		<PlayerStat stat="IgniteDPS" value="2061.5625"/>
-		<PlayerStat stat="IgniteDamage" value="8246.25"/>
-		<PlayerStat stat="WithIgniteDPS" value="6864.66577584"/>
-		<PlayerStat stat="WithPoisonDPS" value="4803.10327584"/>
-		<PlayerStat stat="TotalDotDPS" value="2061.5625"/>
-		<PlayerStat stat="CombinedDPS" value="6864.66577584"/>
-		<PlayerStat stat="CombinedAvg" value="4803.10327584"/>
-		<PlayerStat stat="AreaOfEffectRadius" value="28"/>
-		<PlayerStat stat="ManaCost" value="0"/>
+		<PlayerStat stat="WithBleedDPS" value="0"/>
+		<PlayerStat stat="WithIgniteDPS" value="0"/>
+		<PlayerStat stat="WithPoisonDPS" value="0"/>
+		<PlayerStat stat="TotalDotDPS" value="0"/>
+		<PlayerStat stat="CombinedDPS" value="0"/>
+		<PlayerStat stat="CombinedAvg" value="0"/>
+		<PlayerStat stat="Cooldown" value="1.122"/>
+		<PlayerStat stat="ManaCost" value="14"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="ESCost" value="0"/>
 		<PlayerStat stat="RageCost" value="0"/>
@@ -58,7 +57,7 @@
 		<PlayerStat stat="Armour" value="187"/>
 		<PlayerStat stat="Spec:ArmourInc" value="0"/>
 		<PlayerStat stat="PhysicalDamageReduction" value="23"/>
-		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.17"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.78"/>
 		<PlayerStat stat="BlockChance" value="22"/>
 		<PlayerStat stat="SpellBlockChance" value="0"/>
 		<PlayerStat stat="AttackDodgeChance" value="75"/>
@@ -72,7 +71,7 @@
 		<PlayerStat stat="ChaosResist" value="-10"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
 		<PlayerStat stat="FullDPS" value="0"/>
-		<PlayerStat stat="SkillDPS" value="table: 0x1957ebb8"/>
+		<PlayerStat stat="SkillDPS" value="table: 0x14961c48"/>
 		<PlayerStat stat="PowerCharges" value="0"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="0"/>
@@ -115,16 +114,16 @@
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" source="Item:6:Sign of the Sin Eater, Tyrant&apos;s Sekhem" enabled="true" slot="Weapon 1" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="30" enableGlobal1="true" skillId="Smite" qualityId="Default" quality="0" enabled="true" count="1" nameSpec="Smite" skillMinion="SummonedPhantasm"/>
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportGenerosity" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemGenerosity" quality="0" enabled="true" count="1" nameSpec="Generosity"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportReducedMana" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemReducedMana" quality="0" enabled="true" count="1" nameSpec="Inspiration"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportIncreasedDuration" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" quality="0" enabled="true" count="1" nameSpec="Increased Duration"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportReducedMana" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemReducedMana" quality="0" enabled="true" count="1" nameSpec="Inspiration"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedDuration" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" quality="0" enabled="true" count="1" nameSpec="Increased Duration"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Weapon 1" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportGenerosity" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemGenerosity" quality="0" enabled="true" count="1" nameSpec="Generosity"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportReducedMana" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemReducedMana" quality="0" enabled="true" count="1" nameSpec="Inspiration"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportIncreasedDuration" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" quality="0" enabled="true" count="1" nameSpec="Increased Duration"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportReducedMana" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SupportGemReducedMana" quality="0" enabled="true" count="1" nameSpec="Inspiration"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedDuration" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" quality="0" enabled="true" count="1" nameSpec="Increased Duration"/>
 		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Weapon 2" mainActiveSkill="1">
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Anger" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemAnger" quality="0" enabled="true" count="1" nameSpec="Anger" skillMinion="SkitterbotCold"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Haste" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemHaste" quality="0" enabled="true" count="1" nameSpec="Haste" skillMinion="SkitterbotCold"/>
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="FireResistAura" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemFireResistAura" quality="0" enabled="true" count="1" nameSpec="Purity of Fire" skillMinion="SkitterbotCold"/>
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Discipline" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemDiscipline" quality="0" enabled="true" count="1" nameSpec="Discipline" skillMinion="AxisEliteSoldierDominatingBlow"/>
 		</Skill>
@@ -134,32 +133,37 @@
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportBloodMagic" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemBloodMagic" quality="0" enabled="true" count="1" nameSpec="Arrogance"/>
 			<Gem enableGlobal2="false" level="2" enableGlobal1="true" skillId="AccuracyAndCritsAura" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemPrecision" quality="0" enabled="true" count="1" nameSpec="Precision"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Body Armour" mainActiveSkill="1">
-			<Gem enableGlobal2="false" level="1" enableGlobal1="true" skillId="Clarity" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemClarity" quality="0" enabled="true" count="1" nameSpec="Clarity"/>
-			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="Grace" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemGrace" quality="0" enabled="true" count="1" nameSpec="Grace"/>
-			<Gem enableGlobal2="nil" level="1" enableGlobal1="true" skillId="Vitality" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemVitality" quality="0" enabled="true" count="1" nameSpec="Vitality"/>
-		</Skill>
 		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Gloves" mainActiveSkill="1">
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SpellDamageAura" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemSpellDamageAura" quality="0" enabled="true" count="1" nameSpec="Zealotry" skillMinion="SkitterbotCold"/>
+			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Anger" skillMinionItemSet="1" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemAnger" quality="0" enabled="true" count="1" nameSpec="Anger" skillMinion="AnimatedArmour"/>
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Wrath" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemWrath" quality="0" enabled="true" count="1" nameSpec="Wrath" skillMinion="SkitterbotCold"/>
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="Hatred" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemHatred" quality="0" enabled="true" count="1" nameSpec="Hatred"/>
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportGenerosity" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemGenerosity" quality="0" enabled="true" count="1" nameSpec="Generosity"/>
 		</Skill>
-		<Skill mainActiveSkillCalcs="2" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Boots" mainActiveSkill="1">
+		<Skill mainActiveSkillCalcs="nil" includeInFullDPS="nil" label="" groupCount="nil" enabled="true" slot="Boots" mainActiveSkill="1">
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="QuickDodge" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemDash" quality="0" enabled="true" count="1" nameSpec="Dash"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportAdditionalCooldown" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemSecondWind" quality="0" enabled="true" count="1" nameSpec="Second Wind"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="SupportIncreasedDuration" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" quality="0" enabled="true" count="1" nameSpec="Increased Duration"/>
+			<Gem enableGlobal2="nil" level="20" enableGlobal1="true" skillId="NewPhaseRun" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemNewPhaseRun" quality="0" enabled="true" count="1" nameSpec="Phase Run"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="2" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Body Armour" mainActiveSkill="1">
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="VaalDiscipline" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemVaalDiscipline" quality="0" enabled="true" count="1" nameSpec="Vaal Discipline" skillMinion="SkitterbotCold"/>
-			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="VaalGrace" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemVaalGrace" quality="0" enabled="true" count="1" nameSpec="Vaal Grace"/>
+			<Gem enableGlobal2="true" level="20" enableGlobal1="true" skillId="VaalGrace" qualityId="Default" skillPart="1" gemId="Metadata/Items/Gems/SkillGemVaalGrace" quality="0" enabled="true" count="1" nameSpec="Vaal Grace"/>
 			<Gem enableGlobal2="false" level="20" enableGlobal1="true" skillId="SupportIncreasedDuration" qualityId="Default" gemId="Metadata/Items/Gems/SupportGemIncreasedDuration" quality="0" enabled="true" count="1" nameSpec="Increased Duration"/>
+		</Skill>
+		<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" groupCount="nil" enabled="true" slot="Body Armour" mainActiveSkill="1">
+			<Gem enableGlobal2="false" level="1" enableGlobal1="true" skillId="Clarity" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemClarity" quality="0" enabled="true" count="1" nameSpec="Clarity"/>
+			<Gem enableGlobal2="false" level="1" enableGlobal1="true" skillId="Vitality" qualityId="Default" gemId="Metadata/Items/Gems/SkillGemVitality" quality="0" enabled="true" count="1" nameSpec="Vitality"/>
 		</Skill>
 	</Skills>
 	<Tree activeSpec="1">
-		<Spec title="&quot;Budget&quot;" ascendClassId="1" nodes="7388,64583,20987,36634,21984,65860,66884,64265,60090,57736,39085,35754,22618,47251,61320,33989,12143,58029,41263,22473,51923,2311,55247,29712,59606,65536,918,32710,15144,66816,62162,3452,23334,65552,66576,66832,59585,13170,58833,28221,24643,65824,28574,44941,24496,10490,49651,60398,37671,7444,28859,52502,9408,2521,41534,18033,18436,42760,56722,22551,65872,49605,15435,66896,66578,66834,9797,65562,66586,66842,6797,6538,65826,33545,48768,6910,18865,46092,65856,65554,21033,22748,10099,6799,65540,65578,65568,66564,66820,49978,8938,9392,65808,48778,5935,66560,30919,41635,65874,64210,63194,36678,66898,21974,55571,23950,65882,65792,7594,51782,66906,33753,25831,63799,65890,39861,60440,51786,1461,66880,65834,65818,65898,65570,65888,65796,65810,32763,32932,7960,12613" treeVersion="3_14" classId="0">
+		<Spec title="&quot;Budget&quot;" ascendClassId="1" nodes="7388,64583,20987,9392,21984,65860,66884,64265,41635,57736,39085,35754,22618,47251,61320,33989,12143,58029,41263,22473,51923,2311,55247,48778,59606,65536,65792,32710,66560,33753,62162,3452,23334,65808,66576,66832,59585,13170,58833,28221,24643,65568,28574,44941,24496,10490,49651,60398,37671,7444,28859,52502,9408,2521,41534,66880,18436,42760,5935,22551,65872,49605,15435,32932,66578,66834,9797,65818,66586,66842,65888,6538,65570,33545,65834,6910,18865,49978,12613,65810,6799,65796,60090,10099,65540,46092,56722,66564,66820,65856,8938,60440,21033,918,15144,63194,29712,7960,65874,32763,64210,36678,66898,21974,55571,23950,65882,30919,7594,51782,66906,66816,25831,63799,65890,65552,39861,51786,1461,65824,66896,65562,65898,48768,65554,22748,65578,65826,6797,36634,18033" treeVersion="3_14" classId="0">
 			<EditedNodes>
 				<EditedNode editorSeed="90720" icon="Art/2DArt/SkillIcons/passives/EternalEmpireOffensiveNotable.dds" nodeName="Discerning Taste" nodeId="45067">
 					40% increased Rarity of Items found
 				</EditedNode>
 			</EditedNodes>
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABAABABzc_EdR-48aVeD7Ceq64YiYrVhauJPviITFL2_iraEvV8nK0wkH1890EOjWA5Z_xjso8tINfFsm6MEzcm49YENvnq-NX7Ao-sHz6-6TJx0UcLvNFiTACdmiPkZxSASnCN2SWBfBxTxLJkUajRmKgwm-gBr-SbG0DFIpWNwncxqPwzoi6iSwvooXL3jHoqP60vbaj0ZV1tkTXY4dqspGg9lk5_k3m7XsGMpKBbV_-4CkHxgxRQ==
+				https://www.pathofexile.com/passive-skill-tree/AAAABAABABzc_EdR-ySwVeD7CaKj4YiYrVhauJPviITFL2_iraEvV8nK0wkH18--iujWf8aD2fLSDXxbJujBM3JuPWBDb56vjV-wKPrB8-vukycdFHC7zRYkwAnZoj5IBKcIFy9YF8HFPEuApCZFGYqDCRr-SbHDOjFFGo_quidztAzdkiLq7BhSKQOWOyj22nQQHxh_-_rSj0ZV1tkTXY54xx2qykZk5_k3m7XKSgW1voBY3BqNjxpGcQ==
 			</URL>
 			<Sockets>
 				<Socket nodeId="16218" itemId="0"/>
@@ -171,54 +175,54 @@
 				<Socket nodeId="2311" itemId="16"/>
 				<Socket nodeId="9408" itemId="2"/>
 				<Socket nodeId="36634" itemId="4"/>
-				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="29712" itemId="2"/>
 				<Socket nodeId="21984" itemId="1"/>
 				<Socket nodeId="26725" itemId="0"/>
 				<Socket nodeId="54127" itemId="0"/>
 				<Socket nodeId="31683" itemId="0"/>
-				<Socket nodeId="61305" itemId="0"/>
+				<Socket nodeId="13170" itemId="2"/>
 				<Socket nodeId="55190" itemId="0"/>
+				<Socket nodeId="14993" itemId="0"/>
 				<Socket nodeId="33753" itemId="19"/>
-				<Socket nodeId="2491" itemId="0"/>
-				<Socket nodeId="6230" itemId="0"/>
-				<Socket nodeId="12613" itemId="16"/>
+				<Socket nodeId="9797" itemId="16"/>
+				<Socket nodeId="7960" itemId="1"/>
 				<Socket nodeId="46519" itemId="0"/>
 				<Socket nodeId="40400" itemId="0"/>
-				<Socket nodeId="32763" itemId="1"/>
+				<Socket nodeId="33631" itemId="0"/>
 				<Socket nodeId="3109" itemId="0"/>
-				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="60735" itemId="0"/>
 				<Socket nodeId="46393" itemId="0"/>
 				<Socket nodeId="23756" itemId="0"/>
 				<Socket nodeId="59585" itemId="16"/>
-				<Socket nodeId="14993" itemId="0"/>
-				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="32763" itemId="1"/>
+				<Socket nodeId="12161" itemId="0"/>
 				<Socket nodeId="28475" itemId="0"/>
-				<Socket nodeId="29712" itemId="2"/>
-				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="18436" itemId="16"/>
+				<Socket nodeId="26196" itemId="0"/>
 				<Socket nodeId="61288" itemId="0"/>
-				<Socket nodeId="10532" itemId="0"/>
+				<Socket nodeId="49080" itemId="0"/>
+				<Socket nodeId="24970" itemId="0"/>
 				<Socket nodeId="33989" itemId="3"/>
-				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="46882" itemId="0"/>
 				<Socket nodeId="17219" itemId="0"/>
 				<Socket nodeId="23984" itemId="0"/>
-				<Socket nodeId="22748" itemId="16"/>
-				<Socket nodeId="44169" itemId="0"/>
-				<Socket nodeId="41263" itemId="5"/>
-				<Socket nodeId="51198" itemId="0"/>
 				<Socket nodeId="61666" itemId="0"/>
-				<Socket nodeId="46882" itemId="0"/>
-				<Socket nodeId="24970" itemId="0"/>
+				<Socket nodeId="61419" itemId="0"/>
+				<Socket nodeId="22748" itemId="16"/>
+				<Socket nodeId="51198" itemId="0"/>
+				<Socket nodeId="41263" itemId="5"/>
+				<Socket nodeId="44169" itemId="0"/>
+				<Socket nodeId="10532" itemId="0"/>
 				<Socket nodeId="49684" itemId="0"/>
 				<Socket nodeId="48768" itemId="18"/>
-				<Socket nodeId="12161" itemId="0"/>
-				<Socket nodeId="60735" itemId="0"/>
-				<Socket nodeId="33631" itemId="0"/>
-				<Socket nodeId="7960" itemId="1"/>
-				<Socket nodeId="9797" itemId="16"/>
+				<Socket nodeId="41876" itemId="0"/>
+				<Socket nodeId="34483" itemId="0"/>
+				<Socket nodeId="2491" itemId="0"/>
+				<Socket nodeId="12613" itemId="16"/>
+				<Socket nodeId="6230" itemId="0"/>
 				<Socket nodeId="36931" itemId="0"/>
 				<Socket nodeId="6910" itemId="17"/>
-				<Socket nodeId="13170" itemId="2"/>
+				<Socket nodeId="61305" itemId="0"/>
 			</Sockets>
 		</Spec>
 	</Tree>
