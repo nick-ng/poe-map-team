@@ -23,5 +23,5 @@
 - [Post-Story Plan](https://github.com/nick-ng/poe-map-team/blob/main/story-route/4-player-part-3-mapping.md)
 - [Searches](https://github.com/nick-ng/poe-map-team/wiki/Searches)
 - [Mapping](https://github.com/nick-ng/poe-map-team/wiki/Mapping)
-- [Skill Gem Planner](https://old.reddit.com/r/pathofexile/comments/kxgtws/313_league_start_skill_gem_planner/)
+- [Skill Gem Planner](https://poegem.k8s.zk.io/)
 - [Path of Building: Community Fork](https://pathofbuilding.community/)
