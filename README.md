@@ -24,3 +24,4 @@
 - [Searches](https://github.com/nick-ng/poe-map-team/wiki/Searches)
 - [Mapping](https://github.com/nick-ng/poe-map-team/wiki/Mapping)
 - [Skill Gem Planner](https://old.reddit.com/r/pathofexile/comments/kxgtws/313_league_start_skill_gem_planner/)
+- [Path of Building: Community Fork](https://pathofbuilding.community/)
