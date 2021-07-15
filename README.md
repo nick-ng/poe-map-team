@@ -1,4 +1,4 @@
-# \<July> League
+# Expedition League
 
 ## Info
 
