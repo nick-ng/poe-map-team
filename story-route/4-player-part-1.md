@@ -48,6 +48,7 @@ Passives from Quests: 3 (5)
 - **Nick** runs to Chamber of Sins 1 waypoint > Town > Den > tag White Beast > TP
   - All warp to **Nick** and kill White Beast, TP to town.
   - All warp to **Mark** and kill Alira, TP to town.
+  - All run from Alira to Captain Arteri (Skill point)
 - Get second Quicksilver Flask
 - **Mark** Western Forest WP > The Weaver's Chambers open TP and tag Weaver phase 2
 - **Nick** Sins 1 > Sins 2 > Kill Felitidas
@@ -56,7 +57,6 @@ Passives from Quests: 3 (5)
   - All take **Nick**'s TP for gem.
   - All take **David**'s TP for Trial.
 - **Nick** Crossroads > Broken Bridge > TP at Karitlyn
-- **Mark** Western Forest > tag skill point and TP.
 - **David** Riverways > Wetlands > TP at Oak > WP.
   - All take **Mark**'s TP for skill point.
   - All take **Nick**'s TP for Kraitlyn.
