@@ -19,17 +19,19 @@
 
 ## Schedule
 
-| Date               | Plan                                                                       |
-| ------------------ | -------------------------------------------------------------------------- |
-| Saturday, 24 July  | ~6 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM |
-| Sunday, 25 July    | 10 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM |
-| Monday, 26 July    | 10 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM |
-| Tuesday, 27 July   | 8 PM - 11 PM                                                               |
-| Wednesday, 28 July | 8 PM - 11 PM                                                               |
-| Thursday, 29 July  | 8 PM - 11 PM                                                               |
-| Friday, 30 July    | 8 PM - 11 PM                                                               |
-| Saturday, 31 July  | Break                                                                      |
-| Sunday, 1 August   | 8 PM - 11 PM, Split loot                                                   |
+All sessions: As many 10 - 15 minute breaks at any time, depending on players
+
+| Date               | Plan                                                                       | Notes |
+| ------------------ | -------------------------------------------------------------------------- | -- |
+| Saturday, 24 July  | ~6 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM | |
+| Sunday, 25 July    | 10 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM | |
+| Monday, 26 July    | 10 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM | Morning and afternoon sessions dependant on weather |
+| Tuesday, 27 July   | 10 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM | Morning and afternoon sessions dependant on weather |
+| Wednesday, 28 July | 8 PM - 11 PM                                                               | |
+| Thursday, 29 July  | 8 PM - 11 PM                                                               | |
+| Friday, 30 July    | 8 PM - 11 PM                                                               | |
+| Saturday, 31 July  | Break                                                                      | |
+| Sunday, 1 August   | 8 PM - 11 PM, Split loot                                                   | |
 
 We can play more if desired.
 
