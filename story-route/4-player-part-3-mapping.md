@@ -4,7 +4,7 @@
 - **Nick** do passive point quests for others.
 - **Mark** and **David** check if league mechanic is worth doing
 - All farm Blood Aqueduct until 63+
-- **Mark** and **David** do maps that drop exalted orbs
+- **Mark** and **David** do maps that drop exalted orb div cards (below)
 - **Nick** get atlas bonus completion for map device
   - **Nick** respec to Curse Bot
 - ???
