@@ -1,0 +1,40 @@
+David
+Cobalt Jewel
+Crafted: true
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: None
+Quality: 0
+Implicits: 0
+154% Increased Damage
+You and Nearby allies Deal 106% more spell lightning damage
+You and Nearby allies gain 150% of physical damage as extra cold damage
+you and nearby allies deal 105% more cold damage
+you and nearby allies deal 492 to 695 additional fire damage with spells
+you and nearby allies gain 211% increased critical strike chance
+you and nearby allies gain +2738 to accuracy rating
+you and nearby allies have +18% to critical strike multiplier
+you and nearby non-minion allies have a 35% chance to create consecrated ground on hitting a rare or unique enemy, lasting 8 seconds
+you and nearby allies have 137% increased spell critical strike chance
+you and nearby allies deal 53% more spell damage
+you and nearby allies gain 132% additional cold resistance
+you and nearby allies gain 15% additional maximum cold resistance
+you and nearby allies gain 132% additional fire resistance
+you and nearby allies gain 15% additional maximum fire resistance
+you and nearby allies gain 132% additional lightning resistance
+you and nearby allies gain 15% additional maximum lightning resistance
+damage penetrates 12% fire resistance
+damage penetrates 12% cold resistance
+damage penetrates 12% lightning resistance
+you and nearby allies gain 31% increased movement speed
+you and nearby allies gain 132% increased attack speed
+you and nearby allies gain 132% increased cast speed
+you and nearby allies gain 30% increased projectile speed
+you and nearby allies gain 786 additional energy shield
+you and nearby allies have 33% increased damage while on full energy shield
+you and nearby allies gain 90% increased energy shield recharge rate
+you and nearby allies gain 9372 additional evasion rating
+Adds 88 to 1686 lightning damage
+you and nearby allies deal 145 to 2290 additional lightning damage with attacks
+you and nearby allies deal 625 to 895 additional fire damage with attacks
