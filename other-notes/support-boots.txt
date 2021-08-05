@@ -1,0 +1,36 @@
+Nick and David Boots
+Conjurer Boots
+Unique ID: 1f5dc32ef3a487bcb5854d60af11901d5d615d325c6fcc9460f95ce3a932f1fe
+Item Level: 71
+Quality: 20
+Sockets: B-R-B-G
+LevelReq: 53
+Implicits: 1
+{crafted}10% increased Movement Speed if you haven't been Hit Recently
++38 to maximum Energy Shield
++17 to maximum Mana
++41% to Fire Resistance
++18% to Cold Resistance
+30% increased Movement Speed
+{crafted}+16% to Fire and Lightning Resistances
+60% increased Effect of your Curses
+Hexes from Socketed Skills ignore Curse Limit
+you and nearby allies gain 77% increased attack speed
+you and nearby allies gain 77% increased cast speed
+you and nearby allies deal 52% more cold damage
+You and Nearby allies gain 71% of physical damage as extra cold damage
+you and nearby allies gain 79% additional lightning resistance
+you and nearby allies gain 7% additional maximum lightning resistance
+you and nearby allies gain 79% additional cold resistance
+you and nearby allies gain 7% additional maximum cold resistance
+you and nearby allies gain 79% additional fire resistance
+you and nearby allies gain 7% additional maximum fire resistance
+you and nearby allies gain 113% increased critical strike chance
+you and nearby allies gain +1374 to accuracy rating
+you and nearby allies deal 341 to 485 additional fire damage with spells
+you and nearby allies deal 341 to 485 additional fire damage with attacks
+you and nearby allies deal 50 to 776 additional lightning damage with attacks
+You and Nearby allies Deal 65% more spell lightning damage
+Adds 55 to 1068 lightning damage
+you and nearby allies have 86% increased spell critical strike chance
+you and nearby allies deal 33% more spell damage
