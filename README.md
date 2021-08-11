@@ -7,7 +7,7 @@
   - Saturday, Sunday, Monday: Full-ish days
   - Tuesday, Wednesday, Thursday, Friday: evening mapping
   - Saturday/Sunday, finish any remaining maps
-- Loot Split: 1 share each. Gear worth 50c or more will be included in the split. You can take the items as is but they count against your split.
+- Loot Split: 1 share each. Gear worth 2ex or more will be included in the split. You can take the items as is but they count against your split.
 
 ## Schedule
 
