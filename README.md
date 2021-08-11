@@ -6,8 +6,8 @@
 - Duration: 7 days, Saturday to Friday
   - Saturday, Sunday, Monday: Full-ish days
   - Tuesday, Wednesday, Thursday, Friday: evening mapping
-  - Saturday/Sunday, finish any remaining maps
-- Loot Split: 1 share each. Gear worth 2ex or more will be included in the split. You can take the items as is but they count against your split.
+  - Saturday/Sunday (optional), finish any remaining maps
+- Loot Split: 1 share each. Gear worth 2ex or more will be included in the split. You have first "dibs" on gear you used. If no one wants the gear, it will be sold and split.
 
 ## Schedule
 
