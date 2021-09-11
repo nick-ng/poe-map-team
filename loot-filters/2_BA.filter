@@ -38,6 +38,8 @@ Show
 	Class "Gloves" "Helm" "Boots" "Body Armour"
 	Rarity Rare
 	Identified False
+	Sockets < 6
+	LinkedSockets < 5
 	SetBackgroundColor 0 0 0
 	SetTextColor 255 255 119
 	SetFontSize 30
@@ -58,6 +60,8 @@ Show
 	Height 3
 	Width 2
 	Identified False
+	Sockets < 6
+	LinkedSockets < 5
 	SetBackgroundColor 0 0 0
 	SetBorderColor 0 0 0
 	SetTextColor 255 255 119
