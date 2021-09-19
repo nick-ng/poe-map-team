@@ -13,12 +13,16 @@
 
 All sessions: As many 10 - 15 minute breaks at any time, depending on players
 
-| Date               | Plan                                                                       | Notes |
-| ------------------ | -------------------------------------------------------------------------- | ----- |
-| Saturday, 24 July  | ~6 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM |       |
-| Sunday, 25 July    | 10 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM |       |
-| Monday, 26 July    | 10 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM |       |
-| Tuesday, 27 July   | 8 PM - 11 PM                                                               |       |
-| Wednesday, 28 July | 8 PM - 11 PM                                                               |       |
-| Thursday, 29 July  | 8 PM - 11 PM                                                               |       |
-| Friday, 30 July    | 8 PM - 11 PM                                                               |       |
+| Date      | Plan                                                                       | Notes |
+| --------- | -------------------------------------------------------------------------- | ----- |
+| Saturday  | ~6 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM |       |
+| Sunday    | 10 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM |       |
+| Monday    | 10 AM - 12 PM, Lunch (1 hour), 1 PM - 6 PM, Dinner (2 hours), 8 PM - 11 PM |       |
+| Tuesday   | 8 PM - 11 PM                                                               |       |
+| Wednesday | 8 PM - 11 PM                                                               |       |
+| Thursday  | 8 PM - 11 PM                                                               |       |
+| Friday    | 8 PM - 11 PM                                                               |       |
+
+### Misc
+
+[Practice Runs](https://www.youtube.com/playlist?list=PLViV8LJOQi78W_Ttrco9h0iNQ3S9J2DLQ)
