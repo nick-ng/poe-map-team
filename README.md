@@ -1,8 +1,9 @@
-# October(?) League
+# Scourge League
 
 ## Info
 
 - Team Name: TBD
+- Dates: 23 October - 29 October (NZ Time)
 - Duration: 7 days, Saturday to Friday
   - Saturday, Sunday, Monday: Full-ish days
   - Tuesday, Wednesday, Thursday, Friday: evening mapping
