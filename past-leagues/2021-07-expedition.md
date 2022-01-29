@@ -1,6 +1,6 @@
 # Expedition League
 
-Split: 4 ex, 113 c (12 ex, 339 c total)
+Split: 4 ex, 113 c (12 ex, 339 c total, 15.6 ex)
 
 ## Info
 
