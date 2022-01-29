@@ -1,9 +1,11 @@
-# Archnemesis League
+# Scourge League
+
+Split: 3 ex, 255 c (8ex, 570 c total, 90c:1ex)
 
 ## Info
 
-- Team Name:
-- Dates: 5 February - 11 February (NZ Time)
+- Team Name: TBD
+- Dates: 23 October - 29 October (NZ Time)
 - Duration: 7 days, Saturday to Friday
   - Saturday, Sunday, Monday: Full-ish days
   - Tuesday, Wednesday, Thursday, Friday: evening mapping
