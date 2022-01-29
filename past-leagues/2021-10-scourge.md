@@ -1,6 +1,6 @@
 # Scourge League
 
-Split: 3 ex, 255 c (8ex, 570 c total, 90c:1ex)
+Split: 3 ex, 255 c (8ex, 570 c total, 17.5 ex with items)
 
 ## Info
 
