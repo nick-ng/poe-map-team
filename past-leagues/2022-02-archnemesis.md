@@ -1,6 +1,6 @@
 # Archnemesis League
 
-Split: ~8 ex (29 ex, 235 c total, 31 ex) + Mageblood
+Split: 8 ex, 90 c (32 ex, 360 c total, 35 ex) + Mageblood (215 ex + 250 c)
 
 ## Info
 
