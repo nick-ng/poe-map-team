@@ -8,12 +8,13 @@ Everyone should farm in one of these zones while waiting:
 
 ## Act 6
 
-Area Level: 45 - 50  
-Character level: 40 - 56  
+Area Level: 45 - 50\
+Character level: 40 - 56\
 Passives from Quests: 3 (13)
 
 - **Nick** The Coast -> The Mud Flats -> tag The Dishonoured Queen
-  - **Mark** warp to **Nick** at The Coast WP and put TP at Tidal Island quest chest.
+  - **Mark** warp to **Nick** at The Coast WP and put TP at Tidal Island quest
+    chest.
   - All kill The Dishonoured Queen and get quest item.
 - All run and open door.
 - All get Bestel's Epic.
@@ -23,11 +24,13 @@ Passives from Quests: 3 (13)
 - **Mark**, **Jac** and **David** Twilight Strand
 - **Mark**, **Jac** and **David** get Trial
 - All kill Shavronne
-- **Mark** Prisoner's Gate > Western Forest > Riverways WP > Wetlands > Get Ryslatha to spawn, TP
+- **Mark** Prisoner's Gate > Western Forest > Riverways WP > Wetlands > Get
+  Ryslatha to spawn, TP
   - **Nick** Prisoner's Gate > Abberath third room, TP
 - All kill Ryslatha
 - All kill Abberath
-- **Mark** Riverways WP -> The Southern Forest -> The Cavern of Anger TP at flag -> The Beacon WP
+- **Mark** Riverways WP -> The Southern Forest -> The Cavern of Anger TP at flag
+  -> The Beacon WP
   - All get Flag
 - **Mark** The Beacon -> Double Gauntlet TP
   - **Nick** Double Gauntlet
@@ -37,13 +40,14 @@ Passives from Quests: 3 (13)
 
 ## Act 7
 
-Area Level: 50 - 55  
-Character level: 45 - 61  
+Area Level: 50 - 55\
+Character level: 45 - 61\
 Passives from Quests: 3 (16)
 
 - **Mark** The Broken Bridge > Silver Locket > TP
   - Everyone get Silver Locket when convenient
-  - Get Diamond, Granite or Basalt here. You are offered Quartz again at the start of Act 10
+  - Get Diamond, Granite or Basalt here. You are offered Quartz again at the
+    start of Act 10
 - **Nick** The Broken Bridge > The Crossroads WP
 - **Mark** warp to **Nick** and go to The Chamber of Sins 1 WP > Farm
 - **Nick** The Fellshrine Ruins > The Crypt > Map
@@ -72,11 +76,12 @@ Passives from Quests: 3 (16)
 
 ## Act 8
 
-Area Level: 55 - 60  
-Character level: 49 - 67  
+Area Level: 55 - 60\
+Character level: 49 - 67\
 Passives from Quests: 3 (19)
 
-- **Mark** The Sarn Ramparts > The Toxic Conduits > Doedre's Cesspool > tag Doedre
+- **Mark** The Sarn Ramparts > The Toxic Conduits > Doedre's Cesspool > tag
+  Doedre
   - All kill Doedre
 - Get crafting recipe
 - **Mark** Solaris side (up right)
@@ -86,7 +91,8 @@ Passives from Quests: 3 (19)
     - The correct buildings to enter have dead guard bodies near their entrances
     - They have a book near them on the mini map
     - All kill Gemling Legionnaires
-  - The Imperial Fields > The Solaris Temple level 1 WP > The Solaris Temple Level 2 > tag boss
+  - The Imperial Fields > The Solaris Temple level 1 WP > The Solaris Temple
+    Level 2 > tag boss
   - All kill boss and get item
   - Solaris Concourse WP > Farm
 - **Nick** Lunaris side (down left)
@@ -95,7 +101,8 @@ Passives from Quests: 3 (19)
   - High Gardens TP
     - All do skill point
   - The Bath House WP > Hector Titucius TP
-    - **Nick** get Conqueror's Potency (blue), everyone else get Conqueror's Efficiency (red). Put all jewels in guild stash
+    - **Nick** get Conqueror's Potency (blue), everyone else get Conqueror's
+      Efficiency (red). Put all jewels in guild stash
   - Lunaris Concourse > Lunaris 1 > Lunaris 2 TP > tag boss
     - All kill boss and get item
 - Someone do Harbour Bridge and tag bosses
@@ -103,14 +110,15 @@ Passives from Quests: 3 (19)
 
 ## Act 9
 
-Area Level: 61 - 64  
-Character level: 55 - 71  
+Area Level: 61 - 64\
+Character level: 55 - 71\
 Passives from Quests: 2 (21)
 
 - Switch to BA filter
 - Fix resists, gems, weapon swap gem leveling, etc.
 - Farm The Blood Aqueduct until lvl 57+
-- **Mark** or **Nick** (first to 57) Descent > Vastiri Desert > TP at Foothills WP > Tunnel > Quarry WP > Refinery (up) > Tag boss
+- **Mark** or **Nick** (first to 57) Descent > Vastiri Desert > TP at Foothills
+  WP > Tunnel > Quarry WP > Refinery (up) > Tag boss
   - All kill boss and get Trarthan Powder
 - **Mark** or **Nick** Foothills WP > Boiling Lake > tag The Basilisk
   - All kill the Basilisk and get Basilisk Acid
@@ -122,13 +130,14 @@ Passives from Quests: 2 (21)
 
 ## Act 10
 
-Area Level: 64 - 67  
-Character level: 58 - 74  
+Area Level: 64 - 67\
+Character level: 58 - 74\
 Passives from Quests: 3 (24)
 
 - Runner go to roof top, TP and start Bannon event
   - All save Bannon and talk to him
-- Runner go to Ravaged Square WP > Torched Courts > Desecrated Chamber > Tag Boss and TP
+- Runner go to Ravaged Square WP > Torched Courts > Desecrated Chamber > Tag
+  Boss and TP
 - Second runner warp to Ravaged Square WP > Ossuary > Trial TP
   - **David** and **Jac** get Trial and replace TP
   - Second runner run to Elixir of Allure and TP

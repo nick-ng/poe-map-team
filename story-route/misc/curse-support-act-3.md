@@ -7,40 +7,60 @@
 - Take David's portal, open Sewers and make a new Sewers.
 - Find 3 busts and get the Sewers waypoint.
   - 1 bust will be "before" the waypoint, 1 will be north and 1 will be south.
-  - What counts as "north" and "south" is a bit tricky. It's fine if you accidentally farm this zone while looking for the busts, the monsters are quite dangerous so it's best to find them quickly and farm City of Sarn if possible.
-- Farm City of Sarn. You can probably warp to someone who has already found their busts.
+  - What counts as "north" and "south" is a bit tricky. It's fine if you
+    accidentally farm this zone while looking for the busts, the monsters are
+    quite dangerous so it's best to find them quickly and farm City of Sarn if
+    possible.
+- Farm City of Sarn. You can probably warp to someone who has already found
+  their busts.
   - Try to get to level 25 (24.9) by the time Mark gets to the Battle Front
 - Warp to Mark at Battle Front waypoint, run south-west and get Ribbon Spool.
 - Run north-west and enter a new Docks.
-- Farm Docks. If you find the Thaumetic Sulphite, open a portal and let everyone know. Get the Sulphite and continue farming Docks.
-  - If you opened the portal for sulphite, do not re-open a portal until you've burned the Blockage.
-  - Try and find the Docks waypoint. You should then farm between the Docks waypoint and Docks entrance.
-  - If your inventory gets full, return to town when you're at the waypoint side of Docks.
+- Farm Docks. If you find the Thaumetic Sulphite, open a portal and let everyone
+  know. Get the Sulphite and continue farming Docks.
+  - If you opened the portal for sulphite, do not re-open a portal until you've
+    burned the Blockage.
+  - Try and find the Docks waypoint. You should then farm between the Docks
+    waypoint and Docks entrance.
+  - If your inventory gets full, return to town when you're at the waypoint side
+    of Docks.
   - 4 links can drop in the Docks.
   - You need BBBG. Keep your BBG item in your stash if you aren't using it.
   - The party needs BBBG and RRRB.
-  - You may have noticed red "side" areas in some zones. They have a red icon on the map. Starting from the Docks, you should start entering those and killing the monsters in there.
-  - Pick up any Sacrifice of X items and Vaal gems. We need several of each Vaal Grace (2), Vaal Discipline (4) and Vaal Haste (1) so pick up any extras you find.
+  - You may have noticed red "side" areas in some zones. They have a red icon on
+    the map. Starting from the Docks, you should start entering those and
+    killing the monsters in there.
+  - Pick up any Sacrifice of X items and Vaal gems. We need several of each Vaal
+    Grace (2), Vaal Discipline (4) and Vaal Haste (1) so pick up any extras you
+    find.
 - Warp to Mark and talk to Lady Dialla. Take the Jade Amulet reward.
-- Take the waypoint to town and take Nick's portal for the trial then back to town.
+- Take the waypoint to town and take Nick's portal for the trial then back to
+  town.
 - Take the waypoint to the Sewers and burn the blockage.
 - Run through to The Ebony Barracks and take the TP to the Docks.
 - Farm the Docks.
 - Warp to Nick, kill Gravicious and take the portal back to town.
 - Maramoa quest reward: Frostbite, Cremation
-  - If you're level 30, you can take some time to buy gems. If your main items don't have enough sockets, buy some weapons with appropriate sockets, put the gems in them and put those weapons in your weapon swap.
+  - If you're level 30, you can take some time to buy gems. If your main items
+    don't have enough sockets, buy some weapons with appropriate sockets, put
+    the gems in them and put those weapons in your weapon swap.
   - Enfeeble (A3, Alteration)
   - Temporal Chains (A3, Alteration)
   - Elemental Weakness (A3, Alteration)
   - Conductivity (A3, Alteration)
-  - As many Lightning Warp gems as you have spare sockets (A1, Transmutation) You'll need as many of these at level 20 by Monday. If you have spare currency, buy/find up to 6 weapons with low strength and dex requirements and 3 blue sockets each (no need to be linked), socket Lightning Warps and put them in the guild stash so other people can level them for you.
+  - As many Lightning Warp gems as you have spare sockets (A1, Transmutation)
+    You'll need as many of these at level 20 by Monday. If you have spare
+    currency, buy/find up to 6 weapons with low strength and dex requirements
+    and 3 blue sockets each (no need to be linked), socket Lightning Warps and
+    put them in the guild stash so other people can level them for you.
 - Farm the Docks.
 - Warp to someone and kill Piety and pick up the Tower Key.
 - Give Nick Cremation gem / put in guild stash.
 - Farm Docks.
 - Take Mark's portal, open the Tower Door and take the portal back to town.
 - Take David's portal, get the trial and take the portal back to town.
-- Get Blasphemy and Cold Penetration gem from guild stash. (Cold Penetration may not be there if Nick didn't have enough currency)
+- Get Blasphemy and Cold Penetration gem from guild stash. (Cold Penetration may
+  not be there if Nick didn't have enough currency)
 - FARM DOCKS.
 - Warp to Mark and kill Dominus.
 - Make a new The Aqueduct (north-east).

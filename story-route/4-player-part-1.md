@@ -1,7 +1,6 @@
 ## Act 1
 
-Player level: 1 - 17
-Passives from Quests: 2 (2)
+Player level: 1 - 17 Passives from Quests: 2 (2)
 
 - All Witches put 1 wisdom scroll in guild stash.
 - All run to first Coast WP separately.
@@ -15,17 +14,20 @@ Passives from Quests: 2 (2)
   - First person to reach ledge says and everyone but **Mark** warps.
 - **Nick** Lower Prison, rest farm ledge.
 - **Mark** Dweller, tag phase 2, puts TP and warp to someone farming Ledge.
-- **Nick** reaches Lower Prison WP. **David** warps to **Nick** and makes new instance.
+- **Nick** reaches Lower Prison WP. **David** warps to **Nick** and makes new
+  instance.
   - **David** finds Trial, **Nick** finds Brutus.
   - **David** puts TP at Trial and farms Lower Prison.
   - **Nick** puts TP at Brutus and tags.
-- All do Brutus. Drop Portal scrolls for runners. Drop Onslaught for Witches. Take **Nick**'s TP.
+- All do Brutus. Drop Portal scrolls for runners. Drop Onslaught for Witches.
+  Take **Nick**'s TP.
 - Take **Mark**'s TP for Dweller. **Jac** opens TP.
 - Take **David**'s TP for Trial and TP back to town.
 - **Nick** and **Mark** Ship Graveyard.
   - Rest farm Prisoner's Gate.
 - **Nick** or **Mark** warp to Ship Graveyard
-  - **Nick** runs to Merveil, **Mark** does All-Flame. No one else needs All-Flame.
+  - **Nick** runs to Merveil, **Mark** does All-Flame. No one else needs
+    All-Flame.
   - **Mark** tags Fairgraves and puts TP.
   - **Nick** tags Merveil phase 2 and everyone warps.
 - Take Southern Forest WP to Act 1 town > Fairgraves TP.
@@ -34,23 +36,26 @@ Passives from Quests: 2 (2)
 
 ## Act 2
 
-Player level: 10 - 27
-Passives from Quests: 3 (5)
+Player level: 10 - 27 Passives from Quests: 3 (5)
 
 - Southern Forest separately
   - All warp to first person in act 2 town.
   - **Jac** farm Riverways/Western Forest/Northern Forest all act.
   - **David** farm Riverways.
-- **Mark** Riverways > Western Forest > Alira TP (Farm until **Nick** starts doing Den?)
-- **Nick** Old Fields, put TP near The Den and continues running to Crossroads WP
+- **Mark** Riverways > Western Forest > Alira TP (Farm until **Nick** starts
+  doing Den?)
+- **Nick** Old Fields, put TP near The Den and continues running to Crossroads
+  WP
 - **Nick** gets to Crossroads WP
 - **David** warps and runs to Fellshrine Ruins > Crypt 1 WP > farm Riverways
-- **Nick** runs to Chamber of Sins 1 waypoint > Town > Den > tag White Beast > TP
+- **Nick** runs to Chamber of Sins 1 waypoint > Town > Den > tag White Beast >
+  TP
   - All warp to **Nick** and kill White Beast, TP to town.
   - All warp to **Mark** and kill Alira, TP to town.
   - All run from Alira to Captain Arteri (Skill point)
 - Get second Quicksilver Flask
-- **Mark** Western Forest WP > The Weaver's Chambers open TP and tag Weaver phase 2
+- **Mark** Western Forest WP > The Weaver's Chambers open TP and tag Weaver
+  phase 2
 - **Nick** Sins 1 > Sins 2 > Kill Felitidas
   - **David** warps **Nick** at Sins 2 and finds Trial
   - All warp to **Mark** for Weaver, **Mark** opens TP out.
@@ -76,8 +81,7 @@ Passives from Quests: 3 (5)
 
 ## Act 3
 
-Player level: 19 - 38
-Passives from Quests: 2 (7)
+Player level: 19 - 38 Passives from Quests: 2 (7)
 
 - City of Sarn separately
 - **Mark** Slums > TP at Sewers > The Crematorium
@@ -118,10 +122,11 @@ Passives from Quests: 2 (7)
 
 ## Act 4
 
-Character level: 29 - 45
-Passives from Quests: 1 (8)
+Character level: 29 - 45 Passives from Quests: 1 (8)
 
-From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate level zones together. The runner (**Mark** or **Nick**) who isn't running will farm by themselves.
+From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate
+level zones together. The runner (**Mark** or **Nick**) who isn't running will
+farm by themselves.
 
 - Farm Aqueduct (character lvl 29+) or Dried Lake (clvl 30+)
 - Highest Level tag Voll
@@ -137,8 +142,7 @@ From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate le
 - All kill Daresso
 - All kill Kaom > Anyone replace TP
 - All turn in Belly of the Beast
-- Normal Labyrinth
-  Highest Level Belly of the Beast Level 2 > Kill Piety > TP
+- Normal Labyrinth Highest Level Belly of the Beast Level 2 > Kill Piety > TP
 - All talk to Piety
 - **David** and **Jac** farm Daresso's Dream together
 - Highest Level find 3 organs > open TP near WP > tag Malachi phase 2
@@ -153,8 +157,7 @@ From Normal Labyrinth onwards **David** and **Jac** will farm the appropriate le
 
 ## Act 5
 
-Character level: 36 - 51
-Passives from Quests: 2 (10)
+Character level: 36 - 51 Passives from Quests: 2 (10)
 
 - All Slave Pens
   - Remember to click on the waypoint.
@@ -168,15 +171,16 @@ Passives from Quests: 2 (10)
   - Don't take jewel from quests. Save for later.
 - **Mark** The Chamber of Innocence
   - **David** Generosity, Anger, Zealotry, Smite
-  - **David** and **Jac** farm Chamber of Innocence together
-    **Mark** TP and tag Innocence phase 2
+  - **David** and **Jac** farm Chamber of Innocence together **Mark** TP and tag
+    Innocence phase 2
   - All kill Innocence
 - **Nick** The Torched Courts > The Ruined Square WP
 - **Mark** Warp The Ruined Square > The Ossuary > TP at staff
 - **Nick** TP near The Cathedral Rooftop > The Reliquary
 - **Mark** The Cathedral Rooftop
 - **Nick** The Reliquary WP
-  - **David** and **Jac** warp to **Nick** and put TPs near the first 2 of Kitava's Torments.
+  - **David** and **Jac** warp to **Nick** and put TPs near the first 2 of
+    Kitava's Torments.
   - **Nick** put TP near 3rd of Kitava's Torments
   - All get staff
 - **Mark** Start Kitava fight and TP
