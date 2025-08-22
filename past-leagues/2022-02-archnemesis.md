@@ -10,7 +10,9 @@ Split: 8 ex, 90 c (32 ex, 360 c total, 35 ex) + Mageblood (215 ex + 250 c)
   - Saturday, Sunday, Monday: Full-ish days
   - Tuesday, Wednesday, Thursday, Friday: evening mapping
   - Saturday/Sunday (optional), finish any remaining maps
-- Loot Split: 1 share each. Gear used worth more than 30% of non-gear split will be included in the split. You have first "dibs" on gear you used. If no one wants the gear, it will be sold and then split.
+- Loot Split: 1 share each. Gear used worth more than 30% of non-gear split will
+  be included in the split. You have first "dibs" on gear you used. If no one
+  wants the gear, it will be sold and then split.
 
 ## Schedule
 

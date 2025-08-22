@@ -10,7 +10,8 @@
 
 - Team Name: <player_name>\_ThreeGuys
 - Duration: 17 April - 25 April (9 days, Saturday to Sunday)
-- Loot Split: 1 share each. Gear used by characters is excluded from the split (keep/sell items you were using). Split includes unsold items.
+- Loot Split: 1 share each. Gear used by characters is excluded from the split
+  (keep/sell items you were using). Split includes unsold items.
 
 ## Roles
 

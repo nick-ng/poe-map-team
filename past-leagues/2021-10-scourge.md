@@ -10,7 +10,9 @@ Split: 3 ex, 255 c (8ex, 570 c total, 17.5 ex with items)
   - Saturday, Sunday, Monday: Full-ish days
   - Tuesday, Wednesday, Thursday, Friday: evening mapping
   - Saturday/Sunday (optional), finish any remaining maps
-- Loot Split: 1 share each. Gear used worth more than 30% of non-gear split will be included in the split. You have first "dibs" on gear you used. If no one wants the gear, it will be sold and then split.
+- Loot Split: 1 share each. Gear used worth more than 30% of non-gear split will
+  be included in the split. You have first "dibs" on gear you used. If no one
+  wants the gear, it will be sold and then split.
 
 ## Schedule
 

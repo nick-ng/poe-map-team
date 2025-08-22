@@ -11,8 +11,10 @@
 - Warp to David and farm Chamber of Innocence with David.
 - Warp to Mark and kill Innocence
 - Farm Chamber of Innocence with David.
-- Warp to Nick and put portal near one of Kitava's Torments. Also collect Kitava's Torments.
-- Go to town through 3rd Kitava's Torments portal, take Mark's portal and get Staff.
+- Warp to Nick and put portal near one of Kitava's Torments. Also collect
+  Kitava's Torments.
+- Go to town through 3rd Kitava's Torments portal, take Mark's portal and get
+  Staff.
 - Farm Chamber of Innocence with David.
 - Warp to Mark and kill Kitava.
 - Talk to Lily to sail to Wraeclast.

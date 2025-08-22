@@ -12,16 +12,16 @@
 
 ## Exalted Orb Div Card Maps
 
-| Map | Min Tier | Card |
-| -- | -- | -- |
-| Arsenal | 2 | Abandoned Wealth |
-| Cemetery | 2 | Brother's Stash |
-| Bazaar | 4 | The Saint's Treasure |
-| Port | 7 | The Saint's Treasure |
-| Precinct | 9 | Abandoned Wealth |
-| Precinct | 9 | The Saint's Treasure |
-| Vault | 9 | The Hoarder |
-| Alleyways | 12 | The Saint's Treasure |
-| Mao Kun (Shore) | 13 | Abandoned Wealth |
-| Arcade | 15 | The Saint's Treasure |
-| Ghetto | 15 | The Saint's Treasure |
+| Map             | Min Tier | Card                 |
+| --------------- | -------- | -------------------- |
+| Arsenal         | 2        | Abandoned Wealth     |
+| Cemetery        | 2        | Brother's Stash      |
+| Bazaar          | 4        | The Saint's Treasure |
+| Port            | 7        | The Saint's Treasure |
+| Precinct        | 9        | Abandoned Wealth     |
+| Precinct        | 9        | The Saint's Treasure |
+| Vault           | 9        | The Hoarder          |
+| Alleyways       | 12       | The Saint's Treasure |
+| Mao Kun (Shore) | 13       | Abandoned Wealth     |
+| Arcade          | 15       | The Saint's Treasure |
+| Ghetto          | 15       | The Saint's Treasure |

@@ -1,6 +1,7 @@
 ## Gem Links
 
-- BBBG: Lightning Trap + Elemental Focus + Added Lightning Damage + Multiple Trap
+- BBBG: Lightning Trap + Elemental Focus + Added Lightning Damage + Multiple
+  Trap
 - BBG: Orb of Storms + Onslaught + Arcane Surge
 - B: Flame Dash
 
@@ -19,7 +20,8 @@ Depends on what sockets you have:
 ## Act 4
 
 - Farm The Aqueduct.
-  - A divination card called "Humility" can drop. Make sure to get those and let people know if you get them.
+  - A divination card called "Humility" can drop. Make sure to get those and let
+    people know if you get them.
 - Warp to someone at Voll, kill Voll and get Deshret's Banner.
 - Open the Mines.
 - Farm The Aqueduct.
@@ -33,14 +35,17 @@ Depends on what sockets you have:
 - Take waypoint to Act 3 town.
 - Walk to the Aspirant's Plaza entrace up the stairs in town.
 - Do lab with the team.
-  - Turn off Herald of Thunder and turn on Enfeeble and Elemental Weakness/Temporal Chains
+  - Turn off Herald of Thunder and turn on Enfeeble and Elemental
+    Weakness/Temporal Chains
   - If you have less than 900 life, wait for the others to kill Izaro.
   - Pick Occultist Ascendency. Pick the -20% enemy cold resistance large node.
 - Farm Daresso's Dream with David.
-  - If you have your curses in a BBB item, you can replace Enfeeble with Conductivity for more damage.
+  - If you have your curses in a BBB item, you can replace Enfeeble with
+    Conductivity for more damage.
 - Warp to the runner, talk to Piety and warp to David
 - FARM DARESSO'S DREAM with David.
 - Warp to the runner, kill Malachi and take portal to town.
 - Talk to Lady Dialla and get Spell Echo.
-  - BBBG: Freezing Pulse + Spell Echo + Controlled Destruction + Lesser Multiple Projectiles
+  - BBBG: Freezing Pulse + Spell Echo + Controlled Destruction + Lesser Multiple
+    Projectiles
 - Warp to David and run through The Ascent.

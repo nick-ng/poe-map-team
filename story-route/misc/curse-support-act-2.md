@@ -15,17 +15,21 @@
   - B: Flame Dash
   - B: Herald of Thunder
 - Warp to Mark. Should end up near waypoint. Make a new Western Forest instance.
-- Follow road downwards to skill point. Make portal near Captain Arteri and tell everyone.
-- Everyone arrives and kills Captain Arteri. Pick up Thaumetic Emblem and put it in the wall. Take your portal back to town.
+- Follow road downwards to skill point. Make portal near Captain Arteri and tell
+  everyone.
+- Everyone arrives and kills Captain Arteri. Pick up Thaumetic Emblem and put it
+  in the wall. Take your portal back to town.
 - Take Nick's portal and kill Kraitlyn
 - Take David's portal and kill Oak
 - Turn in the Apex (2 passive points).
 - Warp to David and click on the roots.
-- Use the waypoint to go to Lioneye's watch (Act 1) and get your skill book from Bestel.
+- Use the waypoint to go to Lioneye's watch (Act 1) and get your skill book from
+  Bestel.
 - Use the waypoint to go to a new The Western Forest (Act 2) and farm.
 - Warp to Nick and click on the ball.
 - Run to The Northern Forest.
-  - The entrance to The Northern Forest will be on the "other side" of the ball to the portal.
+  - The entrance to The Northern Forest will be on the "other side" of the ball
+    to the portal.
 - Farm The Northern Forest.
 - Warp to Nick and kill The Vaal Oversoul.
 - Take Nick's portal and go through David's portal to get the trial.
