@@ -1,5 +1,7 @@
 ## merclab
 
+[Mercenaries](https://poe.ninja/economy/mercenaries/skill-gems), fetched at Sat Sep 13 2025 23:04:47 GMT+1200 (New Zealand Standard Time)
+
 ### Transform a Skill Gem to be a random Transfigured Gem of the same colour
 
 Colour | Top 3 | Expected Value

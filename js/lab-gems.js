@@ -378,6 +378,13 @@ const main = async () => {
     return true;
   });
 
+  addLine(
+    `[${league.name}](https://poe.ninja/economy/${
+      league.url
+    }/skill-gems), fetched at ${new Date()}`,
+  );
+  addLine("");
+
   const gemInfo = { red: [], green: [], blue: [], white: [] };
   SKILL_GEMS.forEach((g) => {
     const matchingLabGems = labGems.filter((lg) =>
