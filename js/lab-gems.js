@@ -3,6 +3,7 @@ import { writeFile } from "node:fs/promises";
 import { createInterface as readlineCreateInterface } from "node:readline/promises";
 import { join } from "path";
 
+// @todo(nick-ng): Exchange a Support Gem for a random Exceptional Gem
 const POE_NINJA_URL = "https://poe.ninja";
 const SKILL_GEMS = [
   { colour: "blue", name: "Arc" },
