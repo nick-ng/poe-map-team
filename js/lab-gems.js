@@ -522,7 +522,7 @@ const main = async () => {
               "economy",
               league.url,
               "skill-gems",
-              g.detailsId,
+              t.detailsId,
             ].join("/")})`,
         )
         .join(", ");
