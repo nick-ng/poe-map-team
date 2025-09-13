@@ -1,14 +1,14 @@
-# Heist
+## Heist
 
 [Reddit post](https://www.reddit.com/r/pathofexile/comments/t9l76f/big_guide_to_heist_how_i_made_a_mirror_in_a_week/)
 
-## Rogues
+### Rogues
 
 - Tibbs -> Tullina -> Nenet
 - Karst -> Huck -> Niles -> Vinderi -> Gianna
 - Isla
 
-## Rogue Gear
+### Rogue Gear
 
 Prefer gearing the following rogues
 
@@ -41,7 +41,7 @@ Affix in order of importance. **Bold** word is search keyword
       job levels requires ilvl 83 vs 82
     - Tullina: job speed
 
-## Contract Types
+### Contract Types
 
 Better contract types at the top
 
