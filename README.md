@@ -61,7 +61,9 @@ Better contract types at the top
 
 ## merclab
 
-[Mercenaries League](https://poe.ninja/economy/mercenaries/skill-gems), fetched at Sat Sep 13 2025 23:42:04 GMT+1200 (New Zealand Standard Time)
+[Mercenaries League](https://poe.ninja/economy/mercenaries/skill-gems), fetched at Sat Sep 13 2025 23:45:14 GMT+1200 (New Zealand Standard Time)
+
+The following prices are for gem level < 20 and quality < 20
 
 ### Transform a Skill Gem to be a random Transfigured Gem of the same colour
 
