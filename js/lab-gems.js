@@ -381,6 +381,8 @@ const main = async () => {
     }/skill-gems), fetched at ${new Date()}`,
   );
   addLine("");
+  addLine("The following prices are for gem level < 20 and quality < 20");
+  addLine("");
 
   const gemInfo = { red: [], green: [], blue: [], white: [] };
   SKILL_GEMS.forEach((g) => {
