@@ -540,6 +540,8 @@ const main = async () => {
   addLine("");
 
   addLine("<details><summary> All Gems </summary>");
+  addLine("");
+  addLine("```");
   sameGemPrices.forEach((g) =>
     addLine(
       `- ${g.ev.toFixed(1)} ${g.normal.name} (${
@@ -547,6 +549,8 @@ const main = async () => {
       }, ${g.transfigured.map((t) => t.name).join(", ")})`,
     ),
   );
+  addLine("```");
+  addLine("");
   addLine("</details>");
 
   await saveLines();
