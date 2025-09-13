@@ -61,7 +61,7 @@ Better contract types at the top
 
 ## merclab
 
-[Mercenaries League](https://poe.ninja/economy/mercenaries/skill-gems), fetched at Sat Sep 13 2025 23:35:56 GMT+1200 (New Zealand Standard Time)
+[Mercenaries League](https://poe.ninja/economy/mercenaries/skill-gems), fetched at Sat Sep 13 2025 23:38:45 GMT+1200 (New Zealand Standard Time)
 
 ### Transform a Skill Gem to be a random Transfigured Gem of the same colour
 
@@ -87,6 +87,8 @@ Normal Gem | # | Transfigured Gems | EV
 [Lancing Steel](Lancing_Steel) | 1 | [Lancing Steel of Spraying (59.4c)](https://poe.ninja/economy/mercenaries/skill-gems/) | 59.4c
 
 <details><summary> All Gems </summary>
+
+```
 - 170.3 Smite (1, Smite of Divine Judgement)
 - 133.1 Volcanic Fissure (1, Volcanic Fissure of Snaking)
 - 133.1 Forbidden Rite (1, Forbidden Rite of Soul Sacrifice)
@@ -223,4 +225,6 @@ Normal Gem | # | Transfigured Gems | EV
 - 1.0 Explosive Concoction (1, Explosive Concoction of Destruction)
 - 1.0 Reave (1, Reave of Refraction)
 - 1.0 Split Arrow (1, Split Arrow of Splitting)
+```
+
 </details>
