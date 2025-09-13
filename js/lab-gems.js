@@ -485,9 +485,13 @@ const main = async () => {
     const gemLinks = a.top3
       .map(
         (g) =>
-          `[${g.name} (${
-            g.chaosValue
-          }c)](https://www.poewiki.net/wiki/${g.name.replaceAll(" ", "_")})`,
+          `[${g.name} (${g.chaosValue}c)](${[
+            POE_NINJA_URL,
+            "economy",
+            league.url,
+            "skill-gems",
+            g.detailsId,
+          ].join("/")})`,
       )
       .join(", ");
     addLine(
@@ -515,9 +519,13 @@ const main = async () => {
       const transfiguredLinks = g.transfigured
         .map(
           (t) =>
-            `[${t.name} (${
-              t.chaosValue
-            }c)](https://www.poewiki.net/wiki/${t.name.replaceAll(" ", "_")})`,
+            `[${t.name} (${t.chaosValue}c)](${[
+              POE_NINJA_URL,
+              "economy",
+              league.url,
+              "skill-gems",
+              g.detailsId,
+            ].join("/")})`,
         )
         .join(", ");
 
