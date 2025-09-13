@@ -376,7 +376,7 @@ const main = async () => {
   });
 
   addLine(
-    `[${league.name}](https://poe.ninja/economy/${
+    `[${league.name} League](https://poe.ninja/economy/${
       league.url
     }/skill-gems), fetched at ${new Date()}`,
   );
