@@ -355,9 +355,6 @@ const getGems = async (leagueName) => {
   });
 };
 
-// @todo(nick-ng): create a .md file and save it to the repo.
-// @todo(nick-ng): random gem of same colour and same transfigured gem.
-
 const main = async () => {
   addLine("## merclab\n");
   const league = await getLeague();
@@ -509,9 +506,9 @@ const main = async () => {
     "### Transform a non-Transfigured Skill Gem to be a random Transfigured version\n",
   );
 
-  addLine("");
-
-  const sameGemLines = sameGemPrices
+  addLine("Normal Gem | # | Transfigured Gems | EV");
+  addLine(" :- | -: | :- | -: ");
+  sameGemPrices
     .sort((a, b) => {
       return b.ev - a.ev;
     })
@@ -530,30 +527,26 @@ const main = async () => {
         )
         .join(", ");
 
-      return [
-        `[${g.normal.name}](${g.normal.name.replaceAll(" ", "_")})`,
-        transfiguredLinks,
-        `${g.ev.toFixed(1)}c`,
-      ].join(" | ");
+      addLine(
+        [
+          `[${g.normal.name}](${g.normal.name.replaceAll(" ", "_")})`,
+          g.transfigured.length,
+          transfiguredLinks,
+          `${g.ev.toFixed(1)}c`,
+        ].join(" | "),
+      );
     });
-
-  addLine("Normal Gem | Transfigured Gems | EV");
-  addLine(" :- | :- | -: ");
-
-  sameGemPrices.forEach((g) =>
-    addLine(
-      `- ${g.ev.toFixed(1)} ${g.normal.name} (${g.transfigured
-        .map((t) => t.name)
-        .join(", ")})`,
-    ),
-  );
 
   addLine("");
 
   addLine("<details><summary> All Gems </summary>");
-  addLine("Normal Gem | Transfigured Gems | EV");
-  addLine(" :- | :- | -: ");
-  sameGemLines.forEach((l) => addLine(l));
+  sameGemPrices.forEach((g) =>
+    addLine(
+      `- ${g.ev.toFixed(1)} ${g.normal.name} (${
+        g.transfigured.length
+      }, ${g.transfigured.map((t) => t.name).join(", ")})`,
+    ),
+  );
   addLine("</details>");
 
   await saveLines();
