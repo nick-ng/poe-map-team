@@ -280,6 +280,7 @@ const SKILL_GEMS = [
   { colour: "white", name: "Detonate Mines" },
   { colour: "white", name: "Portal" },
 ];
+const EXCEPTIONAL_SUPPORTS = ["Enhance", "Enlighten", "Empower"];
 const COLOUR_EMOJIS = {
   red: "🔴",
   green: "🟢",
@@ -458,14 +459,14 @@ const main = async () => {
       }
     }
 
-    const expectedValue = total / sameColourPrices[colour].length;
+    const ev = total / sameColourPrices[colour].length;
     const top3Value = totalTop3 / 3;
     const top3Chance = 3 / sameColourPrices[colour].length;
     const top3EV = totalTop3 / sameColourPrices[colour].length;
     if (sameColourPrices[colour].length > 0) {
       randomSameColour.push({
         colour,
-        expectedValue,
+        ev,
         top3: sameColourPrices[colour].slice(0, 3),
         top3Value,
         top3Chance,
@@ -474,11 +475,14 @@ const main = async () => {
     }
   }
 
-  randomSameColour.sort((a, b) => b.expectedValue - a.expectedValue);
-
+  randomSameColour.sort((a, b) => b.ev - a.ev);
+  const sameColourEv = randomSameColour[0].ev;
   addLine(
-    "### Transform a Skill Gem to be a random Transfigured Gem of the same colour\n",
+    `### Transform a Skill Gem to be a random Transfigured Gem of the same colour - ${sameColourEv.toFixed(
+      1,
+    )}c`,
   );
+  addLine("");
   addLine("Colour | Top 3 | EV");
   addLine(":- | :- | -:");
   randomSameColour.forEach((a) => {
@@ -498,50 +502,53 @@ const main = async () => {
       [
         `${COLOUR_EMOJIS[a.colour]} ${a.colour}`,
         gemLinks,
-        `${a.expectedValue.toFixed(1)}c`,
+        `${a.ev.toFixed(1)}c`,
       ].join(" | "),
     );
   });
 
   addLine("");
 
+  sameGemPrices.sort((a, b) => {
+    return b.ev - a.ev;
+  });
+
+  const sameGemEv = sameGemPrices[0].ev;
   addLine(
-    "### Transform a non-Transfigured Skill Gem to be a random Transfigured version\n",
+    `### Transform a non-Transfigured Skill Gem to be a random Transfigured version - ${sameGemEv.toFixed(
+      1,
+    )}c`,
   );
 
   addLine("Normal Gem | # | Transfigured Gems | EV");
   addLine(" :- | -: | :- | -: ");
-  sameGemPrices
-    .sort((a, b) => {
-      return b.ev - a.ev;
-    })
-    .slice(0, 10)
-    .map((g) => {
-      const transfiguredLinks = g.transfigured
-        .map(
-          (t) =>
-            `[${t.name} (${t.chaosValue.toFixed(1)}c)](${[
-              POE_NINJA_URL,
-              "economy",
-              league.url,
-              "skill-gems",
-              t.detailsId,
-            ].join("/")})`,
-        )
-        .join(", ");
+  sameGemPrices.slice(0, 10).map((g) => {
+    const transfiguredLinks = g.transfigured
+      .map(
+        (t) =>
+          `[${t.name} (${t.chaosValue.toFixed(1)}c)](${[
+            POE_NINJA_URL,
+            "economy",
+            league.url,
+            "skill-gems",
+            t.detailsId,
+          ].join("/")})`,
+      )
+      .join(", ");
 
-      addLine(
-        [
-          `[${g.normal.name}](${g.normal.name.replaceAll(" ", "_")})`,
-          g.transfigured.length,
-          transfiguredLinks,
-          `${g.ev.toFixed(1)}c`,
-        ].join(" | "),
-      );
-    });
+    addLine(
+      [
+        `[${
+          g.normal.name
+        }](https://www.poewiki.net/wiki/${g.normal.name.replaceAll(" ", "_")})`,
+        g.transfigured.length,
+        transfiguredLinks,
+        `${g.ev.toFixed(1)}c`,
+      ].join(" | "),
+    );
+  });
 
   addLine("");
-
   addLine("<details><summary> All Gems </summary>");
   addLine("");
   addLine("```");
@@ -555,6 +562,69 @@ const main = async () => {
   addLine("```");
   addLine("");
   addLine("</details>");
+  addLine("");
+
+  const exceptionalPrices = gems
+    .filter(
+      (gem) =>
+        !gem.corrupted &&
+        gem.gemLevel === 1 &&
+        (!gem.gemQuality || gem.gemQuality < 20) &&
+        EXCEPTIONAL_SUPPORTS.some((ex) => gem.name.startsWith(ex)),
+    )
+    .sort((a, b) => b.chaosValue - a.chaosValue);
+
+  const exceptionalEv = exceptionalPrices.reduce(
+    (prev, curr, _, arr) => prev + curr.chaosValue / arr.length,
+    0,
+  );
+  addLine(
+    `### Exchange a Support Gem for a random Exceptional Gem - ${exceptionalEv.toFixed(
+      1,
+    )}c`,
+  );
+  addLine("");
+  addLine("Exceptional Gem | Price");
+  addLine(" :- | -: ");
+  exceptionalPrices.forEach((gem) => {
+    addLine(
+      [
+        `[${gem.name}](${[
+          POE_NINJA_URL,
+          "economy",
+          league.url,
+          "skill-gems",
+          gem.detailsId,
+        ].join("/")})`,
+        `${gem.chaosValue.toFixed(1)}c`,
+      ].join(" | "),
+    );
+  });
+  addLine(["Average", `${exceptionalEv.toFixed(1)}c`].join(" | "));
+
+  addLine("");
+
+  const labEv =
+    sameColourEv * (1 - 0.085) + sameGemEv * 0.06 + exceptionalEv * 0.025;
+  addLine(`### Expected Value per Lab: ${labEv.toFixed(1)}c`);
+  addLine("");
+  addLine("Divine Font | EV | Appearance Rate");
+  addLine(" :- | -: | -: ");
+  addLine(
+    `Transform a Skill Gem to be a random Transfigured Gem of the same colour | ${sameColourEv.toFixed(
+      1,
+    )}c | 100.0%`,
+  );
+  addLine(
+    `Transform a non-Transfigured Skill Gem to be a random Transfigured version | ${sameGemEv.toFixed(
+      1,
+    )}c | 6.0%`,
+  );
+  addLine(
+    `Exchange a Support Gem for a random Exceptional Gem | ${exceptionalEv.toFixed(
+      1,
+    )}c | 2.5%`,
+  );
 
   await saveLines();
 };
