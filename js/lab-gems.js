@@ -625,6 +625,7 @@ const main = async () => {
       1,
     )}c | 2.5%`,
   );
+  addLine(`Average | ${labEv.toFixed(1)}c | -`);
 
   await saveLines();
 };
