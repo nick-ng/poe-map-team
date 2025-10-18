@@ -13,7 +13,7 @@
   - Brutus
   - Prison trial
   - Dweller
-- Chain 2
+- "Chain" 2
   - Fairgraves
   - Merveil
 
@@ -32,10 +32,10 @@
     - Kill Brutus (Mark) => portal
     - Prison trial (Jacky) => portal
     - Dweller (Nick) => logout
-  - XP in Prisoner's Gate
-  - Chain 2
-    - Fairgraves => portal
-    - Merveil => Act 2
+  - XP in Prisoner's Gate until Mark gets to Ship Graveyard
+  - Ship Graveyard Cave => Portal near All Flame
+  - Fairgraves Trick
+  - Merveil => Act 2
 - Jacky
   - XP on ledge until Mark gets to Prison WP then warp
   - Make new Prison
@@ -45,9 +45,8 @@
     - Kill Brutus (Mark) => portal
     - Dweller (Nick) => logout
   - XP in Prisoner's Gate
-  - Chain 2
-    - Fairgraves => portal
-    - Merveil => Act 2
+  - Fairgraves Trick
+  - Merveil => Act 2
 - Mark
   - Get to Lower Prison WP
   - Upper Prison
@@ -58,9 +57,8 @@
     - Dweller => logout
   - Prisoner's Gate => Ship Graveyard
   - Merveil Phase 2 => portal
-  - Chain 2
-    - Fairgraves => portal
-    - Merveil => Act 2
+  - Fairgraves Trick until level 12(?)
+  - Merveil => Act 2
 - Nick
   - XP on ledge
   - Wait until Mark is "halfway" through Lower Prison
@@ -70,11 +68,10 @@
     - Kill Brutus (Mark) => portal
     - Prison trial (Jacky) => portal
     - Dweller (Nick) => logout
-  - Prisoner's Gate => Ship Graveyard
-  - Ship Graveyard Cave
-  - Chain 2
-    - Fairgraves (Nick) => portal
-    - Merveil => Act 2
+  - XP in Prisoner's Gate
+  - Fairgraves Trick
+  - Merveil => logout
+  - Ship Graveyard Cave portal => Fairgraves
 
 # Act 2
 
