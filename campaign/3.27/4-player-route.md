@@ -2,6 +2,80 @@
 
 # Act 1
 
+## XP Zones
+
+- 3: Ledge
+- 7: Prisoner's gate
+
+## By Chain
+
+- Chain 1
+  - Brutus
+  - Prison trial
+  - Dweller
+- Chain 2
+  - Fairgraves
+  - Merveil
+
+## By Player
+
+- All
+  - Solo Coast
+  - Group Mud Flats
+  - Solo Hailrake
+  - Solo Submerged passage
+    - All warp to the first person who gets to ledge
+    - Everyone who warped make new ledges
+- David
+  - Get XP
+  - Chain 1
+    - Kill Brutus (Mark) => portal
+    - Prison trial (Jacky) => portal
+    - Dweller (Nick) => logout
+  - XP in Prisoner's Gate
+  - Chain 2
+    - Fairgraves => portal
+    - Merveil => Act 2
+- Jacky
+  - XP on ledge until Mark gets to Prison WP then warp
+  - Make new Prison
+  - Portal at trial
+  - Get XP at ledge
+  - Chain 1
+    - Kill Brutus (Mark) => portal
+    - Dweller (Nick) => logout
+  - XP in Prisoner's Gate
+  - Chain 2
+    - Fairgraves => portal
+    - Merveil => Act 2
+- Mark
+  - Get to Lower Prison WP
+  - Upper Prison
+  - Tag Brutus => portal
+  - Chain 1
+    - Kill Brutus => portal
+    - Prison trial => portal
+    - Dweller => logout
+  - Prisoner's Gate => Ship Graveyard
+  - Merveil Phase 2 => portal
+  - Chain 2
+    - Fairgraves => portal
+    - Merveil => Act 2
+- Nick
+  - XP on ledge
+  - Wait until Mark is "halfway" through Lower Prison
+  - Tag Dweller => portal
+  - Ledge until Chain 1
+  - Chain 1
+    - Kill Brutus (Mark) => portal
+    - Prison trial (Jacky) => portal
+    - Dweller (Nick) => logout
+  - Prisoner's Gate => Ship Graveyard
+  - Ship Graveyard Cave
+  - Chain 2
+    - Fairgraves (Nick) => portal
+    - Merveil => Act 2
+
 # Act 2
 
 ## XP Zones
@@ -117,3 +191,15 @@
   - Warp to Vaal Oversoul
 
 # Act 3
+
+# Resources
+
+## Videos
+
+- Havoc: https://www.youtube.com/watch?v=UCdSqHabxDM
+- SPL: https://www.youtube.com/watch?v=Py9dxjfu3W8
+- viewsync: https://viewsync.net/watch?v=UCdSqHabxDM&t=325&v=Py9dxjfu3W8&t=101
+
+## Links
+
+- [Team Focus group campaign routing guide](https://docs.google.com/document/d/1bZjyzFpH3PzY2AIcp7K7NtF1W1DqN4WEjTh9R1rMaMI/edit?usp=sharing)
