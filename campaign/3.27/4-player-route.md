@@ -226,7 +226,7 @@
   - Kill Piety
   - Open tower door (Jacky)
 - Dominus
-- Aqueduct WP => Garden trial (Jacky)
+- Aqueduct WP => Garden trial (Nick)
 
 ### Jacky
 
@@ -408,7 +408,7 @@
 - Swirl Nick => Chamber of Sins trial => Portal to town
 - Portal Nick => Baleful Gem
 - Portal Jacky => Weaver
-- Portal David => Crypt Trial
+- Portal David => Crypt trial
 - Portal Mark => Kill Oak
 - Run to tree roots
 
@@ -441,7 +441,7 @@
 ### Chain 3.1
 
 - Swirl Jacky => Click Tolman
-- Portal David => Crematorium Trial
+- Portal David => Crematorium trial
 - Turn in Bracelet, get Thief Tools
 - Portal Nick => Sewers
 
@@ -456,6 +456,38 @@
 | David | Jacky           | Mark | Nick            |
 | :---- | :-------------- | :--- | :-------------- |
 | XP    | Ribbon Spool WP | XP   | Catacombs Trial |
+| Docks | Dialla WP       | XP   | XP              |
+
+### Chain 3.2
+
+- Swirl David => Thaumatic Sulfite
+- Portal Nick => Catacombs trial
+- Swirl Jacky => Take Infernal Talc
+- Sewers => Burn Blockage => Get WP
+
+| Highest Level     | Everyone Else                             |
+| :---------------- | :---------------------------------------- |
+| General Gravicius | Wait for General Gravicius tag then swirl |
+
+| David | Jacky                | Mark | Nick       |
+| :---- | :------------------- | :--- | :--------- |
+| Piety | Explosive Concoction | XP   | Tower Door |
+
+### Chain 3.3
+
+- Swirl David => Kill Piety
+- Portal Nick => Tower door
+
+| Highest Level | Nick          | Everyone Else |
+| :------------ | :------------ | :------------ |
+| Dominus       | Gardens trial | XP            |
+
+### Chain 3.4
+
+- Swirl <someone> => Dominus
+- Aqueduct WP => Garden Trial
+
+## Act 4
 
 # Resources
 
