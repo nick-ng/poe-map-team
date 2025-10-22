@@ -107,8 +107,7 @@
 
 ### David
 
-- XP in Southern Forest until Nick gets to Crossroads WP
-- Warp to Crossroads
+- Crossroads WP
 - Fellshrine Ruins
 - Crypt 1 => Crypt 1 Trial portal
 - Southern Forest or Riverways until Chain 1
@@ -133,8 +132,7 @@
 
 ### Jacky
 
-- XP in Southern Forest until Mark gets to Riverways WP
-- Warp to Riverways
+- Riverways WP
 - Western Forest
 - Weaver's Chamber => Tag Weaver
 - Portal => Forest Encampment
@@ -158,7 +156,8 @@
 
 ### Mark
 
-- Riverways => Say when near/at WP
+- XP until Jacky is at Riverways WP
+- Warp to Riverways
 - Wetlands
 - Portal at Oak
 - XP somewhere
@@ -182,7 +181,8 @@
 
 ### Nick
 
-- Crossroads => Say when near/at WP
+- XP until David is at Crossroads WP
+- Warp to Crossroads
 - Chamber of Sins 1 => Chamber of Sins 2
 - Chamber of Sins 2 Trial portal => Kill Fidelitas and pick up gem
 - Chain 1
@@ -362,6 +362,100 @@
 - Normal Lab
 - Piety
 - Malachai
+
+# Shotcaller Notes
+
+## Act 1
+
+| All                    |
+| :--------------------- |
+| Solo Coast             |
+| Group Mud Flats        |
+| Solo Hailrake          |
+| Solo Submerged passage |
+
+| David | Jacky        | Mark         | Nick    |
+| :---- | :----------- | :----------- | :------ |
+| XP    | Lower Prison | XP           | XP      |
+| Ledge | Prison Trial | Upper Prison | Dweller |
+
+### Chain 1.1
+
+- Swirl Mark => Brutus
+- Portal Jacky => Prison trial
+- Portal Nick => Dweller
+- **Logout**
+
+| David     | Jacky               | Mark    | Nick |
+| :-------- | :------------------ | :------ | :--- |
+| XP        | Ship Graveyard      | XP      | XP   |
+| All Flame | Ship Graveyard Cave | Merveil | XP   |
+
+| All              |
+| :--------------- |
+| Fairgraves Trick |
+
+## Act 2
+
+| David         | Jacky        | Mark | Nick                  |
+| :------------ | :----------- | :--- | :-------------------- |
+| Crossroads WP | Riverways WP | XP   | XP                    |
+| Crypt Trial   | Weaver       | Oak  | Chamber of Sins Trial |
+| XP            | XP           | XP   | Fidelitas             |
+
+### Chain 2.1
+
+- Swirl Nick => Chamber of Sins trial => Portal to town
+- Portal Nick => Baleful Gem
+- Portal Jacky => Weaver
+- Portal David => Crypt Trial
+- Portal Mark => Kill Oak
+- Run to tree roots
+
+| David       | Jacky | Mark | Nick    |
+| :---------- | :---- | :--- | :------ |
+| Golden Hand | Alira | Ball | Kraityn |
+
+### Chain 2.2
+
+- Swirl Mark => Ball => run to Northern Forest WP
+- Portal Nick => Kill Kraityn
+- Portal David => Golden Hand
+- Portal Jacky => Help Alira => Run to Thaumatic Emblem
+- Someone logout and get to Act 1 => Swirl that person
+
+| Highest Level | Everyone Else |
+| :------------ | :------------ |
+| Vaal Oversoul | XP            |
+
+## Act 3
+
+| Highest Level  | Everyone Else |
+| :------------- | :------------ |
+| Crematorium WP | XP            |
+
+| David             | Jacky  | Mark | Nick          |
+| :---------------- | :----- | :--- | :------------ |
+| Crematorium Trial | Tolman | XP   | Sewers Portal |
+
+### Chain 3.1
+
+- Swirl Jacky => Click Tolman
+- Portal David => Crematorium Trial
+- Turn in Bracelet, get Thief Tools
+- Portal Nick => Sewers
+
+| All         |
+| :---------- |
+| Solo Sewers |
+
+| Highest Level  | Everyone Else |
+| :------------- | :------------ |
+| Marketplace WP | XP            |
+
+| David | Jacky           | Mark | Nick            |
+| :---- | :-------------- | :--- | :-------------- |
+| XP    | Ribbon Spool WP | XP   | Catacombs Trial |
 
 # Resources
 
