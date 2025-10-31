@@ -489,6 +489,60 @@
 
 ## Act 4
 
+| Highest Level | Everyone Else   |
+| :------------ | :-------------- |
+| Voll          | XP => Kill Voll |
+
+| David                 | Jacky                  | Mark             | Nick            |
+| :-------------------- | :--------------------- | :--------------- | :-------------- |
+| XP                    | Normal Lab - Green Gem | Spirit => Portal | XP              |
+| Replace Mark's Portal | David's Portal         | Kaom's Dream     | Daresso's Dream |
+
+### Chain 4.1
+
+- Swirl Mark => Kill Kaom
+- Portal Nick => Kill Daresso
+
+| David         | Jacky            | Mark          | Nick          |
+| :------------ | :--------------- | :------------ | :------------ |
+| Normal Lab    | Piety => Portal  | Normal Lab    | Normal Lab    |
+| Talk to Piety | Malachai Phase 1 | Talk to Piety | Talk to Piety |
+| Kill Malachai | Kill Malachai    | Kill Malachai | Kill Malachai |
+
+## Act 5
+
+| All                 |
+| :------------------ |
+| Solo Ascent         |
+| Solo Slave Pens     |
+| Solo Control Blocks |
+
+| Highest Level        | Everyone Else                           |
+| :------------------- | :-------------------------------------- |
+| Portal at Door       | XP                                      |
+| Chamber of Innocence | Open Door => Swirl Chamber of Innocence |
+| Level 42             | XP                                      |
+| Innocence            | XP                                      |
+
+Chain 5.1
+
+- Innocence
+
+| Highest Level    | Second Highest     | Everyone Else |
+| :--------------- | :----------------- | :------------ |
+| Ruined Square WP | XP                 | XP            |
+| Ossuary          | Portal at Roof Top | XP            |
+| Kitava           | Reliquary          | Reliquary     |
+
+Chain 5.2
+
+- Swirl Highest Level before "You have been permanently weakend by Kitava's
+  cruel affliction"
+
+| Kitava Runner       | Everyone Else     |
+| :------------------ | :---------------- |
+| Reliquary Portal(s) | Sail to Wraeclast |
+
 # Resources
 
 ## Videos
