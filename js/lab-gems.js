@@ -114,7 +114,7 @@ const SKILL_GEMS = [
   { colour: "blue", name: "Void Sphere" },
   { colour: "blue", name: "Voltaxic Burst" },
   { colour: "blue", name: "Vortex" },
-  { colour: "blue", name: "Wall" },
+  { colour: "blue", name: "Wall of Force" },
   { colour: "blue", name: "Wave of Conviction" },
   { colour: "blue", name: "Winter Orb" },
   { colour: "blue", name: "Wintertide Brand" },
@@ -358,9 +358,9 @@ const getGems = async (leagueName) => {
   const resJson = await res.json();
 
   return resJson.lines.map((gem) => {
-    if (gem.name.toLowerCase() === "wall of force") {
-      return { ...gem, normalGem: gem.name };
-    }
+    // if (gem.name.toLowerCase() === "wall of force") {
+    //   return { ...gem, normalGem: gem.name };
+    // }
 
     const temp = gem.name.split(" of ");
     return { ...gem, normalGem: temp[0] };
@@ -397,7 +397,7 @@ const main = async () => {
   const gemInfo = { red: [], green: [], blue: [], white: [] };
   SKILL_GEMS.forEach((g) => {
     const matchingLabGems = labGems.filter((lg) =>
-      lg.name.toLowerCase().startsWith(g.name.toLowerCase()),
+      lg.name.toLowerCase().startsWith(g.name.toLowerCase())
     );
 
     let hasUnusual = false;
