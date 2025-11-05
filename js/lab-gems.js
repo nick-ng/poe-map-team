@@ -64,6 +64,9 @@ const SKILL_GEMS = [
   { colour: "blue", name: "Incinerate" },
   { colour: "blue", name: "Kinetic Blast" },
   { colour: "blue", name: "Kinetic Bolt" },
+  { colour: "blue", name: "Kinetic Fusillade" },
+  { colour: "blue", name: "Kinetic Rain" },
+  { colour: "blue", name: "Kinetic Rain" },
   { colour: "blue", name: "Lightning Conduit" },
   { colour: "blue", name: "Lightning Spire Trap" },
   { colour: "blue", name: "Lightning Tendrils" },
@@ -87,6 +90,7 @@ const SKILL_GEMS = [
   { colour: "blue", name: "Shock Nova" },
   { colour: "blue", name: "Sigil of Power" },
   { colour: "blue", name: "Siphoning Trap" },
+  { colour: "blue", name: "Somatic Shell" },
   { colour: "blue", name: "Soul Link" },
   { colour: "blue", name: "Soulrend" },
   { colour: "blue", name: "Spark" },
@@ -110,6 +114,7 @@ const SKILL_GEMS = [
   { colour: "blue", name: "Void Sphere" },
   { colour: "blue", name: "Voltaxic Burst" },
   { colour: "blue", name: "Vortex" },
+  { colour: "blue", name: "Wall" },
   { colour: "blue", name: "Wave of Conviction" },
   { colour: "blue", name: "Winter Orb" },
   { colour: "blue", name: "Wintertide Brand" },
@@ -133,6 +138,7 @@ const SKILL_GEMS = [
   { colour: "green", name: "Caustic Arrow" },
   { colour: "green", name: "Charged Dash" },
   { colour: "green", name: "Cobra Lash" },
+  { colour: "green", name: "Conflagration" },
   { colour: "green", name: "Cremation" },
   { colour: "green", name: "Cyclone" },
   { colour: "green", name: "Dash" },
@@ -192,6 +198,7 @@ const SKILL_GEMS = [
   { colour: "green", name: "Summon Ice Golem" },
   { colour: "green", name: "Temporal Chains" },
   { colour: "green", name: "Temporal Rift" },
+  { colour: "green", name: "Thunderstorm" },
   { colour: "green", name: "Tornado" },
   { colour: "green", name: "Toxic Rain" },
   { colour: "green", name: "Unearth" },
@@ -297,8 +304,8 @@ const saveLines = async () => {
 };
 
 const getLeague = async () => {
-  const res = await fetch("https://poe.ninja/api/data/index-state");
-  const resJson = await res.json();
+  const res = await fetch("https://poe.ninja/poe1/api/data/index-state");
+  let resJson = await res.json();
   const temp = resJson.economyLeagues.filter((l) => {
     const leagueName = l.name.toLowerCase();
     if (leagueName === "standard") {
@@ -351,6 +358,10 @@ const getGems = async (leagueName) => {
   const resJson = await res.json();
 
   return resJson.lines.map((gem) => {
+    if (gem.name.toLowerCase() === "wall of force") {
+      return { ...gem, normalGem: gem.name };
+    }
+
     const temp = gem.name.split(" of ");
     return { ...gem, normalGem: temp[0] };
   });
@@ -377,9 +388,7 @@ const main = async () => {
   });
 
   addLine(
-    `[${league.name} League](https://poe.ninja/economy/${
-      league.url
-    }/skill-gems), fetched at ${new Date()}`,
+    `[${league.name} League](https://poe.ninja/economy/${league.url}/skill-gems), fetched at ${new Date()}`,
   );
   addLine("");
   addLine("The following prices are for gem level < 20 and quality < 20");
@@ -477,9 +486,11 @@ const main = async () => {
   randomSameColour.sort((a, b) => b.ev - a.ev);
   const sameColourEv = randomSameColour[0].ev;
   addLine(
-    `### Transform a Skill Gem to be a random Transfigured Gem of the same colour - ${sameColourEv.toFixed(
-      1,
-    )}c`,
+    `### Transform a Skill Gem to be a random Transfigured Gem of the same colour - ${
+      sameColourEv.toFixed(
+        1,
+      )
+    }c`,
   );
   addLine("");
   addLine("Colour | Top 3 | EV");
@@ -488,13 +499,15 @@ const main = async () => {
     const gemLinks = a.top3
       .map(
         (g) =>
-          `[${g.name} (${g.chaosValue.toFixed(1)}c)](${[
-            POE_NINJA_URL,
-            "economy",
-            league.url,
-            "skill-gems",
-            g.detailsId,
-          ].join("/")})`,
+          `[${g.name} (${g.chaosValue.toFixed(1)}c)](${
+            [
+              POE_NINJA_URL,
+              "economy",
+              league.url,
+              "skill-gems",
+              g.detailsId,
+            ].join("/")
+          })`,
       )
       .join(", ");
     addLine(
@@ -514,9 +527,11 @@ const main = async () => {
 
   const sameGemEv = sameGemPrices[0].ev;
   addLine(
-    `### Transform a non-Transfigured Skill Gem to be a random Transfigured version - ${sameGemEv.toFixed(
-      1,
-    )}c`,
+    `### Transform a non-Transfigured Skill Gem to be a random Transfigured version - ${
+      sameGemEv.toFixed(
+        1,
+      )
+    }c`,
   );
 
   addLine("Normal Gem | # | Transfigured Gems | EV");
@@ -525,21 +540,23 @@ const main = async () => {
     const transfiguredLinks = g.transfigured
       .map(
         (t) =>
-          `[${t.name} (${t.chaosValue.toFixed(1)}c)](${[
-            POE_NINJA_URL,
-            "economy",
-            league.url,
-            "skill-gems",
-            t.detailsId,
-          ].join("/")})`,
+          `[${t.name} (${t.chaosValue.toFixed(1)}c)](${
+            [
+              POE_NINJA_URL,
+              "economy",
+              league.url,
+              "skill-gems",
+              t.detailsId,
+            ].join("/")
+          })`,
       )
       .join(", ");
 
     addLine(
       [
-        `[${
-          g.normal.name
-        }](https://www.poewiki.net/wiki/${g.normal.name.replaceAll(" ", "_")})`,
+        `[${g.normal.name}](https://www.poewiki.net/wiki/${
+          g.normal.name.replaceAll(" ", "_")
+        })`,
         g.transfigured.length,
         transfiguredLinks,
         `${g.ev.toFixed(1)}c`,
@@ -551,13 +568,13 @@ const main = async () => {
   addLine("<details><summary> All Gems </summary>");
   addLine("");
   addLine("```");
-  sameGemPrices.forEach((g) =>
+  sameGemPrices.forEach((g) => {
     addLine(
-      `- ${g.ev.toFixed(1)} ${g.normal.name} (${
-        g.transfigured.length
-      }, ${g.transfigured.map((t) => t.name).join(", ")})`,
-    ),
-  );
+      `- ${g.ev.toFixed(1)} ${g.normal.name} (${g.transfigured.length}, ${
+        g.transfigured.map((t) => t.name).join(", ")
+      })`,
+    );
+  });
   addLine("```");
   addLine("");
   addLine("</details>");
@@ -578,9 +595,11 @@ const main = async () => {
     0,
   );
   addLine(
-    `### Exchange a Support Gem for a random Exceptional Gem - ${exceptionalEv.toFixed(
-      1,
-    )}c`,
+    `### Exchange a Support Gem for a random Exceptional Gem - ${
+      exceptionalEv.toFixed(
+        1,
+      )
+    }c`,
   );
   addLine("");
   addLine("Exceptional Gem | Price");
@@ -588,13 +607,15 @@ const main = async () => {
   exceptionalPrices.forEach((gem) => {
     addLine(
       [
-        `[${gem.name}](${[
-          POE_NINJA_URL,
-          "economy",
-          league.url,
-          "skill-gems",
-          gem.detailsId,
-        ].join("/")})`,
+        `[${gem.name}](${
+          [
+            POE_NINJA_URL,
+            "economy",
+            league.url,
+            "skill-gems",
+            gem.detailsId,
+          ].join("/")
+        })`,
         `${gem.chaosValue.toFixed(1)}c`,
       ].join(" | "),
     );
@@ -603,26 +624,32 @@ const main = async () => {
 
   addLine("");
 
-  const labEv =
-    sameColourEv * (1 - 0.085) + sameGemEv * 0.06 + exceptionalEv * 0.025;
+  const labEv = sameColourEv * (1 - 0.085) + sameGemEv * 0.06 +
+    exceptionalEv * 0.025;
   addLine(`### Expected Value per Lab: ${labEv.toFixed(1)}c`);
   addLine("");
   addLine("Divine Font | EV | Appearance Rate");
   addLine(" :- | -: | -: ");
   addLine(
-    `Transform a Skill Gem to be a random Transfigured Gem of the same colour | ${sameColourEv.toFixed(
-      1,
-    )}c | 100.0%`,
+    `Transform a Skill Gem to be a random Transfigured Gem of the same colour | ${
+      sameColourEv.toFixed(
+        1,
+      )
+    }c | 100.0%`,
   );
   addLine(
-    `Transform a non-Transfigured Skill Gem to be a random Transfigured version | ${sameGemEv.toFixed(
-      1,
-    )}c | 6.0%`,
+    `Transform a non-Transfigured Skill Gem to be a random Transfigured version | ${
+      sameGemEv.toFixed(
+        1,
+      )
+    }c | 6.0%`,
   );
   addLine(
-    `Exchange a Support Gem for a random Exceptional Gem | ${exceptionalEv.toFixed(
-      1,
-    )}c | 2.5%`,
+    `Exchange a Support Gem for a random Exceptional Gem | ${
+      exceptionalEv.toFixed(
+        1,
+      )
+    }c | 2.5%`,
   );
   addLine(`Average | ${labEv.toFixed(1)}c | -`);
 
