@@ -1,6 +1,6 @@
 ## merclab
 
-[Keepers League](https://poe.ninja/economy/keepers/skill-gems), fetched at Thu Nov 06 2025 09:24:59 GMT+1300 (New Zealand Daylight Time)
+[Keepers League](https://poe.ninja/economy/keepers/skill-gems), fetched at Thu Nov 06 2025 09:25:31 GMT+1300 (New Zealand Daylight Time)
 
 The following prices are for gem level < 20 and quality < 20
 
