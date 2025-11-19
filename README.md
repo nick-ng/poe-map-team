@@ -61,15 +61,15 @@ Better contract types at the top
 
 ## merclab
 
-[Keepers League](https://poe.ninja/economy/keepers/skill-gems), fetched at Wed Nov 19 2025 19:53:11 GMT+1300 (New Zealand Daylight Time)
+[Keepers League](https://poe.ninja/economy/keepers/skill-gems), fetched at Wed Nov 19 2025 20:23:17 GMT+1300 (New Zealand Daylight Time)
 
 The following prices are for gem level < 20 and quality < 20
 
-### Transform a Skill Gem to be a random Transfigured Gem of the same colour - 9.7c
+### Transform a Skill Gem to be a random Transfigured Gem of the same colour - 9.6c
 
 Colour | Top 3 | EV
 :- | :- | -:
-🔴 red | [Summon Stone Golem of Safeguarding (140.0c)](https://poe.ninja/economy/keepers/skill-gems/summon-stone-golem-of-safeguarding-1), [Volcanic Fissure of Snaking (51.0c)](https://poe.ninja/economy/keepers/skill-gems/volcanic-fissure-of-snaking-1), [Ground Slam of Earthshaking (40.0c)](https://poe.ninja/economy/keepers/skill-gems/ground-slam-of-earthshaking-1) | 9.7c
+🔴 red | [Summon Stone Golem of Safeguarding (139.0c)](https://poe.ninja/economy/keepers/skill-gems/summon-stone-golem-of-safeguarding-1), [Volcanic Fissure of Snaking (50.0c)](https://poe.ninja/economy/keepers/skill-gems/volcanic-fissure-of-snaking-1), [Ground Slam of Earthshaking (40.0c)](https://poe.ninja/economy/keepers/skill-gems/ground-slam-of-earthshaking-1) | 9.6c
 🔵 blue | [Firestorm of Pelting (118.6c)](https://poe.ninja/economy/keepers/skill-gems/firestorm-of-pelting-1), [Kinetic Blast of Clustering (100.0c)](https://poe.ninja/economy/keepers/skill-gems/kinetic-blast-of-clustering-1), [Frostblink of Wintry Blast (78.0c)](https://poe.ninja/economy/keepers/skill-gems/frostblink-of-wintry-blast-1) | 7.0c
 🟢 green | [Detonate Dead of Scavenging (118.6c)](https://poe.ninja/economy/keepers/skill-gems/detonate-dead-of-scavenging-1), [Cremation of the Volcano (50.0c)](https://poe.ninja/economy/keepers/skill-gems/cremation-of-the-volcano-1), [Lancing Steel of Spraying (50.0c)](https://poe.ninja/economy/keepers/skill-gems/lancing-steel-of-spraying-1) | 6.9c
 
@@ -78,10 +78,10 @@ Normal Gem | # | Transfigured Gems | EV
  :- | -: | :- | -: 
 [Kinetic Blast](https://www.poewiki.net/wiki/Kinetic_Blast) | 1 | [Kinetic Blast of Clustering (100.0c)](https://poe.ninja/economy/keepers/skill-gems/kinetic-blast-of-clustering-1) | 100.0c
 [Frostblink](https://www.poewiki.net/wiki/Frostblink) | 1 | [Frostblink of Wintry Blast (78.0c)](https://poe.ninja/economy/keepers/skill-gems/frostblink-of-wintry-blast-1) | 78.0c
-[Summon Stone Golem](https://www.poewiki.net/wiki/Summon_Stone_Golem) | 2 | [Summon Stone Golem of Safeguarding (140.0c)](https://poe.ninja/economy/keepers/skill-gems/summon-stone-golem-of-safeguarding-1), [Summon Stone Golem of Hordes (4.0c)](https://poe.ninja/economy/keepers/skill-gems/summon-stone-golem-of-hordes-1) | 72.0c
+[Summon Stone Golem](https://www.poewiki.net/wiki/Summon_Stone_Golem) | 2 | [Summon Stone Golem of Safeguarding (139.0c)](https://poe.ninja/economy/keepers/skill-gems/summon-stone-golem-of-safeguarding-1), [Summon Stone Golem of Hordes (4.0c)](https://poe.ninja/economy/keepers/skill-gems/summon-stone-golem-of-hordes-1) | 71.5c
 [Firestorm](https://www.poewiki.net/wiki/Firestorm) | 2 | [Firestorm of Pelting (118.6c)](https://poe.ninja/economy/keepers/skill-gems/firestorm-of-pelting-1), [Firestorm of Meteors (3.0c)](https://poe.ninja/economy/keepers/skill-gems/firestorm-of-meteors-1) | 60.8c
 [Detonate Dead](https://www.poewiki.net/wiki/Detonate_Dead) | 2 | [Detonate Dead of Scavenging (118.6c)](https://poe.ninja/economy/keepers/skill-gems/detonate-dead-of-scavenging-1), [Detonate Dead of Chain Reaction (1.0c)](https://poe.ninja/economy/keepers/skill-gems/detonate-dead-of-chain-reaction-1) | 59.8c
-[Volcanic Fissure](https://www.poewiki.net/wiki/Volcanic_Fissure) | 1 | [Volcanic Fissure of Snaking (51.0c)](https://poe.ninja/economy/keepers/skill-gems/volcanic-fissure-of-snaking-1) | 51.0c
+[Volcanic Fissure](https://www.poewiki.net/wiki/Volcanic_Fissure) | 1 | [Volcanic Fissure of Snaking (50.0c)](https://poe.ninja/economy/keepers/skill-gems/volcanic-fissure-of-snaking-1) | 50.0c
 [Lancing Steel](https://www.poewiki.net/wiki/Lancing_Steel) | 1 | [Lancing Steel of Spraying (50.0c)](https://poe.ninja/economy/keepers/skill-gems/lancing-steel-of-spraying-1) | 50.0c
 [Cyclone](https://www.poewiki.net/wiki/Cyclone) | 1 | [Cyclone of Tumult (45.0c)](https://poe.ninja/economy/keepers/skill-gems/cyclone-of-tumult-1) | 45.0c
 [Ground Slam](https://www.poewiki.net/wiki/Ground_Slam) | 1 | [Ground Slam of Earthshaking (40.0c)](https://poe.ninja/economy/keepers/skill-gems/ground-slam-of-earthshaking-1) | 40.0c
@@ -92,22 +92,22 @@ Normal Gem | # | Transfigured Gems | EV
 ```
 - 100.0 Kinetic Blast (1, Kinetic Blast of Clustering)
 - 78.0 Frostblink (1, Frostblink of Wintry Blast)
-- 72.0 Summon Stone Golem (2, Summon Stone Golem of Safeguarding, Summon Stone Golem of Hordes)
+- 71.5 Summon Stone Golem (2, Summon Stone Golem of Safeguarding, Summon Stone Golem of Hordes)
 - 60.8 Firestorm (2, Firestorm of Pelting, Firestorm of Meteors)
 - 59.8 Detonate Dead (2, Detonate Dead of Scavenging, Detonate Dead of Chain Reaction)
-- 51.0 Volcanic Fissure (1, Volcanic Fissure of Snaking)
+- 50.0 Volcanic Fissure (1, Volcanic Fissure of Snaking)
 - 50.0 Lancing Steel (1, Lancing Steel of Spraying)
 - 45.0 Cyclone (1, Cyclone of Tumult)
 - 40.0 Ground Slam (1, Ground Slam of Earthshaking)
 - 29.0 Flame Surge (1, Flame Surge of Combusting)
 - 25.5 Cremation (2, Cremation of the Volcano, Cremation of Exhuming)
 - 25.5 Volatile Dead (2, Volatile Dead of Seething, Volatile Dead of Confinement)
-- 25.3 Penance Brand (2, Penance Brand of Dissipation, Penance Brand of Conduction)
+- 25.0 Penance Brand (2, Penance Brand of Dissipation, Penance Brand of Conduction)
 - 21.8 Purifying Flame (1, Purifying Flame of Revelations)
 - 20.0 Summon Holy Relic (1, Summon Holy Relic of Conviction)
 - 15.5 Summon Carrion Golem (2, Summon Carrion Golem of Hordes, Summon Carrion Golem of Scavenging)
 - 14.0 Animate Weapon (2, Animate Weapon of Ranged Arms, Animate Weapon of Self Reflection)
-- 14.0 Viper Strike (1, Viper Strike of the Mamba)
+- 13.0 Viper Strike (1, Viper Strike of the Mamba)
 - 10.0 Rage Vortex (1, Rage Vortex of Berserking)
 - 10.0 Elemental Hit (1, Elemental Hit of the Spectrum)
 - 10.0 Poisonous Concoction (1, Poisonous Concoction of Bouncing)
@@ -129,6 +129,7 @@ Normal Gem | # | Transfigured Gems | EV
 - 4.0 Power Siphon (1, Power Siphon of the Archmage)
 - 4.0 Summon Raging Spirit (1, Summon Raging Spirit of Enormity)
 - 3.5 Toxic Rain (2, Toxic Rain of Withering, Toxic Rain of Sporeburst)
+- 3.4 Summon Skeletons (2, Summon Skeletons of Mages, Summon Skeletons of Archers)
 - 3.0 Boneshatter (2, Boneshatter of Complex Trauma, Boneshatter of Carnage)
 - 3.0 Exsanguinate (1, Exsanguinate of Transmission)
 - 3.0 Leap Slam (1, Leap Slam of Groundbreaking)
@@ -139,7 +140,6 @@ Normal Gem | # | Transfigured Gems | EV
 - 3.0 Ball Lightning (2, Ball Lightning of Orbiting, Ball Lightning of Static)
 - 3.0 Crackling Lance (2, Crackling Lance of Disintegration, Crackling Lance of Branching)
 - 3.0 Summon Lightning Golem (1, Summon Lightning Golem of Hordes)
-- 3.0 Summon Skeletons (2, Summon Skeletons of Mages, Summon Skeletons of Archers)
 - 3.0 Vortex (1, Vortex of Projection)
 - 2.9 Lightning Strike (1, Lightning Strike of Arcing)
 - 2.5 Summon Flame Golem (2, Summon Flame Golem of Hordes, Summon Flame Golem of the Meteor)
@@ -147,7 +147,6 @@ Normal Gem | # | Transfigured Gems | EV
 - 2.5 Ice Nova (2, Ice Nova of Frostbolts, Ice Nova of Deep Freeze)
 - 2.5 Soulrend (2, Soulrend of the Spiral, Soulrend of Reaping)
 - 2.3 Tornado (3, Tornado of Elemental Turbulence, Tornado Shot, Tornado Shot of Cloudburst)
-- 2.0 Absolution (1, Absolution of Inspiring)
 - 2.0 Animate Guardian (1, Animate Guardian of Smiting)
 - 2.0 Dominating Blow (1, Dominating Blow of Inspiring)
 - 2.0 Blight (2, Blight of Contagion, Blight of Atrophy)
@@ -156,10 +155,12 @@ Normal Gem | # | Transfigured Gems | EV
 - 2.0 Icicle Mine (2, Icicle Mine of Fanning, Icicle Mine of Sabotage)
 - 2.0 Kinetic Bolt (1, Kinetic Bolt of Fragmentation)
 - 2.0 Summon Chaos Golem (2, Summon Chaos Golem of Hordes, Summon Chaos Golem of the Maelström)
+- 1.8 Absolution (1, Absolution of Inspiring)
 - 1.5 Blink Arrow (2, Blink Arrow of Bombarding Clones, Blink Arrow of Prismatic Clones)
+- 1.5 Summon Ice Golem (2, Summon Ice Golem of Hordes, Summon Ice Golem of Shattering)
 - 1.5 Incinerate (2, Incinerate of Venting, Incinerate of Expanse)
 - 1.5 Lightning Conduit (1, Lightning Conduit of the Heavens)
-- 1.1 Summon Ice Golem (2, Summon Ice Golem of Hordes, Summon Ice Golem of Shattering)
+- 1.3 Ethereal Knives (2, Ethereal Knives of the Massacre, Ethereal Knives of Lingering Blades)
 - 1.0 Cleave (1, Cleave of Rage)
 - 1.0 Consecrated Path (1, Consecrated Path of Endurance)
 - 1.0 Earthquake (1, Earthquake of Amplification)
@@ -182,7 +183,6 @@ Normal Gem | # | Transfigured Gems | EV
 - 1.0 Caustic Arrow (1, Caustic Arrow of Poison)
 - 1.0 Double Strike (2, Double Strike of Impaling, Double Strike of Momentum)
 - 1.0 Dual Strike (1, Dual Strike of Ambidexterity)
-- 1.0 Ethereal Knives (2, Ethereal Knives of the Massacre, Ethereal Knives of Lingering Blades)
 - 1.0 Explosive Concoction (1, Explosive Concoction of Destruction)
 - 1.0 Explosive Trap (2, Explosive Trap of Magnitude, Explosive Trap of Shrapnel)
 - 1.0 Fire Trap (1, Fire Trap of Blasting)
@@ -232,20 +232,20 @@ Normal Gem | # | Transfigured Gems | EV
 
 </details>
 
-### Exchange a Support Gem for a random Exceptional Gem - 90.4c
+### Exchange a Support Gem for a random Exceptional Gem - 90.7c
 
 Exceptional Gem | Price
  :- | -: 
 [Enlighten Support](https://poe.ninja/economy/keepers/skill-gems/enlighten-support-1) | 237.2c
-[Empower Support](https://poe.ninja/economy/keepers/skill-gems/empower-support-1) | 24.0c
+[Empower Support](https://poe.ninja/economy/keepers/skill-gems/empower-support-1) | 25.0c
 [Enhance Support](https://poe.ninja/economy/keepers/skill-gems/enhance-support-1) | 10.0c
-Average | 90.4c
+Average | 90.7c
 
-### Expected Value per Lab: 17.1c
+### Expected Value per Lab: 17.0c
 
 Divine Font | EV | Appearance Rate
  :- | -: | -: 
-Transform a Skill Gem to be a random Transfigured Gem of the same colour | 9.7c | 100.0%
+Transform a Skill Gem to be a random Transfigured Gem of the same colour | 9.6c | 100.0%
 Transform a non-Transfigured Skill Gem to be a random Transfigured version | 100.0c | 6.0%
-Exchange a Support Gem for a random Exceptional Gem | 90.4c | 2.5%
-Average | 17.1c | -
+Exchange a Support Gem for a random Exceptional Gem | 90.7c | 2.5%
+Average | 17.0c | -
