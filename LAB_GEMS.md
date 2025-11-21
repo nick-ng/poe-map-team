@@ -1,6 +1,6 @@
 ## merclab
 
-[Keepers League](https://poe.ninja/economy/keepers/skill-gems), fetched at Fri Nov 21 2025 21:38:45 GMT+1300 (New Zealand Daylight Time)
+[Keepers League](https://poe.ninja/economy/keepers/skill-gems), fetched at Fri Nov 21 2025 22:08:48 GMT+1300 (New Zealand Daylight Time)
 
 The following prices are for gem level < 20 and quality < 20
 
@@ -9,7 +9,7 @@ The following prices are for gem level < 20 and quality < 20
 Colour | Top 3 | EV
 :- | :- | -:
 🔴 red | [Summon Stone Golem of Safeguarding (140.0c)](https://poe.ninja/economy/keepers/skill-gems/summon-stone-golem-of-safeguarding-1), [Volcanic Fissure of Snaking (70.0c)](https://poe.ninja/economy/keepers/skill-gems/volcanic-fissure-of-snaking-1), [Ground Slam of Earthshaking (40.0c)](https://poe.ninja/economy/keepers/skill-gems/ground-slam-of-earthshaking-1) | 10.3c
-🟢 green | [Detonate Dead of Scavenging (140.0c)](https://poe.ninja/economy/keepers/skill-gems/detonate-dead-of-scavenging-1), [Lightning Strike of Arcing (59.0c)](https://poe.ninja/economy/keepers/skill-gems/lightning-strike-of-arcing-1), [Volatile Dead of Seething (50.6c)](https://poe.ninja/economy/keepers/skill-gems/volatile-dead-of-seething-1) | 7.9c
+🟢 green | [Detonate Dead of Scavenging (140.0c)](https://poe.ninja/economy/keepers/skill-gems/detonate-dead-of-scavenging-1), [Lightning Strike of Arcing (58.1c)](https://poe.ninja/economy/keepers/skill-gems/lightning-strike-of-arcing-1), [Volatile Dead of Seething (51.0c)](https://poe.ninja/economy/keepers/skill-gems/volatile-dead-of-seething-1) | 7.9c
 🔵 blue | [Firestorm of Pelting (100.0c)](https://poe.ninja/economy/keepers/skill-gems/firestorm-of-pelting-1), [Kinetic Blast of Clustering (90.0c)](https://poe.ninja/economy/keepers/skill-gems/kinetic-blast-of-clustering-1), [Frostblink of Wintry Blast (80.0c)](https://poe.ninja/economy/keepers/skill-gems/frostblink-of-wintry-blast-1) | 6.6c
 
 ### Transform a non-Transfigured Skill Gem to be a random Transfigured version - 90.0c
@@ -20,10 +20,10 @@ Normal Gem | # | Transfigured Gems | EV
 [Summon Stone Golem](https://www.poewiki.net/wiki/Summon_Stone_Golem) | 2 | [Summon Stone Golem of Safeguarding (140.0c)](https://poe.ninja/economy/keepers/skill-gems/summon-stone-golem-of-safeguarding-1), [Summon Stone Golem of Hordes (5.0c)](https://poe.ninja/economy/keepers/skill-gems/summon-stone-golem-of-hordes-1) | 72.5c
 [Detonate Dead](https://www.poewiki.net/wiki/Detonate_Dead) | 2 | [Detonate Dead of Scavenging (140.0c)](https://poe.ninja/economy/keepers/skill-gems/detonate-dead-of-scavenging-1), [Detonate Dead of Chain Reaction (1.0c)](https://poe.ninja/economy/keepers/skill-gems/detonate-dead-of-chain-reaction-1) | 70.5c
 [Volcanic Fissure](https://www.poewiki.net/wiki/Volcanic_Fissure) | 1 | [Volcanic Fissure of Snaking (70.0c)](https://poe.ninja/economy/keepers/skill-gems/volcanic-fissure-of-snaking-1) | 70.0c
-[Lightning Strike](https://www.poewiki.net/wiki/Lightning_Strike) | 1 | [Lightning Strike of Arcing (59.0c)](https://poe.ninja/economy/keepers/skill-gems/lightning-strike-of-arcing-1) | 59.0c
+[Lightning Strike](https://www.poewiki.net/wiki/Lightning_Strike) | 1 | [Lightning Strike of Arcing (58.1c)](https://poe.ninja/economy/keepers/skill-gems/lightning-strike-of-arcing-1) | 58.1c
 [Firestorm](https://www.poewiki.net/wiki/Firestorm) | 2 | [Firestorm of Pelting (100.0c)](https://poe.ninja/economy/keepers/skill-gems/firestorm-of-pelting-1), [Firestorm of Meteors (3.0c)](https://poe.ninja/economy/keepers/skill-gems/firestorm-of-meteors-1) | 51.5c
 [Lancing Steel](https://www.poewiki.net/wiki/Lancing_Steel) | 1 | [Lancing Steel of Spraying (45.0c)](https://poe.ninja/economy/keepers/skill-gems/lancing-steel-of-spraying-1) | 45.0c
-[Cyclone](https://www.poewiki.net/wiki/Cyclone) | 1 | [Cyclone of Tumult (44.3c)](https://poe.ninja/economy/keepers/skill-gems/cyclone-of-tumult-1) | 44.3c
+[Cyclone](https://www.poewiki.net/wiki/Cyclone) | 1 | [Cyclone of Tumult (43.5c)](https://poe.ninja/economy/keepers/skill-gems/cyclone-of-tumult-1) | 43.5c
 [Ground Slam](https://www.poewiki.net/wiki/Ground_Slam) | 1 | [Ground Slam of Earthshaking (40.0c)](https://poe.ninja/economy/keepers/skill-gems/ground-slam-of-earthshaking-1) | 40.0c
 
 <details><summary> All Gems </summary>
@@ -34,26 +34,26 @@ Normal Gem | # | Transfigured Gems | EV
 - 72.5 Summon Stone Golem (2, Summon Stone Golem of Safeguarding, Summon Stone Golem of Hordes)
 - 70.5 Detonate Dead (2, Detonate Dead of Scavenging, Detonate Dead of Chain Reaction)
 - 70.0 Volcanic Fissure (1, Volcanic Fissure of Snaking)
-- 59.0 Lightning Strike (1, Lightning Strike of Arcing)
+- 58.1 Lightning Strike (1, Lightning Strike of Arcing)
 - 51.5 Firestorm (2, Firestorm of Pelting, Firestorm of Meteors)
 - 45.0 Lancing Steel (1, Lancing Steel of Spraying)
-- 44.3 Cyclone (1, Cyclone of Tumult)
+- 43.5 Cyclone (1, Cyclone of Tumult)
 - 40.0 Ground Slam (1, Ground Slam of Earthshaking)
-- 25.8 Volatile Dead (2, Volatile Dead of Seething, Volatile Dead of Confinement)
+- 26.0 Volatile Dead (2, Volatile Dead of Seething, Volatile Dead of Confinement)
 - 25.5 Cremation (2, Cremation of the Volcano, Cremation of Exhuming)
 - 25.0 Flame Surge (1, Flame Surge of Combusting)
 - 25.0 Purifying Flame (1, Purifying Flame of Revelations)
 - 20.5 Penance Brand (2, Penance Brand of Dissipation, Penance Brand of Conduction)
 - 20.0 Summon Holy Relic (1, Summon Holy Relic of Conviction)
 - 15.5 Summon Carrion Golem (2, Summon Carrion Golem of Hordes, Summon Carrion Golem of Scavenging)
-- 13.0 Viper Strike (1, Viper Strike of the Mamba)
+- 14.0 Viper Strike (1, Viper Strike of the Mamba)
 - 11.5 Animate Weapon (2, Animate Weapon of Ranged Arms, Animate Weapon of Self Reflection)
 - 10.0 Rage Vortex (1, Rage Vortex of Berserking)
 - 10.0 Smite (1, Smite of Divine Judgement)
 - 10.0 Elemental Hit (1, Elemental Hit of the Spectrum)
 - 10.0 Poisonous Concoction (1, Poisonous Concoction of Bouncing)
 - 10.0 Forbidden Rite (1, Forbidden Rite of Soul Sacrifice)
-- 9.5 Molten Strike (1, Molten Strike of the Zenith)
+- 9.0 Molten Strike (1, Molten Strike of the Zenith)
 - 9.0 Righteous Fire (1, Righteous Fire of Arcane Devotion)
 - 8.5 Raise Zombie (2, Raise Zombie of Falling, Raise Zombie of Slamming)
 - 8.0 Bladefall (2, Bladefall of Volleys, Bladefall of Impaling)
@@ -171,14 +171,14 @@ Normal Gem | # | Transfigured Gems | EV
 
 </details>
 
-### Exchange a Support Gem for a random Exceptional Gem - 96.5c
+### Exchange a Support Gem for a random Exceptional Gem - 96.8c
 
 Exceptional Gem | Price
  :- | -: 
-[Enlighten Support](https://poe.ninja/economy/keepers/skill-gems/enlighten-support-1) | 259.6c
-[Empower Support](https://poe.ninja/economy/keepers/skill-gems/empower-support-1) | 20.0c
+[Enlighten Support](https://poe.ninja/economy/keepers/skill-gems/enlighten-support-1) | 261.4c
+[Empower Support](https://poe.ninja/economy/keepers/skill-gems/empower-support-1) | 19.0c
 [Enhance Support](https://poe.ninja/economy/keepers/skill-gems/enhance-support-1) | 10.0c
-Average | 96.5c
+Average | 96.8c
 
 ### Expected Value per Lab: 17.2c
 
@@ -186,5 +186,5 @@ Divine Font | EV | Appearance Rate
  :- | -: | -: 
 Transform a Skill Gem to be a random Transfigured Gem of the same colour | 10.3c | 100.0%
 Transform a non-Transfigured Skill Gem to be a random Transfigured version | 90.0c | 6.0%
-Exchange a Support Gem for a random Exceptional Gem | 96.5c | 2.5%
+Exchange a Support Gem for a random Exceptional Gem | 96.8c | 2.5%
 Average | 17.2c | -
