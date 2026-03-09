@@ -2,7 +2,7 @@
 
 ## merclab
 
-[Mirage League](https://poe.ninja/economy/mirage/skill-gems), fetched at Mon Mar 09 2026 18:55:11 GMT+1300 (New Zealand Daylight Time)
+[Mirage League](https://poe.ninja/economy/mirage/skill-gems), fetched at Mon Mar 09 2026 18:56:56 GMT+1300 (New Zealand Daylight Time)
 
 The following prices are for gem level < 20 and quality < 20
 
@@ -200,7 +200,8 @@ Divine Font | EV | Appearance Rate
 Transform a Skill Gem to be a random Transfigured Gem of the same colour | 3.0c | 100.0%
 Transform a non-Transfigured Skill Gem to be a random Transfigured version | 47.0c | 6.0%
 Exchange a Support Gem for a random Exceptional Gem | 116.9c | 2.5%
-Average | 8.5c | -## Heist
+Average | 8.5c | -
+## Heist
 
 [Reddit post](https://www.reddit.com/r/pathofexile/comments/t9l76f/big_guide_to_heist_how_i_made_a_mirror_in_a_week/)
 
@@ -258,4 +259,3 @@ Better contract types at the top
 | Agility             | Essence, Fossils                              | Tullina         |                                 |
 | Brute force         | Fossils, Uniques                              | Tibbs           |                                 |
 | Deception           | Divination cards                              | Gianna          | Don't confuse with Demolition   |
-
