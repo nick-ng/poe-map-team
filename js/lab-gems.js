@@ -541,10 +541,12 @@ const main = async () => {
       }c`,
     );
 
-    addLine("Normal Gem | # | Transfigured Gems | EV");
-    addLine(" :- | -: | :- | -: ");
+    addLine("Normal Gem | Transfigured Gem | EV");
+    addLine(" :- | :- | -: ");
     sameGemPrices.slice(0, 10).map((g) => {
-      const transfiguredLinks = g.transfigured
+      const transfiguredLinks = g.transfigured.sort(
+        (a, b) => b.chaosValue - a.chaosValue,
+      )
         .map(
           (t) =>
             `[${t.name} (${t.chaosValue.toFixed(1)}c)](${
@@ -564,8 +566,7 @@ const main = async () => {
           `[${g.normal.name}](https://www.poewiki.net/wiki/${
             g.normal.name.replaceAll(" ", "_")
           })`,
-          g.transfigured.length,
-          transfiguredLinks,
+          transfiguredLinks[0],
           `${g.ev.toFixed(1)}c`,
         ].join(" | "),
       );

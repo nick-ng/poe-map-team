@@ -13,4 +13,4 @@ echo "" >> README.md
 git add ./LAB_GEMS.md
 git add ./README.md
 
-echo "Done"
+echo "Gem prices at https://github.com/nick-ng/poe-map-team?tab=readme-ov-file#map-team-notes"
