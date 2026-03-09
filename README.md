@@ -2,7 +2,7 @@
 
 ## merclab
 
-[Mirage League](https://poe.ninja/economy/mirage/skill-gems), fetched at Mon Mar 09 2026 18:54:30 GMT+1300 (New Zealand Daylight Time)
+[Mirage League](https://poe.ninja/economy/mirage/skill-gems), fetched at Mon Mar 09 2026 18:55:11 GMT+1300 (New Zealand Daylight Time)
 
 The following prices are for gem level < 20 and quality < 20
 
@@ -15,18 +15,18 @@ Colour | Top 3 | EV
 🔵 blue | [Shock Nova of Procession (47.0c)](https://poe.ninja/economy/mirage/skill-gems/shock-nova-of-procession-1), [Frostblink of Wintry Blast (20.0c)](https://poe.ninja/economy/mirage/skill-gems/frostblink-of-wintry-blast-1), [Summon Holy Relic of Conviction (18.2c)](https://poe.ninja/economy/mirage/skill-gems/summon-holy-relic-of-conviction-1) | 2.6c
 
 ### Transform a non-Transfigured Skill Gem to a Transfigured version - 47.0c
-Normal Gem | Transfigured Gem | EV
- :- | :- | -: 
-[Shock Nova](https://www.poewiki.net/wiki/Shock_Nova) | [Shock Nova of Procession (47.0c)](https://poe.ninja/economy/mirage/skill-gems/shock-nova-of-procession-1) | 47.0c
-[Elemental Hit](https://www.poewiki.net/wiki/Elemental_Hit) | [Elemental Hit of the Spectrum (40.0c)](https://poe.ninja/economy/mirage/skill-gems/elemental-hit-of-the-spectrum-1) | 40.0c
-[Ground Slam](https://www.poewiki.net/wiki/Ground_Slam) | [Ground Slam of Earthshaking (39.0c)](https://poe.ninja/economy/mirage/skill-gems/ground-slam-of-earthshaking-1) | 39.0c
-[Lacerate](https://www.poewiki.net/wiki/Lacerate) | [Lacerate of Butchering (30.0c)](https://poe.ninja/economy/mirage/skill-gems/lacerate-of-butchering-1) | 30.0c
-[Lancing Steel](https://www.poewiki.net/wiki/Lancing_Steel) | [Lancing Steel of Spraying (29.0c)](https://poe.ninja/economy/mirage/skill-gems/lancing-steel-of-spraying-1) | 29.0c
-[Frostblink](https://www.poewiki.net/wiki/Frostblink) | [Frostblink of Wintry Blast (20.0c)](https://poe.ninja/economy/mirage/skill-gems/frostblink-of-wintry-blast-1) | 20.0c
-[Summon Holy Relic](https://www.poewiki.net/wiki/Summon_Holy_Relic) | [Summon Holy Relic of Conviction (18.2c)](https://poe.ninja/economy/mirage/skill-gems/summon-holy-relic-of-conviction-1) | 18.2c
-[Searing Bond](https://www.poewiki.net/wiki/Searing_Bond) | [Searing Bond of Detonation (17.6c)](https://poe.ninja/economy/mirage/skill-gems/searing-bond-of-detonation-1) | 17.6c
-[Animate Weapon](https://www.poewiki.net/wiki/Animate_Weapon) | [Animate Weapon of Ranged Arms (15.0c)](https://poe.ninja/economy/mirage/skill-gems/animate-weapon-of-ranged-arms-1) | 15.0c
-[Glacial Cascade](https://www.poewiki.net/wiki/Glacial_Cascade) | [Glacial Cascade of the Fissure (15.0c)](https://poe.ninja/economy/mirage/skill-gems/glacial-cascade-of-the-fissure-1) | 15.0c
+Normal Gem | # | Transfigured Gems | EV
+ :- | -: | :- | -: 
+[Shock Nova](https://www.poewiki.net/wiki/Shock_Nova) | 1 | [Shock Nova of Procession (47.0c)](https://poe.ninja/economy/mirage/skill-gems/shock-nova-of-procession-1) | 47.0c
+[Elemental Hit](https://www.poewiki.net/wiki/Elemental_Hit) | 1 | [Elemental Hit of the Spectrum (40.0c)](https://poe.ninja/economy/mirage/skill-gems/elemental-hit-of-the-spectrum-1) | 40.0c
+[Ground Slam](https://www.poewiki.net/wiki/Ground_Slam) | 1 | [Ground Slam of Earthshaking (39.0c)](https://poe.ninja/economy/mirage/skill-gems/ground-slam-of-earthshaking-1) | 39.0c
+[Lacerate](https://www.poewiki.net/wiki/Lacerate) | 2 | [Lacerate of Butchering (30.0c)](https://poe.ninja/economy/mirage/skill-gems/lacerate-of-butchering-1), [Lacerate of Haemorrhage (2.0c)](https://poe.ninja/economy/mirage/skill-gems/lacerate-of-haemorrhage-1) | 30.0c
+[Lancing Steel](https://www.poewiki.net/wiki/Lancing_Steel) | 1 | [Lancing Steel of Spraying (29.0c)](https://poe.ninja/economy/mirage/skill-gems/lancing-steel-of-spraying-1) | 29.0c
+[Frostblink](https://www.poewiki.net/wiki/Frostblink) | 1 | [Frostblink of Wintry Blast (20.0c)](https://poe.ninja/economy/mirage/skill-gems/frostblink-of-wintry-blast-1) | 20.0c
+[Summon Holy Relic](https://www.poewiki.net/wiki/Summon_Holy_Relic) | 1 | [Summon Holy Relic of Conviction (18.2c)](https://poe.ninja/economy/mirage/skill-gems/summon-holy-relic-of-conviction-1) | 18.2c
+[Searing Bond](https://www.poewiki.net/wiki/Searing_Bond) | 1 | [Searing Bond of Detonation (17.6c)](https://poe.ninja/economy/mirage/skill-gems/searing-bond-of-detonation-1) | 17.6c
+[Animate Weapon](https://www.poewiki.net/wiki/Animate_Weapon) | 2 | [Animate Weapon of Ranged Arms (15.0c)](https://poe.ninja/economy/mirage/skill-gems/animate-weapon-of-ranged-arms-1), [Animate Weapon of Self Reflection (1.0c)](https://poe.ninja/economy/mirage/skill-gems/animate-weapon-of-self-reflection-1) | 15.0c
+[Glacial Cascade](https://www.poewiki.net/wiki/Glacial_Cascade) | 1 | [Glacial Cascade of the Fissure (15.0c)](https://poe.ninja/economy/mirage/skill-gems/glacial-cascade-of-the-fissure-1) | 15.0c
 
 <details><summary> All Gems </summary>
 
