@@ -534,7 +534,7 @@ const main = async () => {
 
     const sameGemEv = sameGemPrices[0].ev;
     addLine(
-      `### Transform a non-Transfigured Skill Gem to be a random Transfigured version - ${
+      `### Transform a non-Transfigured Skill Gem to a Transfigured version - ${
         sameGemEv.toFixed(
           1,
         )

@@ -1,6 +1,6 @@
 ## merclab
 
-[Mirage League](https://poe.ninja/economy/mirage/skill-gems), fetched at Mon Mar 09 2026 18:33:02 GMT+1300 (New Zealand Daylight Time)
+[Mirage League](https://poe.ninja/economy/mirage/skill-gems), fetched at Mon Mar 09 2026 18:35:24 GMT+1300 (New Zealand Daylight Time)
 
 The following prices are for gem level < 20 and quality < 20
 
@@ -12,7 +12,7 @@ Colour | Top 3 | EV
 🔴 red | [Ground Slam of Earthshaking (39.0c)](https://poe.ninja/economy/mirage/skill-gems/ground-slam-of-earthshaking-1), [Summon Stone Golem of Safeguarding (4.8c)](https://poe.ninja/economy/mirage/skill-gems/summon-stone-golem-of-safeguarding-1), [Static Strike of Gathering Lightning (4.0c)](https://poe.ninja/economy/mirage/skill-gems/static-strike-of-gathering-lightning-1) | 2.6c
 🔵 blue | [Shock Nova of Procession (47.0c)](https://poe.ninja/economy/mirage/skill-gems/shock-nova-of-procession-1), [Frostblink of Wintry Blast (20.0c)](https://poe.ninja/economy/mirage/skill-gems/frostblink-of-wintry-blast-1), [Summon Holy Relic of Conviction (18.2c)](https://poe.ninja/economy/mirage/skill-gems/summon-holy-relic-of-conviction-1) | 2.6c
 
-### Transform a non-Transfigured Skill Gem to be a random Transfigured version - 47.0c
+### Transform a non-Transfigured Skill Gem to a Transfigured version - 47.0c
 Normal Gem | # | Transfigured Gems | EV
  :- | -: | :- | -: 
 [Shock Nova](https://www.poewiki.net/wiki/Shock_Nova) | 1 | [Shock Nova of Procession (47.0c)](https://poe.ninja/economy/mirage/skill-gems/shock-nova-of-procession-1) | 47.0c
