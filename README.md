@@ -2,64 +2,64 @@
 
 ## merclab
 
-[Allflame League](https://poe.ninja/economy/allflame/skill-gems), fetched at Sun Jul 26 2026 16:54:23 GMT+1200 (New Zealand Standard Time)
+[Allflame League](https://poe.ninja/economy/allflame/skill-gems), fetched at Sun Jul 26 2026 17:24:26 GMT+1200 (New Zealand Standard Time)
 
 The following prices are for gem level < 20 and quality < 20
 
-### Transform a Skill Gem to be a random Transfigured Gem of the same colour - 3.8c
+### Transform a Skill Gem to be a random Transfigured Gem of the same colour - 4.2c
 
 Colour | Top 3 | EV
 :- | :- | -:
-🔴 red | [Exsanguinate of Transmission (30.0c)](https://poe.ninja/economy/allflame/skill-gems/exsanguinate-of-transmission-1), [Summon Stone Golem of Safeguarding (20.0c)](https://poe.ninja/economy/allflame/skill-gems/summon-stone-golem-of-safeguarding-1), [Ground Slam of Earthshaking (17.1c)](https://poe.ninja/economy/allflame/skill-gems/ground-slam-of-earthshaking-1) | 3.8c
-🟢 green | [Detonate Dead of Scavenging (44.0c)](https://poe.ninja/economy/allflame/skill-gems/detonate-dead-of-scavenging-1), [Lancing Steel of Spraying (25.0c)](https://poe.ninja/economy/allflame/skill-gems/lancing-steel-of-spraying-1), [Cremation of the Volcano (10.4c)](https://poe.ninja/economy/allflame/skill-gems/cremation-of-the-volcano-1) | 2.7c
-🔵 blue | [Firestorm of Pelting (30.0c)](https://poe.ninja/economy/allflame/skill-gems/firestorm-of-pelting-1), [Scorching Ray of Immolation (20.0c)](https://poe.ninja/economy/allflame/skill-gems/scorching-ray-of-immolation-1), [Frostblink of Wintry Blast (15.0c)](https://poe.ninja/economy/allflame/skill-gems/frostblink-of-wintry-blast-1) | 2.6c
+🔴 red | [Exsanguinate of Transmission (42.5c)](https://poe.ninja/economy/allflame/skill-gems/exsanguinate-of-transmission-1), [Ground Slam of Earthshaking (20.0c)](https://poe.ninja/economy/allflame/skill-gems/ground-slam-of-earthshaking-1), [Summon Stone Golem of Safeguarding (20.0c)](https://poe.ninja/economy/allflame/skill-gems/summon-stone-golem-of-safeguarding-1) | 4.2c
+🟢 green | [Detonate Dead of Scavenging (42.0c)](https://poe.ninja/economy/allflame/skill-gems/detonate-dead-of-scavenging-1), [Cremation of the Volcano (40.0c)](https://poe.ninja/economy/allflame/skill-gems/cremation-of-the-volcano-1), [Lancing Steel of Spraying (25.0c)](https://poe.ninja/economy/allflame/skill-gems/lancing-steel-of-spraying-1) | 3.1c
+🔵 blue | [Firestorm of Pelting (33.0c)](https://poe.ninja/economy/allflame/skill-gems/firestorm-of-pelting-1), [Flame Surge of Combusting (21.0c)](https://poe.ninja/economy/allflame/skill-gems/flame-surge-of-combusting-1), [Scorching Ray of Immolation (20.0c)](https://poe.ninja/economy/allflame/skill-gems/scorching-ray-of-immolation-1) | 2.8c
 
-### Transform a non-Transfigured Skill Gem to a Transfigured version - 44.0c
+### Transform a non-Transfigured Skill Gem to a Transfigured version - 42.5c
 Normal Gem | # | Transfigured Gems | EV
  :- | -: | :- | -: 
-[Detonate Dead](https://www.poewiki.net/wiki/Detonate_Dead) | 2 | [Detonate Dead of Scavenging (44.0c)](https://poe.ninja/economy/allflame/skill-gems/detonate-dead-of-scavenging-1), [Detonate Dead of Chain Reaction (1.0c)](https://poe.ninja/economy/allflame/skill-gems/detonate-dead-of-chain-reaction-1) | 44.0c
-[Exsanguinate](https://www.poewiki.net/wiki/Exsanguinate) | 1 | [Exsanguinate of Transmission (30.0c)](https://poe.ninja/economy/allflame/skill-gems/exsanguinate-of-transmission-1) | 30.0c
-[Firestorm](https://www.poewiki.net/wiki/Firestorm) | 2 | [Firestorm of Pelting (30.0c)](https://poe.ninja/economy/allflame/skill-gems/firestorm-of-pelting-1), [Firestorm of Meteors (2.0c)](https://poe.ninja/economy/allflame/skill-gems/firestorm-of-meteors-1) | 30.0c
+[Exsanguinate](https://www.poewiki.net/wiki/Exsanguinate) | 1 | [Exsanguinate of Transmission (42.5c)](https://poe.ninja/economy/allflame/skill-gems/exsanguinate-of-transmission-1) | 42.5c
+[Detonate Dead](https://www.poewiki.net/wiki/Detonate_Dead) | 2 | [Detonate Dead of Scavenging (42.0c)](https://poe.ninja/economy/allflame/skill-gems/detonate-dead-of-scavenging-1), [Detonate Dead of Chain Reaction (1.0c)](https://poe.ninja/economy/allflame/skill-gems/detonate-dead-of-chain-reaction-1) | 42.0c
+[Cremation](https://www.poewiki.net/wiki/Cremation) | 2 | [Cremation of the Volcano (40.0c)](https://poe.ninja/economy/allflame/skill-gems/cremation-of-the-volcano-1), [Cremation of Exhuming (1.0c)](https://poe.ninja/economy/allflame/skill-gems/cremation-of-exhuming-1) | 40.0c
+[Firestorm](https://www.poewiki.net/wiki/Firestorm) | 2 | [Firestorm of Pelting (33.0c)](https://poe.ninja/economy/allflame/skill-gems/firestorm-of-pelting-1), [Firestorm of Meteors (2.0c)](https://poe.ninja/economy/allflame/skill-gems/firestorm-of-meteors-1) | 33.0c
 [Lancing Steel](https://www.poewiki.net/wiki/Lancing_Steel) | 1 | [Lancing Steel of Spraying (25.0c)](https://poe.ninja/economy/allflame/skill-gems/lancing-steel-of-spraying-1) | 25.0c
+[Flame Surge](https://www.poewiki.net/wiki/Flame_Surge) | 1 | [Flame Surge of Combusting (21.0c)](https://poe.ninja/economy/allflame/skill-gems/flame-surge-of-combusting-1) | 21.0c
+[Ground Slam](https://www.poewiki.net/wiki/Ground_Slam) | 1 | [Ground Slam of Earthshaking (20.0c)](https://poe.ninja/economy/allflame/skill-gems/ground-slam-of-earthshaking-1) | 20.0c
 [Summon Stone Golem](https://www.poewiki.net/wiki/Summon_Stone_Golem) | 2 | [Summon Stone Golem of Safeguarding (20.0c)](https://poe.ninja/economy/allflame/skill-gems/summon-stone-golem-of-safeguarding-1), [Summon Stone Golem of Hordes (1.0c)](https://poe.ninja/economy/allflame/skill-gems/summon-stone-golem-of-hordes-1) | 20.0c
 [Scorching Ray](https://www.poewiki.net/wiki/Scorching_Ray) | 1 | [Scorching Ray of Immolation (20.0c)](https://poe.ninja/economy/allflame/skill-gems/scorching-ray-of-immolation-1) | 20.0c
-[Ground Slam](https://www.poewiki.net/wiki/Ground_Slam) | 1 | [Ground Slam of Earthshaking (17.1c)](https://poe.ninja/economy/allflame/skill-gems/ground-slam-of-earthshaking-1) | 17.1c
-[Perforate](https://www.poewiki.net/wiki/Perforate) | 2 | [Perforate of Bloodshed (15.0c)](https://poe.ninja/economy/allflame/skill-gems/perforate-of-bloodshed-1), [Perforate of Duality (2.0c)](https://poe.ninja/economy/allflame/skill-gems/perforate-of-duality-1) | 15.0c
-[Frostblink](https://www.poewiki.net/wiki/Frostblink) | 1 | [Frostblink of Wintry Blast (15.0c)](https://poe.ninja/economy/allflame/skill-gems/frostblink-of-wintry-blast-1) | 15.0c
-[Cremation](https://www.poewiki.net/wiki/Cremation) | 2 | [Cremation of the Volcano (10.4c)](https://poe.ninja/economy/allflame/skill-gems/cremation-of-the-volcano-1), [Cremation of Exhuming (1.0c)](https://poe.ninja/economy/allflame/skill-gems/cremation-of-exhuming-1) | 10.4c
+[Frostblink](https://www.poewiki.net/wiki/Frostblink) | 1 | [Frostblink of Wintry Blast (16.0c)](https://poe.ninja/economy/allflame/skill-gems/frostblink-of-wintry-blast-1) | 16.0c
 
 <details><summary> All Gems </summary>
 
 ```
-- 44.0 Detonate Dead (2, Detonate Dead of Scavenging, Detonate Dead of Chain Reaction)
-- 30.0 Exsanguinate (1, Exsanguinate of Transmission)
-- 30.0 Firestorm (2, Firestorm of Pelting, Firestorm of Meteors)
+- 42.5 Exsanguinate (1, Exsanguinate of Transmission)
+- 42.0 Detonate Dead (2, Detonate Dead of Scavenging, Detonate Dead of Chain Reaction)
+- 40.0 Cremation (2, Cremation of the Volcano, Cremation of Exhuming)
+- 33.0 Firestorm (2, Firestorm of Pelting, Firestorm of Meteors)
 - 25.0 Lancing Steel (1, Lancing Steel of Spraying)
+- 21.0 Flame Surge (1, Flame Surge of Combusting)
+- 20.0 Ground Slam (1, Ground Slam of Earthshaking)
 - 20.0 Summon Stone Golem (2, Summon Stone Golem of Safeguarding, Summon Stone Golem of Hordes)
 - 20.0 Scorching Ray (1, Scorching Ray of Immolation)
-- 17.1 Ground Slam (1, Ground Slam of Earthshaking)
+- 16.0 Frostblink (1, Frostblink of Wintry Blast)
 - 15.0 Perforate (2, Perforate of Bloodshed, Perforate of Duality)
-- 15.0 Frostblink (1, Frostblink of Wintry Blast)
-- 10.4 Cremation (2, Cremation of the Volcano, Cremation of Exhuming)
 - 10.0 Cyclone (1, Cyclone of Tumult)
 - 10.0 Poisonous Concoction (1, Poisonous Concoction of Bouncing)
 - 10.0 Bane (1, Bane of Condemnation)
 - 10.0 Blight (2, Blight of Contagion, Blight of Atrophy)
-- 10.0 Flame Surge (1, Flame Surge of Combusting)
 - 10.0 Summon Carrion Golem (2, Summon Carrion Golem of Hordes, Summon Carrion Golem of Scavenging)
 - 9.0 Reap (1, Reap of Butchery)
 - 9.0 Elemental Hit (1, Elemental Hit of the Spectrum)
 - 8.0 Boneshatter (2, Boneshatter of Complex Trauma, Boneshatter of Carnage)
 - 8.0 Righteous Fire (1, Righteous Fire of Arcane Devotion)
 - 8.0 Storm Burst (1, Storm Burst of Repulsion)
+- 7.0 Animate Weapon (2, Animate Weapon of Ranged Arms, Animate Weapon of Self Reflection)
 - 7.0 Ethereal Knives (2, Ethereal Knives of the Massacre, Ethereal Knives of Lingering Blades)
 - 7.0 Creeping Frost (1, Creeping Frost of Floes)
-- 6.0 Animate Weapon (2, Animate Weapon of Ranged Arms, Animate Weapon of Self Reflection)
 - 5.0 Static Strike (1, Static Strike of Gathering Lightning)
-- 5.0 Searing Bond (1, Searing Bond of Detonation)
 - 4.0 Chain Hook (1, Chain Hook of Angling)
 - 4.0 Toxic Rain (2, Toxic Rain of Withering, Toxic Rain of Sporeburst)
 - 4.0 Glacial Cascade (1, Glacial Cascade of the Fissure)
+- 4.0 Searing Bond (1, Searing Bond of Detonation)
 - 4.0 Summon Holy Relic (1, Summon Holy Relic of Conviction)
 - 3.0 Animate Guardian (1, Animate Guardian of Smiting)
 - 3.0 Lacerate (2, Lacerate of Haemorrhage, Lacerate of Butchering)
@@ -93,10 +93,11 @@ Normal Gem | # | Transfigured Gems | EV
 - 2.0 Summon Reaper (2, Summon Reaper of Revenants, Summon Reaper of Eviscerating)
 - 2.0 Summon Skeletons (2, Summon Skeletons of Mages, Summon Skeletons of Archers)
 - 2.0 Void Sphere (1, Void Sphere of Rending)
-- 1.8 Consecrated Path (1, Consecrated Path of Endurance)
+- 1.4 Rage Vortex (1, Rage Vortex of Berserking)
 - 1.0 Absolution (1, Absolution of Inspiring)
 - 1.0 Bladestorm (1, Bladestorm of Uncertainty)
 - 1.0 Cleave (1, Cleave of Rage)
+- 1.0 Consecrated Path (1, Consecrated Path of Endurance)
 - 1.0 Dominating Blow (1, Dominating Blow of Inspiring)
 - 1.0 Earthquake (1, Earthquake of Amplification)
 - 1.0 Earthshatter (2, Earthshatter of Prominence, Earthshatter of Fragility)
@@ -107,7 +108,6 @@ Normal Gem | # | Transfigured Gems | EV
 - 1.0 Ice Crash (1, Ice Crash of Cadence)
 - 1.0 Infernal Blow (1, Infernal Blow of Immolation)
 - 1.0 Molten Strike (1, Molten Strike of the Zenith)
-- 1.0 Rage Vortex (1, Rage Vortex of Berserking)
 - 1.0 Shield Crush (1, Shield Crush of the Chieftain)
 - 1.0 Shockwave Totem (1, Shockwave Totem of Authority)
 - 1.0 Sunder (1, Sunder of Earthbreaking)
@@ -189,23 +189,23 @@ Normal Gem | # | Transfigured Gems | EV
 
 </details>
 
-### Exchange a Support Gem for a random Exceptional Gem - 69.7c
+### Exchange a Support Gem for a random Exceptional Gem - 71.0c
 
 Exceptional Gem | Price
  :- | -: 
-[Enlighten Support](https://poe.ninja/economy/allflame/skill-gems/enlighten-support-1) | 170.0c
-[Empower Support](https://poe.ninja/economy/allflame/skill-gems/empower-support-1) | 30.0c
-[Enhance Support](https://poe.ninja/economy/allflame/skill-gems/enhance-support-1) | 9.0c
-Average | 69.7c
+[Enlighten Support](https://poe.ninja/economy/allflame/skill-gems/enlighten-support-1) | 169.9c
+[Empower Support](https://poe.ninja/economy/allflame/skill-gems/empower-support-1) | 35.0c
+[Enhance Support](https://poe.ninja/economy/allflame/skill-gems/enhance-support-1) | 8.0c
+Average | 71.0c
 
-### Expected Value per Lab: 7.9c
+### Expected Value per Lab: 8.2c
 
 Divine Font | EV | Appearance Rate
  :- | -: | -: 
-Transform a Skill Gem to be a random Transfigured Gem of the same colour | 3.8c | 100.0%
-Transform a non-Transfigured Skill Gem to be a random Transfigured version | 44.0c | 6.0%
-Exchange a Support Gem for a random Exceptional Gem | 69.7c | 2.5%
-Average | 7.9c | -
+Transform a Skill Gem to be a random Transfigured Gem of the same colour | 4.2c | 100.0%
+Transform a non-Transfigured Skill Gem to be a random Transfigured version | 42.5c | 6.0%
+Exchange a Support Gem for a random Exceptional Gem | 71.0c | 2.5%
+Average | 8.2c | -
 ## Heist
 
 [Reddit post](https://www.reddit.com/r/pathofexile/comments/t9l76f/big_guide_to_heist_how_i_made_a_mirror_in_a_week/)
