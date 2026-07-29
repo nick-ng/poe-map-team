@@ -309,7 +309,14 @@ const saveLines = async () => {
 
 const getLeague = async () => {
   const res = await fetch("https://poe.ninja/poe1/api/data/index-state");
-  let resJson = await res.json();
+  let resText = await res.text();
+  let resJson = {};
+  try {
+    resJson = JSON.parse(resText);
+  } catch (e) {
+    console.error(resText);
+    console.error("error parsing response", err);
+  }
   const temp = resJson.economyLeagues.filter((l) => {
     const leagueName = l.name.toLowerCase();
     if (leagueName === "standard") {
@@ -352,14 +359,27 @@ const getLeague = async () => {
 };
 
 const getGems = async (leagueName) => {
+  // https://poe.ninja/poe1/api/economy/stash/current/item/overview?league=Allflame&type=SkillGem
   const url = [
     POE_NINJA_URL,
+    "poe1",
     "api",
-    "data",
-    `itemoverview?league=${leagueName}&type=SkillGem`,
+    "economy",
+    "stash",
+    "current",
+    "item",
+    `overview?league=${leagueName}&type=SkillGem`,
   ].join("/");
   const res = await fetch(url);
-  const resJson = await res.json();
+  const resText = await res.text();
+  let resJson = {};
+  try {
+    resJson = JSON.parse(resText);
+  } catch (e) {
+    console.log("url", url);
+    console.error("response", resText);
+    console.error("error parsing response", e);
+  }
 
   return resJson.lines.map((gem) => {
     // if (gem.name.toLowerCase() === "wall of force") {
