@@ -25,6 +25,7 @@ const SKILL_GEMS = [
   { colour: "blue", name: "Convocation" },
   { colour: "blue", name: "Crackling Lance" },
   { colour: "blue", name: "Creeping Frost" },
+  { colour: "blue", name: "Dark Bargain" },
   { colour: "blue", name: "Dark Pact" },
   { colour: "blue", name: "Despair" },
   { colour: "blue", name: "Destructive Link" },
@@ -73,6 +74,7 @@ const SKILL_GEMS = [
   { colour: "blue", name: "Lightning Trap" },
   { colour: "blue", name: "Lightning Warp" },
   { colour: "blue", name: "Malevolence" },
+  { colour: "blue", name: "Mana-Infused Staff" },
   { colour: "blue", name: "Manabond" },
   { colour: "blue", name: "Orb of Storms" },
   { colour: "blue", name: "Penance Brand" },
@@ -289,6 +291,10 @@ const SKILL_GEMS = [
   { colour: "red", name: "Warlord's Mark" },
   { colour: "white", name: "Detonate Mines" },
   { colour: "white", name: "Portal" },
+  { colour: "zzz", name: "Pact of Beidat" },
+  { colour: "zzz", name: "Pact of Ghorr" },
+  { colour: "zzz", name: "Pact of K'Tash" },
+  { colour: "zzz", name: "Pact of Lycia" },
 ];
 const EXCEPTIONAL_SUPPORTS = ["Enhance", "Enlighten", "Empower"];
 const COLOUR_EMOJIS = {
@@ -446,7 +452,9 @@ const main = async () => {
       .filter((g) => !g.processed)
       .slice(0, 20)
       .forEach((gn) => {
-        console.warn(`{ colour: "", name: "${gn.normalGem}" },`);
+        console.warn(
+          `{ colour: "", name: "${gn.normalGem}" }, (${JSON.stringify(gn)})`,
+        );
       });
 
     const sameColourPrices = { red: [], green: [], blue: [], white: [] };
