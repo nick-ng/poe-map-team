@@ -510,7 +510,9 @@ const main = async () => {
         randomSameColour.push({
           colour,
           ev,
-          top3: sameColourPrices[colour].slice(0, 3),
+          top5: sameColourPrices[colour].sort((a, b) =>
+            b.chaosValue - a.chaosValue
+          ).slice(0, 5),
           top3Value,
           top3Chance,
           top3EV,
@@ -528,10 +530,10 @@ const main = async () => {
       }c`,
     );
     addLine("");
-    addLine("Colour | Top 3 | EV");
+    addLine("Colour | Top 5 | EV");
     addLine(":- | :- | -:");
     randomSameColour.forEach((a) => {
-      const gemLinks = a.top3
+      const gemLinks = a.top5
         .map(
           (g) =>
             `[${g.name} (${g.chaosValue.toFixed(1)}c)](${
